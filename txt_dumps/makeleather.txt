@@ -1,0 +1,8 @@
+SOUND 2266	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1249
+PLAYER 'Elon R Musk'	 animation: 1249
+PLAYER 'Elon R Musk'	 animation: 1249
+PLAYER 'Elon R Musk'	 animation: 1249
+PLAYER 'Elon R Musk'	 animation: 1249
+PLAYER 'Elon R Musk'	 animation: 1249
+PLAYER 'Elon R Musk'	 animation: 1249

@@ -1,0 +1,216 @@
+SOUND 250	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 19, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 250	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 1
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605, gfx: 758
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605, gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6848, y: 6720
+SOUND 258	 delay: 0
+SOUND 250	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610, gfx: 758
+NPC 'TzHaar-Ket (7679)'	animation: 2610, gfx: 758
+NPC 'TzHaar-Ket (7679)'	gfx: 758
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605, gfx: 758
+SOUND 250	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 2676	 delay: 0
+SOUND 250	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 250	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 250	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 6848, y: 6720
+SOUND 258	 delay: 0
+SOUND 250	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605
+SOUND 250	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 250	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 1
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610, gfx: 758
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610, gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	gfx: 758
+NPC 'TzHaar-Ket (7679)'	gfx: 758
+SOUND 250	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610, gfx: 758
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 1
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610, gfx: 758
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	gfx: 758
+SOUND 250	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610, gfx: 758
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610, gfx: 758
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605, gfx: 758
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 6848, y: 6720
+SOUND 258	 delay: 0
+SOUND 250	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605
+SOUND 250	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 250	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 250	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 250	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PLAYER 'ex rs'	 animation: 1156
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 6848, y: 6720
+SOUND 258	 delay: 0
+SOUND 250	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 250	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6848, y: 6720
+SOUND 258	 delay: 0
+SOUND 250	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2605
+SOUND 250	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 20, x: 6848, y: 6720
+SOUND 258	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'TzHaar-Ket (7679)'	animation: 2610
+SOUND 256	 delay: 0

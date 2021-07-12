@@ -1,0 +1,39 @@
+SOUND 2706	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 7617, gfx: 43
+NPC 'Goblin (3075)'	animation: 6189
+PLAYER 'IInsomniatik'	 animation: 7617, gfx: 43
+NPC 'Goblin (3075)'	animation: 6189
+PROJECTILE 36	startHeight: 11, endHeight: 144, slope: 15, duration: 24, x: 5440, y: 8128
+SOUND 472	 delay: 0
+NPC 'Goblin (3075)'	animation: 6189
+NPC 'Goblin (3075)'	animation: 6189
+SOUND 2706	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 7617, gfx: 43
+NPC 'Goblin (3075)'	animation: 6189
+SOUND 3520	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 7617, gfx: 43
+NPC 'Goblin (3075)'	animation: 6188
+PROJECTILE 36	startHeight: 11, endHeight: 144, slope: 15, duration: 8, x: 5184, y: 8128
+SOUND 472	 delay: 0
+NPC 'Goblin (3075)'	animation: 6188
+NPC 'Goblin (3075)'	animation: 6188
+SOUND 2706	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 7617, gfx: 43
+NPC 'Goblin (3075)'	animation: 6189
+PLAYER 'IInsomniatik'	 animation: 7617, gfx: 43
+NPC 'Goblin (3075)'	animation: 6189
+SOUND 472	 delay: 0
+NPC 'Goblin (3075)'	animation: 6189
+SOUND 3520	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Goblin (3075)'	animation: 6188
+SOUND 2706	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 7617, gfx: 43
+NPC 'Goblin (3075)'	animation: 6188
+PLAYER 'IInsomniatik'	 animation: 7617, gfx: 43
+NPC 'Goblin (3075)'	animation: 6188
+PROJECTILE 36	startHeight: 11, endHeight: 144, slope: 15, duration: 6, x: 5184, y: 8128
+SOUND 472	 delay: 0
+SOUND 471	 delay: 0

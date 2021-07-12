@@ -1,0 +1,13 @@
+SOUND 1352	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Arianwyn (9248)'	animation: 426
+SOUND 1345	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Arianwyn (9248)'	animation: 426
+PROJECTILE 249	startHeight: 11, endHeight: 160, slope: 15, duration: 29, x: 5696, y: 8640
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 836
+PLAYER 'ex rs'	 animation: 836
+PLAYER 'ex rs'	 animation: 836
+PLAYER 'ex rs'	 animation: 836

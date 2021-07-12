@@ -1,0 +1,7 @@
+SOUND 61	 delay: 0
+SOUND 61	 delay: 0
+SOUND 61	 delay: 0
+SOUND 61	 delay: 0
+SOUND 61	 delay: 0
+
+The door seems to be stuck.

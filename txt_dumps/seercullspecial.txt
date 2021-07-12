@@ -1,0 +1,33 @@
+SOUND 718	 delay: 0
+SOUND 520	 delay: 20
+SOUND 2693	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 426, gfx: 24
+NPC 'King Sand Crab (7266)'	animation: 1313
+PLAYER 'Elon R Musk'	 animation: 426, gfx: 24
+NPC 'King Sand Crab (7266)'	animation: 1313
+PROJECTILE 15	startHeight: 11, endHeight: 144, slope: 15, duration: 24, x: 6848, y: 3008
+SOUND 720	 delay: 0
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 718	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2546	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 426, gfx: 472
+NPC 'King Sand Crab (7266)'	animation: 1313, gfx: 474
+PLAYER 'Elon R Musk'	 animation: 426, gfx: 472
+NPC 'King Sand Crab (7266)'	animation: 1313, gfx: 474
+PROJECTILE 473	startHeight: 11, endHeight: 144, slope: 15, duration: 20, x: 6848, y: 3008
+SOUND 720	 delay: 0
+NPC 'King Sand Crab (7266)'	animation: 1313, gfx: 474
+NPC 'King Sand Crab (7266)'	gfx: 474
+SOUND 718	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 424
+NPC 'King Sand Crab (7266)'	animation: 1312, gfx: 474
+SOUND 2693	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 426, gfx: 24
+NPC 'King Sand Crab (7266)'	animation: 1313, gfx: 474
+PLAYER 'Elon R Musk'	 animation: 426, gfx: 24
+NPC 'King Sand Crab (7266)'	animation: 1313, gfx: 474
+PROJECTILE 15	startHeight: 11, endHeight: 144, slope: 15, duration: 18, x: 6848, y: 3008
+SOUND 720	 delay: 0
+NPC 'King Sand Crab (7266)'	animation: 1313, gfx: 474

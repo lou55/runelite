@@ -1,0 +1,3 @@
+SOUND 1678	 delay: 0
+SOUND 1384	 delay: 0
+SOUND 521	 delay: 20

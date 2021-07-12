@@ -1,0 +1,767 @@
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 38, x: 6080, y: 7488
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 95
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 36, x: 6080, y: 7488
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 1519	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 38, x: 6080, y: 7488
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+AREA_SOUND 163	 delay: 0, range: 12, sceneX: 47, sceneY: 58
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 95
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 38, x: 6464, y: 7488
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 408	 delay: 10
+SOUND 222	 delay: 20
+SOUND 223	 delay: 95
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 38, x: 6464, y: 7488
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 736	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 36, x: 6464, y: 7488
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 44, sceneY: 55
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 47, sceneY: 55
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 44, sceneY: 54
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 43, sceneY: 56
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 43, sceneY: 58
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 44, sceneY: 58
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 43, sceneY: 61
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 46, sceneY: 61
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 47, sceneY: 61
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 44, sceneY: 64
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 53, sceneY: 54
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 51, sceneY: 56
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 54, sceneY: 57
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 49, sceneY: 60
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 51, sceneY: 60
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 54, sceneY: 59
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 52, sceneY: 63
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 54, sceneY: 61
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 50, sceneY: 58
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 52, sceneY: 64
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 49, sceneY: 58
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 48, sceneY: 58
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 47, sceneY: 58
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 46, sceneY: 58
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 45, sceneY: 58
+SOUND 3749	 delay: 2
+SOUND 520	 delay: 20
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 44, sceneY: 58
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 43, sceneY: 59
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 59
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 60
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 61
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 62
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 63
+SOUND 3749	 delay: 2
+SOUND 520	 delay: 20
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 64
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 65
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 66
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 67
+SOUND 3749	 delay: 2
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 67
+SOUND 3749	 delay: 2
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 66
+SOUND 3749	 delay: 2
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 65
+SOUND 2393	 delay: 0
+SOUND 3749	 delay: 2
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 64
+SOUND 3749	 delay: 2
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 63
+SOUND 3749	 delay: 2
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 62
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 61
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 60
+SOUND 2401	 delay: 0
+SOUND 3749	 delay: 2
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 59
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 587	 delay: 0
+SOUND 3750	 delay: 15
+SOUND 129	 delay: 105
+PLAYER 'ex rs'	 animation: 1156, gfx: 1472
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 1472
+PLAYER 'ex rs'	 animation: 829, gfx: 1472
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 1472
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 1472
+SOUND 408	 delay: 10
+SOUND 222	 delay: 20
+SOUND 223	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+SOUND 2401	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 1480
+PLAYER 'ex rs'	 animation: 829, gfx: 1480
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6208, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 284	 delay: 0
+SOUND 3750	 delay: 15
+SOUND 135	 delay: 100
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6208, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2266	 delay: 0
+SOUND 1982	 delay: 0
+SOUND 2675	 delay: 0
+SOUND 2685	 delay: 0
+SOUND 1519	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 40, x: 6208, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+AREA_SOUND 163	 delay: 0, range: 12, sceneX: 48, sceneY: 57
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1477	startHeight: 128, endHeight: 124, slope: 14, duration: 71, x: 6080, y: 8128
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 5952, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 518	 delay: 20
+SOUND 586	 delay: 0
+SOUND 3750	 delay: 15
+SOUND 168	 delay: 100
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 40, x: 5952, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 1784	 delay: 28
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 154	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 43, x: 5952, y: 7360
+AREA_SOUND 232	 delay: 0, range: 15, sceneX: 54, sceneY: 55
+SOUND 154	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Zombified Spawn (8063)'	animation: 7889
+SOUND 154	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Zombified Spawn (8063)'	animation: 7889
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 43, x: 5952, y: 7360
+SOUND 154	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Zombified Spawn (8063)'	animation: 7889
+SOUND 231	 delay: 0
+SOUND 154	 delay: 0
+SOUND 232	 delay: 0
+SOUND 208	 delay: 22
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Zombified Spawn (8063)'	animation: 7890
+GFX 1460	level: 0, start_cycle: 1222129, x: 6080, y: 7360
+SOUND 408	 delay: 10
+SOUND 222	 delay: 20
+SOUND 223	 delay: 100
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+PLAYER 'ex rs'	 gfx: 1480
+SOUND 2961	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5952, y: 7360
+SOUND 284	 delay: 0
+SOUND 3750	 delay: 15
+SOUND 135	 delay: 100
+PLAYER 'ex rs'	 animation: 7552, gfx: 1473
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 gfx: 1473
+PLAYER 'ex rs'	 gfx: 1473
+SOUND 2959	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+SOUND 2266	 delay: 0
+SOUND 1982	 delay: 0
+SOUND 2675	 delay: 0
+SOUND 2685	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5952, y: 7360
+SOUND 587	 delay: 0
+SOUND 3750	 delay: 15
+SOUND 129	 delay: 100
+PLAYER 'ex rs'	 animation: 7552, gfx: 1472
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 gfx: 1472
+PLAYER 'ex rs'	 gfx: 1472
+SOUND 2959	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5952, y: 7360
+SOUND 408	 delay: 10
+SOUND 222	 delay: 20
+SOUND 223	 delay: 100
+PLAYER 'ex rs'	 animation: 7552, gfx: 1480
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 gfx: 1480
+PLAYER 'ex rs'	 gfx: 1480
+SOUND 2959	 delay: 20
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 2
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948, gfx: 758
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948, gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 5952, y: 7360
+SOUND 1519	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	gfx: 758
+SOUND 410	 delay: 0
+NPC 'Vorkath (8061)'	gfx: 758
+NPC 'Vorkath (8061)'	gfx: 758
+AREA_SOUND 163	 delay: 0, range: 12, sceneX: 46, sceneY: 57
+SOUND 587	 delay: 0
+SOUND 3750	 delay: 15
+SOUND 129	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1472
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1470	startHeight: 128, endHeight: 124, slope: 14, duration: 71, x: 6208, y: 8128
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6336, y: 7360
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 736	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6336, y: 7360
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 42, sceneY: 55
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 42, sceneY: 54
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 45, sceneY: 56
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 47, sceneY: 57
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 43, sceneY: 60
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 46, sceneY: 60
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 42, sceneY: 63
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 45, sceneY: 61
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 53, sceneY: 54
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 52, sceneY: 57
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 49, sceneY: 60
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 51, sceneY: 59
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 49, sceneY: 61
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 52, sceneY: 63
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 49, sceneY: 57
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 48, sceneY: 57
+SOUND 3749	 delay: 2
+SOUND 518	 delay: 20
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 47, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 46, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 45, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 44, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 43, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 43, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 44, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 45, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 46, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 45, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 44, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 43, sceneY: 57
+SOUND 2393	 delay: 0
+SOUND 3749	 delay: 2
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 57
+SOUND 3749	 delay: 2
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 57
+SOUND 3749	 delay: 2
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 40, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 41, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 42, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 43, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 44, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 45, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 46, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 45, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 44, sceneY: 57
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5440, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 1519	 delay: 20
+SOUND 4195	 delay: 0
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5440, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+AREA_SOUND 163	 delay: 0, range: 12, sceneX: 42, sceneY: 57
+SOUND 410	 delay: 0
+SOUND 1519	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 5696, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+AREA_SOUND 163	 delay: 0, range: 12, sceneX: 44, sceneY: 57
+SOUND 410	 delay: 0
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+PROJECTILE 1477	startHeight: 128, endHeight: 124, slope: 14, duration: 72, x: 6080, y: 8128
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5952, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 2401	 delay: 0
+SOUND 410	 delay: 0
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+PROJECTILE 1477	startHeight: 128, endHeight: 124, slope: 14, duration: 72, x: 6080, y: 8128
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+SOUND 521	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6080, y: 7360
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+PLAYER 'ex rs'	 animation: 7552, gfx: 1478
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 gfx: 1478
+PLAYER 'ex rs'	 gfx: 1478
+SOUND 2961	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 6080, y: 7360
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+PLAYER 'ex rs'	 animation: 7552, gfx: 1478
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 gfx: 1478
+PLAYER 'ex rs'	 gfx: 1478
+SOUND 519	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 40, x: 6080, y: 7360
+SOUND 586	 delay: 0
+SOUND 3750	 delay: 15
+SOUND 168	 delay: 100
+SOUND 2607	 delay: 0
+PLAYER 'ex rs'	 animation: 7552, gfx: 369
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 gfx: 369
+PLAYER 'ex rs'	 gfx: 369
+AREA_SOUND 163	 delay: 71, range: 10, sceneX: 45, sceneY: 62
+SOUND 1784	 delay: 28
+SOUND 154	 delay: 0
+SOUND 1080	 delay: 0
+PLAYER 'ex rs'	 animation: 4230
+NPC 'Vorkath (8061)'	gfx: 157
+SOUND 154	 delay: 0
+PLAYER 'ex rs'	 animation: 4230
+NPC 'Vorkath (8061)'	gfx: 157
+PROJECTILE 698	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6080, y: 7360
+SOUND 154	 delay: 0
+PLAYER 'ex rs'	 animation: 4230
+NPC 'Vorkath (8061)'	gfx: 157
+SOUND 410	 delay: 0
+SOUND 154	 delay: 0
+NPC 'Vorkath (8061)'	gfx: 157
+AREA_SOUND 232	 delay: 0, range: 15, sceneX: 55, sceneY: 59
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+SOUND 154	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6080, y: 7360
+SOUND 154	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 154	 delay: 0
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 154	 delay: 0
+SOUND 232	 delay: 0
+SOUND 208	 delay: 22
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Zombified Spawn (8063)'	animation: 7890
+GFX 1460	level: 0, start_cycle: 1225370, x: 6208, y: 7360
+SOUND 587	 delay: 0
+SOUND 3750	 delay: 15
+SOUND 129	 delay: 100
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1472
+PLAYER 'ex rs'	 animation: 1156, gfx: 1472
+PROJECTILE 1470	startHeight: 128, endHeight: 124, slope: 14, duration: 72, x: 6208, y: 8128
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 1472
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 1472
+PLAYER 'ex rs'	 animation: 829, gfx: 1472
+SOUND 2393	 delay: 0
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6080, y: 7360
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 1519	 delay: 20
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 163	 delay: 0, range: 12, sceneX: 47, sceneY: 57
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5696, y: 7360
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 587	 delay: 0
+SOUND 3750	 delay: 15
+SOUND 129	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1472
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1470	startHeight: 128, endHeight: 124, slope: 14, duration: 72, x: 5952, y: 8128
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5696, y: 7360
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 284	 delay: 0
+SOUND 3750	 delay: 15
+SOUND 135	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1473
+PLAYER 'ex rs'	 animation: 1156, gfx: 1473
+PLAYER 'ex rs'	 animation: 1156, gfx: 1473
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1473
+SOUND 2266	 delay: 0
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+SOUND 1982	 delay: 0
+SOUND 2675	 delay: 0
+SOUND 2685	 delay: 0
+SOUND 736	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 37, x: 5952, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 42, sceneY: 54
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 42, sceneY: 56
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 46, sceneY: 56
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 43, sceneY: 58
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 44, sceneY: 60
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 41, sceneY: 62
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 44, sceneY: 62
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 47, sceneY: 61
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 46, sceneY: 57
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 52, sceneY: 55
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 52, sceneY: 54
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 49, sceneY: 56
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 49, sceneY: 58
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 52, sceneY: 59
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 51, sceneY: 61
+AREA_SOUND 3308	 delay: 0, range: 5, sceneX: 53, sceneY: 61
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 47, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 48, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 49, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 50, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 51, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 52, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 53, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 54, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 53, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 52, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 51, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 50, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 49, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 48, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 47, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 48, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 49, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 50, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 51, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 52, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 53, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 52, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 51, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 50, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 49, sceneY: 57
+SOUND 3749	 delay: 2
+AREA_SOUND 158	 delay: 0, range: 12, sceneX: 48, sceneY: 57
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+SOUND 3120	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 6208, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948
+SOUND 410	 delay: 0
+SOUND 408	 delay: 10
+SOUND 222	 delay: 20
+SOUND 223	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6208, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 2
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948, gfx: 758
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948, gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6208, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	animation: 7948, gfx: 758
+SOUND 410	 delay: 0
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+NPC 'Vorkath (8061)'	gfx: 758
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+NPC 'Vorkath (8061)'	gfx: 758
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vorkath (8061)'	gfx: 758
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 6208, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 408	 delay: 10
+SOUND 222	 delay: 20
+SOUND 223	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 2960	 delay: 20
+SOUND 2607	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 40, x: 6208, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 408	 delay: 10
+SOUND 222	 delay: 20
+SOUND 223	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+PLAYER 'ex rs'	 animation: 1156, gfx: 1480
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6208, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+SOUND 410	 delay: 0
+SOUND 408	 delay: 10
+SOUND 1965	 delay: 20
+SOUND 3403	 delay: 100
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+SOUND 1523	 delay: 0
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+PLAYER 'ex rs'	 animation: 1156, gfx: 1478
+PLAYER 'ex rs'	 animation: 1156

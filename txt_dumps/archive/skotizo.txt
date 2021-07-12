@@ -1,0 +1,363 @@
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 47, sceneY: 56
+AREA_SOUND 3007	 delay: 60, range: 10, sceneX: 50, sceneY: 55
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 69
+PLAYER 'ex rs'	 gfx: 1243
+NPC 'Skotizo (7286)'	animation: 69
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+SOUND 400	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4680
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 400	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 225	 delay: 0
+PLAYER 'ex rs'	 animation: 2890, gfx: 483
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 2890, gfx: 483
+PLAYER 'ex rs'	 animation: 2890, gfx: 483
+PLAYER 'ex rs'	 animation: 2890, gfx: 483
+SOUND 225	 delay: 0
+PLAYER 'ex rs'	 animation: 2890, gfx: 483
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 2890, gfx: 483
+NPC 'Skotizo (7286)'	animation: 4676
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 47, sceneY: 56
+AREA_SOUND 3007	 delay: 60, range: 10, sceneX: 50, sceneY: 55
+PLAYER 'ex rs'	 animation: 2890, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 69
+PLAYER 'ex rs'	 animation: 2890, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 69
+SOUND 2961	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+NPC 'Skotizo (7286)'	animation: 4676
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 47, sceneY: 56
+AREA_SOUND 3007	 delay: 60, range: 10, sceneX: 50, sceneY: 55
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 47, sceneY: 56
+AREA_SOUND 3007	 delay: 60, range: 10, sceneX: 50, sceneY: 55
+PLAYER 'ex rs'	 gfx: 1243
+NPC 'Skotizo (7286)'	animation: 69
+PLAYER 'ex rs'	 gfx: 1243
+NPC 'Skotizo (7286)'	animation: 69
+SOUND 521	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 400	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 400	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 3007	 delay: 150, range: 10, sceneX: 31, sceneY: 56
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+AREA_SOUND 3007	 delay: 110, range: 10, sceneX: 35, sceneY: 60
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 43, sceneY: 56
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PROJECTILE 1242	startHeight: 226, endHeight: 124, slope: 16, duration: 82, x: 5568, y: 7488
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+AREA_SOUND 3007	 delay: 180, range: 10, sceneX: 46, sceneY: 71
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+AREA_SOUND 3007	 delay: 180, range: 10, sceneX: 52, sceneY: 71
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PROJECTILE 1242	startHeight: 226, endHeight: 124, slope: 16, duration: 153, x: 5952, y: 7616
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+AREA_SOUND 3007	 delay: 190, range: 10, sceneX: 60, sceneY: 63
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+AREA_SOUND 3007	 delay: 190, range: 10, sceneX: 65, sceneY: 56
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+AREA_SOUND 2412	 delay: 10, range: 5, sceneX: 66, sceneY: 56
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 49, sceneY: 56
+AREA_SOUND 3007	 delay: 130, range: 10, sceneX: 59, sceneY: 53
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PROJECTILE 1242	startHeight: 226, endHeight: 124, slope: 16, duration: 102, x: 6848, y: 7488
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2393	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+AREA_SOUND 3007	 delay: 150, range: 10, sceneX: 52, sceneY: 43
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PROJECTILE 1242	startHeight: 226, endHeight: 124, slope: 16, duration: 121, x: 6720, y: 7104
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+AREA_SOUND 2412	 delay: 10, range: 5, sceneX: 48, sceneY: 39
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+AREA_SOUND 3007	 delay: 140, range: 10, sceneX: 44, sceneY: 41
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 49, sceneY: 52
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+AREA_SOUND 3007	 delay: 150, range: 10, sceneX: 32, sceneY: 50
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+AREA_SOUND 3007	 delay: 130, range: 10, sceneX: 33, sceneY: 56
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+AREA_SOUND 2412	 delay: 10, range: 5, sceneX: 30, sceneY: 56
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+AREA_SOUND 3007	 delay: 140, range: 10, sceneX: 33, sceneY: 60
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 43, sceneY: 49
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+PLAYER 'ex rs'	 animation: 829, gfx: 1243
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Awakened Altar (7288)'	animation: 1471
+PLAYER 'ex rs'	 animation: 390
+NPC 'Awakened Altar (7288)'	animation: 1471
+AREA_SOUND 2412	 delay: 10, range: 5, sceneX: 46, sceneY: 72
+AREA_SOUND 3007	 delay: 190, range: 10, sceneX: 50, sceneY: 71
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+AREA_SOUND 3007	 delay: 180, range: 10, sceneX: 62, sceneY: 61
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+AREA_SOUND 2412	 delay: 10, range: 5, sceneX: 66, sceneY: 56
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 49, sceneY: 56
+AREA_SOUND 3007	 delay: 150, range: 10, sceneX: 61, sceneY: 56
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 400	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4680
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 400	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 400	 delay: 0
+SOUND 2672	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4680
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 400	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 2676	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 3825	 delay: 0
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 400	 delay: 0
+SOUND 2960	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 400	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4680
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+NPC 'Skotizo (7286)'	animation: 4676

@@ -1,0 +1,5 @@
+SOUND 2393	 delay: 0
+SOUND 1265	 delay: 30
+PLAYER 'Lou Grinder'	 animation: 829
+PLAYER 'Lou Grinder'	 animation: 829
+PLAYER 'Lou Grinder'	 animation: 829

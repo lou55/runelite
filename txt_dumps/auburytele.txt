@@ -1,0 +1,9 @@
+AREA_SOUND 127	 delay: 0, range: 10, sceneX: 53, sceneY: 58
+AREA_SOUND 126	 delay: 100, range: 10, sceneX: 53, sceneY: 57
+PLAYER 'Lou Grinder'	 gfx: 110
+NPC 'Aubury (2886)'	gfx: 108
+PLAYER 'Lou Grinder'	 gfx: 110
+PLAYER 'Lou Grinder'	 gfx: 110
+PLAYER 'Lou Grinder'	 gfx: 110
+---------| LOADING |----------
+PLAYER 'Lou Grinder'	 gfx: 110

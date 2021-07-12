@@ -1,0 +1,122 @@
+PLAYER 'IInsomniatik'	 gfx: 665
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 63, sceneY: 58
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth spawn (3184)'	animation: 1340, gfx: 1042
+SOUND 1616	 delay: 0
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth spawn (3184)'	animation: 1341, gfx: 1042
+SOUND 1620	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth spawn (3184)'	gfx: 1042
+PLAYER 'IInsomniatik'	 gfx: 665
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 63, sceneY: 58
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth spawn (3184)'	animation: 1340, gfx: 1042
+SOUND 1616	 delay: 0
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth spawn (3184)'	animation: 1341, gfx: 1042
+SOUND 1620	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth spawn (3184)'	animation: 1341, gfx: 1042
+SOUND 1619	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 62, sceneY: 60
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1340, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1340, gfx: 1042
+SOUND 1622	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1340, gfx: 1042
+PLAYER 'IInsomniatik'	 gfx: 665
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 62, sceneY: 59
+SOUND 1615	 delay: 0
+SOUND 2370	 delay: 20
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	gfx: 1042
+SOUND 1622	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth (3185)'	gfx: 1042
+PLAYER 'IInsomniatik'	 gfx: 665
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 62, sceneY: 59
+SOUND 1615	 delay: 0
+SOUND 2369	 delay: 20
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 1042
+SOUND 1622	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth (3185)'	gfx: 1042
+PLAYER 'IInsomniatik'	 gfx: 665
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 62, sceneY: 59
+SOUND 1615	 delay: 0
+SOUND 2369	 delay: 20
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	gfx: 1042
+SOUND 1622	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth (3185)'	gfx: 1042
+PLAYER 'IInsomniatik'	 gfx: 665
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 62, sceneY: 59
+SOUND 1615	 delay: 0
+SOUND 520	 delay: 20
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 1042
+SOUND 1622	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth (3185)'	gfx: 1042
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth (3185)'	gfx: 1042
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 62, sceneY: 59
+SOUND 1615	 delay: 0
+SOUND 2368	 delay: 20
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 85
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 85
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth (3185)'	gfx: 85
+PLAYER 'IInsomniatik'	 gfx: 665
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 62, sceneY: 59
+SOUND 1615	 delay: 0
+SOUND 2370	 delay: 20
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 1042
+SOUND 1622	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth (3185)'	gfx: 1042
+PLAYER 'IInsomniatik'	 gfx: 665
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 62, sceneY: 59
+SOUND 1615	 delay: 0
+SOUND 2367	 delay: 20
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth (3185)'	animation: 1341, gfx: 1042
+SOUND 1622	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth (3185)'	gfx: 1042
+SOUND 2249	 delay: 0
+SOUND 1621	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665

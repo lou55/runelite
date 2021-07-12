@@ -1,0 +1,224 @@
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2368	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2370	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2367	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2366	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2368	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2368	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2367	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2370	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 33, sceneY: 60
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 33, sceneY: 58
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 33, sceneY: 58
+SOUND 2369	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 33, sceneY: 60
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 33, sceneY: 60
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 33, sceneY: 58
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 33, sceneY: 58
+SOUND 2368	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 33, sceneY: 60
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 33, sceneY: 60
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 33, sceneY: 58
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 33, sceneY: 58
+SOUND 2367	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 33, sceneY: 60
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 471	 delay: 0, range: 10, sceneX: 33, sceneY: 60
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2367	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 34, sceneY: 57
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 33, sceneY: 58
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2367	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 33, sceneY: 58
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 34, sceneY: 57
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 34, sceneY: 57
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 33, sceneY: 58
+SOUND 2367	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 33, sceneY: 58
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 34, sceneY: 57
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2366	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 34, sceneY: 57
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 33, sceneY: 58
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 33, sceneY: 58
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 34, sceneY: 57
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2369	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 33, sceneY: 58
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 34, sceneY: 57
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 34, sceneY: 57
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 33, sceneY: 58
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 23, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Spiritual ranger (2242)'	animation: 6972
+SOUND 2367	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 33, sceneY: 58
+SOUND 650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Spiritual ranger (2242)'	animation: 6972
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 34, sceneY: 57
+SOUND 649	 delay: 0
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 34, sceneY: 57
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 33, sceneY: 58
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 33, sceneY: 58
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 34, sceneY: 57
+AREA_SOUND 471	 delay: 0, range: 10, sceneX: 34, sceneY: 57

@@ -1,0 +1,54 @@
+SOUND 290	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Basilisk (417)'	animation: 1547
+SOUND 288	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 425
+NPC 'Basilisk (417)'	animation: 1546
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Basilisk (417)'	animation: 1546
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 36, x: 960, y: 5952
+SOUND 290	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 288	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 425
+NPC 'Basilisk (417)'	animation: 1546
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Basilisk (417)'	animation: 1546
+SOUND 290	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 288	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 425
+NPC 'Basilisk (417)'	animation: 1546
+PLAYER 'ex rs'	 animation: 425
+PLAYER 'ex rs'	 animation: 425
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Basilisk (417)'	animation: 1547
+SOUND 290	 delay: 0
+SOUND 288	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Basilisk (417)'	animation: 1546
+NPC 'Basilisk (417)'	animation: 1546
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Basilisk (417)'	animation: 1547
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 960, y: 5952
+SOUND 290	 delay: 0
+SOUND 288	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Basilisk (417)'	animation: 1546
+NPC 'Basilisk (417)'	animation: 1546
+SOUND 288	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 425
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 960, y: 5952
+PLAYER 'ex rs'	 animation: 425
+PLAYER 'ex rs'	 animation: 425
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 20, x: 960, y: 5952

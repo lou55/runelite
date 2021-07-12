@@ -1,0 +1,55 @@
+AREA_SOUND 71	 delay: 0, range: 3, sceneX: 39, sceneY: 82
+PLAYER 'IInsomniatik'	 animation: 1659
+AREA_SOUND 102	 delay: 56, range: 10, sceneX: 45, sceneY: 72
+PLAYER 'IInsomniatik'	 animation: 1659
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 44, sceneY: 90
+PLAYER 'IInsomniatik'	 animation: 1659
+AREA_SOUND 3868	 delay: 0, range: 10, sceneX: 46, sceneY: 82
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 47, sceneY: 82
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 44, sceneY: 90
+SOUND 2675	 delay: 0
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 44, sceneY: 90
+NPC 'Sergeant Grimspike (2218)'	animation: 7073, gfx: 1219
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Sergeant Grimspike (2218)'	animation: 7073
+SOUND 472	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 52, sceneY: 50
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Sergeant Grimspike (2218)'	animation: 7073
+SOUND 472	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Sergeant Grimspike (2218)'	animation: 7073
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Sergeant Grimspike (2218)'	animation: 6155
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 52, sceneY: 50
+SOUND 472	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Sergeant Grimspike (2218)'	animation: 7073, gfx: 1219
+NPC 'Sergeant Grimspike (2218)'	animation: 7073
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Sergeant Grimspike (2218)'	animation: 6155
+SOUND 472	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Sergeant Grimspike (2218)'	animation: 6155
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 52, sceneY: 50
+NPC 'Sergeant Grimspike (2218)'	animation: 7073, gfx: 1219
+NPC 'Sergeant Grimspike (2218)'	animation: 7073
+PROJECTILE 1220	startHeight: 11, endHeight: 144, slope: 15, duration: 22, x: 6720, y: 6464
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Sergeant Grimspike (2218)'	animation: 6155
+SOUND 472	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Sergeant Grimspike (2218)'	animation: 6155
+NPC 'Sergeant Grimspike (2218)'	animation: 6155
+AREA_SOUND 3841	 delay: 0, range: 10, sceneX: 52, sceneY: 50
+NPC 'Sergeant Grimspike (2218)'	animation: 7073, gfx: 1219
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Sergeant Grimspike (2218)'	animation: 7073
+PROJECTILE 1220	startHeight: 11, endHeight: 144, slope: 15, duration: 23, x: 6720, y: 6464

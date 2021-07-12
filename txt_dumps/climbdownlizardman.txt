@@ -1,0 +1,42 @@
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 8000, y: 5696
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 9152, y: 6464
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 21, x: 8896, y: 6464
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 9152, y: 6464
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 9152, y: 6464
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 14, x: 8000, y: 5696
+AREA_SOUND 2548	 delay: 30, range: 10, sceneX: 31, sceneY: 47
+AREA_SOUND 388	 delay: 60, range: 10, sceneX: 30, sceneY: 47
+SOUND 2454	 delay: 12
+PLAYER 'IInsomniatik'	 animation: 1148
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 9152, y: 6464
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 32, sceneY: 53
+PLAYER 'IInsomniatik'	 animation: 1148
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 9024, y: 6336
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 9152, y: 6464
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 16, x: 9152, y: 6720
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 9152, y: 6464
+AREA_SOUND 506	 delay: 0, range: 10, sceneX: 30, sceneY: 47
+PLAYER 'IInsomniatik'	 animation: 1148
+AREA_SOUND 2707	 delay: 0, range: 10, sceneX: 27, sceneY: 47
+AREA_SOUND 2555	 delay: 0, range: 12, sceneX: 30, sceneY: 47
+PLAYER 'IInsomniatik'	 animation: 1148
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 26, x: 4160, y: 6848
+AREA_SOUND 388	 delay: 0, range: 10, sceneX: 31, sceneY: 47
+AREA_SOUND 2548	 delay: 30, range: 10, sceneX: 31, sceneY: 47
+AREA_SOUND 388	 delay: 60, range: 10, sceneX: 30, sceneY: 47
+AREA_SOUND 388	 delay: 0, range: 10, sceneX: 28, sceneY: 47
+AREA_SOUND 2503	 delay: 0, range: 12, sceneX: 28, sceneY: 54
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 32, sceneY: 53
+AREA_SOUND 2707	 delay: 0, range: 10, sceneX: 27, sceneY: 47
+AREA_SOUND 506	 delay: 0, range: 10, sceneX: 30, sceneY: 47
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 29, x: 4160, y: 6848
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 14, x: 8000, y: 5696
+AREA_SOUND 388	 delay: 0, range: 10, sceneX: 28, sceneY: 47
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 28, sceneY: 47
+AREA_SOUND 2548	 delay: 30, range: 10, sceneX: 31, sceneY: 47
+AREA_SOUND 388	 delay: 60, range: 10, sceneX: 30, sceneY: 47
+AREA_SOUND 2555	 delay: 0, range: 12, sceneX: 30, sceneY: 47
+PROJECTILE 214	startHeight: 11, endHeight: 144, slope: 15, duration: 11, x: 3520, y: 6080
+AREA_SOUND 388	 delay: 0, range: 10, sceneX: 31, sceneY: 47
+AREA_SOUND 2707	 delay: 0, range: 10, sceneX: 27, sceneY: 47
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 32, sceneY: 53

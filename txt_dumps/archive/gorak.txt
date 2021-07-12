@@ -1,0 +1,110 @@
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 52, sceneY: 46
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 51, sceneY: 46
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 51, sceneY: 46
+SOUND 2867	 delay: 0
+SOUND 2368	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Gorak (3141)'	animation: 4300
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 52, sceneY: 46
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+SOUND 2869	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 52, sceneY: 46
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 51, sceneY: 46
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 51, sceneY: 46
+SOUND 2867	 delay: 0
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Gorak (3141)'	animation: 4300
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 52, sceneY: 46
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+SOUND 2869	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 52, sceneY: 46
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 51, sceneY: 46
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 51, sceneY: 46
+SOUND 2867	 delay: 0
+SOUND 2366	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Gorak (3141)'	animation: 4300
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 52, sceneY: 46
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+SOUND 2869	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 52, sceneY: 46
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 51, sceneY: 46
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 51, sceneY: 46
+SOUND 2867	 delay: 0
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Gorak (3141)'	animation: 4300
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 52, sceneY: 46
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+SOUND 2869	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 52, sceneY: 46
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 51, sceneY: 46
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 51, sceneY: 46
+SOUND 2867	 delay: 0
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Gorak (3141)'	animation: 4300
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 52, sceneY: 46
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+SOUND 2869	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 52, sceneY: 46
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 51, sceneY: 46
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 51, sceneY: 46
+SOUND 2867	 delay: 0
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Gorak (3141)'	animation: 4300
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 52, sceneY: 46
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+SOUND 2869	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 52, sceneY: 46
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 51, sceneY: 46
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 51, sceneY: 46
+SOUND 2867	 delay: 0
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Gorak (3141)'	animation: 4300
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 52, sceneY: 46
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+SOUND 2869	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Gorak (3141)'	animation: 4301
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 52, sceneY: 46
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 51, sceneY: 46
+SOUND 2868	 delay: 0
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 51, sceneY: 46
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 52, sceneY: 46

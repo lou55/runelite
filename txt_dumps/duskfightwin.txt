@@ -1,0 +1,104 @@
+AREA_SOUND 429	 delay: 0, range: 15, sceneX: 48, sceneY: 62
+SOUND 2249	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 3201	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1157
+PLAYER 'IInsomniatik'	 animation: 1157
+AREA_SOUND 1471	 delay: 0, range: 15, sceneX: 50, sceneY: 58
+PLAYER 'IInsomniatik'	 animation: 1157
+PLAYER 'IInsomniatik'	 animation: 1157
+AREA_SOUND 1471	 delay: 0, range: 10, sceneX: 50, sceneY: 58
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 521	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 2676	 delay: 0
+SOUND 428	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 428	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 430	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 428	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 430	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 511	 delay: 20
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 3825	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 2393	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1659
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+SOUND 518	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 2567	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 401
+PLAYER 'IInsomniatik'	 animation: 401
+AREA_SOUND 429	 delay: 0, range: 15, sceneX: 50, sceneY: 66

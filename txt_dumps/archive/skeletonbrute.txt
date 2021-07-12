@@ -1,0 +1,47 @@
+SOUND 776	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 3424	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Skeleton brute (1538)'	animation: 422
+SOUND 779	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Skeleton brute (1538)'	animation: 422
+SOUND 776	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Skeleton brute (1538)'	animation: 422
+SOUND 779	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Skeleton brute (1538)'	animation: 422
+SOUND 776	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Skeleton brute (1538)'	animation: 422
+SOUND 779	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Skeleton brute (1538)'	animation: 422
+SOUND 776	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Skeleton brute (1538)'	animation: 425
+SOUND 779	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Skeleton brute (1538)'	animation: 425
+SOUND 776	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Skeleton brute (1538)'	animation: 422
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Skeleton brute (1538)'	animation: 422
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Skeleton brute (1538)'	animation: 425
+SOUND 779	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Skeleton brute (1538)'	animation: 425

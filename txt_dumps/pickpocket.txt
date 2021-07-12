@@ -1,0 +1,4 @@
+SOUND 2581	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 881
+PLAYER 'IInsomniatik'	 animation: 881
+PLAYER 'IInsomniatik'	 animation: 881

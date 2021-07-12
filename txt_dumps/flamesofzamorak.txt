@@ -1,0 +1,9 @@
+AREA_SOUND 1655	 delay: 64, range: 10, sceneX: 58, sceneY: 35
+PLAYER 'Elon R Musk'	 animation: 811
+NPC 'Skeleton (72)'	animation: 5489, gfx: 78
+PLAYER 'Elon R Musk'	 animation: 811
+PLAYER 'Elon R Musk'	 animation: 811
+SOUND 779	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 811
+SOUND 777	 delay: 0
+GROUND_ITEM 526	 quantity 1	 spawnTime 7482

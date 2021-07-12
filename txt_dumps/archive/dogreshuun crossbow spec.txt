@@ -1,0 +1,45 @@
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 72, sceneY: 65
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+SOUND 1080	 delay: 0
+PLAYER 'ex rs'	 animation: 7557, gfx: 705
+NPC 'Man (3106)'	animation: 425
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 72, sceneY: 65
+PLAYER 'ex rs'	 animation: 7557, gfx: 705
+NPC 'Man (3106)'	animation: 425
+PROJECTILE 698	startHeight: 11, endHeight: 144, slope: 5, duration: 33, x: 8896, y: 7744
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+PLAYER 'ex rs'	 animation: 7557, gfx: 705
+NPC 'Man (3106)'	animation: 425
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+SOUND 513	 delay: 0
+PLAYER 'ex rs'	 animation: 7557
+NPC 'Man (3106)'	animation: 425
+AREA_SOUND 3834	 delay: 0, range: 15, sceneX: 73, sceneY: 49
+SOUND 1081	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Man (3106)'	animation: 425
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+SOUND 2566	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Man (3106)'	animation: 422
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 8896, y: 7744
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 72, sceneY: 65
+SOUND 513	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Man (3106)'	animation: 422
+AREA_SOUND 3834	 delay: 0, range: 15, sceneX: 73, sceneY: 49
+SOUND 512	 delay: 0
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+AREA_SOUND 3834	 delay: 0, range: 15, sceneX: 73, sceneY: 50
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 64, sceneY: 46, source: Magic-josh3
+AREA_SOUND 3834	 delay: 0, range: 15, sceneX: 74, sceneY: 51
+AREA_SOUND 3834	 delay: 0, range: 15, sceneX: 75, sceneY: 51
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 72, sceneY: 65

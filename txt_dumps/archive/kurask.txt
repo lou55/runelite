@@ -1,0 +1,49 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kurask (410)'	animation: 1514
+SOUND 590	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kurask (410)'	animation: 1514
+SOUND 588	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Kurask (410)'	animation: 1512
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kurask (410)'	animation: 1512
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7104, y: 5952
+SOUND 590	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kurask (410)'	animation: 1512
+SOUND 588	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Kurask (410)'	animation: 1512
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kurask (410)'	animation: 1512
+SOUND 590	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kurask (410)'	animation: 1512
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 20, x: 7104, y: 5952
+SOUND 588	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Kurask (410)'	animation: 1512
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kurask (410)'	animation: 1512
+SOUND 590	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kurask (410)'	animation: 1512
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7104, y: 5952
+SOUND 588	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Kurask (410)'	animation: 1512
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kurask (410)'	animation: 1512
+SOUND 590	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kurask (410)'	animation: 1512

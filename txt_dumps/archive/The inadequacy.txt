@@ -1,0 +1,161 @@
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6325
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6325
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6325
+SOUND 3633	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3631	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 3633	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3631	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3633	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3631	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3633	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3631	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3633	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3631	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6324
+SOUND 3633	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6324
+SOUND 3631	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6324
+SOUND 3633	 delay: 0
+SOUND 3631	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6318
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6324
+SOUND 3633	 delay: 0
+SOUND 3631	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6324
+SOUND 3633	 delay: 0
+SOUND 3631	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6318
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6324
+SOUND 3633	 delay: 0
+SOUND 3631	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6324
+SOUND 3633	 delay: 0
+SOUND 3631	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6318
+NPC 'The Inadequacy (6350)'	animation: 6318
+NPC 'The Inadequacy (6350)'	animation: 6318
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6325
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6325
+SOUND 3633	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6325
+SOUND 2961	 delay: 20
+SOUND 3631	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 3633	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3631	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 3633	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3631	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Inadequacy (6350)'	animation: 6318
+SOUND 3633	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3632	 delay: 0

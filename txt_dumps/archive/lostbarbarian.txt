@@ -1,0 +1,100 @@
+SOUND 3383	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3381	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 422
+SOUND 3383	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 3381	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 422
+SOUND 3383	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 3381	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3383	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3381	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3383	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3381	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3383	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3381	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3383	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3381	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3383	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3381	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Lost barbarian (2921)'	animation: 422
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+SOUND 3383	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Lost barbarian (2921)'	animation: 425
+AREA_SOUND 3750	 delay: 0, range: 10, sceneX: 68, sceneY: 52
+SOUND 3382	 delay: 0
+SOUND 2962	 delay: 20
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 69, sceneY: 53, source: Brutal green dragon (2918)
+SOUND 408	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156

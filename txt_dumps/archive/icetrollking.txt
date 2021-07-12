@@ -1,0 +1,103 @@
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 52, sceneY: 55
+PLAYER 'ex rs'	 animation: 1156
+SOUND 860	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 52, sceneY: 55
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 285
+SOUND 3186	 delay: 0
+SOUND 860	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 285
+PROJECTILE 1023	startHeight: 128, endHeight: 144, slope: 8, duration: 19, x: 6720, y: 7104
+SOUND 2399	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 3186	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 2399	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 3186	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 2399	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 3186	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 2399	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 3186	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 2399	 delay: 0
+SOUND 2960	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 3186	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 865	 delay: 0
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 51, sceneY: 54
+PLAYER 'ex rs'	 animation: 1157
+SOUND 860	 delay: 0
+PROJECTILE 1023	startHeight: 128, endHeight: 144, slope: 8, duration: 21, x: 6592, y: 6976
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 51, sceneY: 54
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 285
+SOUND 3186	 delay: 0
+SOUND 860	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 285
+PROJECTILE 1023	startHeight: 128, endHeight: 144, slope: 8, duration: 19, x: 6592, y: 6976
+SOUND 520	 delay: 20
+SOUND 865	 delay: 0
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 50, sceneY: 53
+PLAYER 'ex rs'	 animation: 1157
+NPC 'Ice Troll King (6356)'	animation: 5779, gfx: 1022
+SOUND 860	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 285
+PROJECTILE 1023	startHeight: 128, endHeight: 144, slope: 8, duration: 21, x: 6464, y: 6848
+SOUND 3186	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 285
+SOUND 2399	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Ice Troll King (6356)'	animation: 284
+SOUND 3186	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+SOUND 863	 delay: 0

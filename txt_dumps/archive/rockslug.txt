@@ -1,0 +1,13 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Rockslug (421)'	animation: 1567
+SOUND 731	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2719	 delay: 0
+PLAYER 'ex rs'	 animation: 1574, gfx: 327
+PLAYER 'ex rs'	 animation: 1574, gfx: 327
+SOUND 730	 delay: 0
+PLAYER 'ex rs'	 animation: 1574, gfx: 327
+PLAYER 'ex rs'	 animation: 1574, gfx: 327
+PLAYER 'ex rs'	 animation: 1574
+PLAYER 'ex rs'	 animation: 1574

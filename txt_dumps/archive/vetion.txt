@@ -1,0 +1,157 @@
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 81, sceneY: 59
+PROJECTILE 280	startHeight: 11, endHeight: 8, slope: 40, duration: 119, x: 10432, y: 7616
+PROJECTILE 280	startHeight: 11, endHeight: 8, slope: 40, duration: 121, x: 10432, y: 7616
+PROJECTILE 280	startHeight: 11, endHeight: 8, slope: 40, duration: 123, x: 10432, y: 7616
+SOUND 2675	 delay: 0
+SOUND 2685	 delay: 0
+AREA_SOUND 360	 delay: 0, range: 5, sceneX: 76, sceneY: 52
+AREA_SOUND 360	 delay: 2, range: 5, sceneX: 74, sceneY: 52
+AREA_SOUND 360	 delay: 4, range: 5, sceneX: 73, sceneY: 54
+GFX 281	level: 0, start_cycle: 1278973, x: 9536, y: 6720
+GFX 281	level: 0, start_cycle: 1278975, x: 9408, y: 6976
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 2
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5508, gfx: 758
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5508, gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 10048, y: 6720
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5508, gfx: 758
+SOUND 774	 delay: 0
+NPC 'Vet'ion (6611)'	animation: 5508, gfx: 758
+NPC 'Vet'ion (6611)'	animation: 5508, gfx: 758
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5508, gfx: 758
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 47, x: 10048, y: 6720
+PLAYER 'ex rs'	 animation: 7552
+SOUND 774	 delay: 0
+SOUND 3424	 delay: 0
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 80, sceneY: 58
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 2
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5499, gfx: 758
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5499, gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 47, x: 10048, y: 6720
+PROJECTILE 280	startHeight: 11, endHeight: 8, slope: 40, duration: 121, x: 10304, y: 7488
+PROJECTILE 280	startHeight: 11, endHeight: 8, slope: 40, duration: 123, x: 10304, y: 7488
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5499, gfx: 758
+SOUND 774	 delay: 0
+NPC 'Vet'ion (6611)'	gfx: 758
+SOUND 574	 delay: 0
+AREA_SOUND 360	 delay: 0, range: 5, sceneX: 78, sceneY: 52
+AREA_SOUND 360	 delay: 2, range: 5, sceneX: 79, sceneY: 51
+AREA_SOUND 360	 delay: 4, range: 5, sceneX: 81, sceneY: 52
+GFX 281	level: 0, start_cycle: 1279453, x: 10176, y: 6592
+GFX 281	level: 0, start_cycle: 1279455, x: 10432, y: 6720
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5507
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5507
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 37, x: 10304, y: 6976
+PLAYER 'ex rs'	 animation: 7552
+SOUND 774	 delay: 0
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5508
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5508
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 37, x: 10304, y: 6976
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5508
+SOUND 774	 delay: 0
+NPC 'Vet'ion (6611)'	animation: 5508
+NPC 'Vet'ion (6611)'	animation: 5508
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 80, sceneY: 58
+PROJECTILE 280	startHeight: 11, endHeight: 8, slope: 40, duration: 120, x: 10304, y: 7488
+PROJECTILE 280	startHeight: 11, endHeight: 8, slope: 40, duration: 122, x: 10304, y: 7488
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5499
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 20, x: 10432, y: 7360
+SOUND 774	 delay: 0
+SOUND 775	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5499
+AREA_SOUND 360	 delay: 2, range: 5, sceneX: 78, sceneY: 53
+AREA_SOUND 360	 delay: 4, range: 5, sceneX: 79, sceneY: 54
+AREA_SOUND 360	 delay: 0, range: 5, sceneX: 80, sceneY: 54
+NPC 'Vet'ion (6611)'	animation: 5499
+GFX 281	level: 0, start_cycle: 1279931, x: 10048, y: 6848
+GFX 281	level: 0, start_cycle: 1279933, x: 10176, y: 6976
+NPC 'Vet'ion (6611)'	animation: 5499
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5508
+SOUND 775	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5499
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 20, x: 10432, y: 7360
+SOUND 774	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5499
+SOUND 574	 delay: 0
+SOUND 521	 delay: 20
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 2
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5507, gfx: 758
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5507, gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 30, x: 9920, y: 7360
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5507, gfx: 758
+SOUND 774	 delay: 0
+NPC 'Vet'ion (6611)'	animation: 5507, gfx: 758
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 80, sceneY: 58
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5499, gfx: 758
+PROJECTILE 280	startHeight: 11, endHeight: 8, slope: 40, duration: 120, x: 10304, y: 7488
+PROJECTILE 280	startHeight: 11, endHeight: 8, slope: 40, duration: 122, x: 10304, y: 7488
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Vet'ion (6611)'	animation: 5499
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 31, x: 9920, y: 7104
+PLAYER 'ex rs'	 animation: 7552
+SOUND 774	 delay: 0
+SOUND 775	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Vet'ion (6611)'	animation: 5499
+AREA_SOUND 360	 delay: 2, range: 5, sceneX: 75, sceneY: 55
+AREA_SOUND 360	 delay: 0, range: 5, sceneX: 77, sceneY: 57
+AREA_SOUND 360	 delay: 4, range: 5, sceneX: 73, sceneY: 56
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Vet'ion (6611)'	animation: 5499
+GFX 281	level: 0, start_cycle: 1280413, x: 9664, y: 7104
+GFX 281	level: 0, start_cycle: 1280415, x: 9408, y: 7232
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 775	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 574	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 46, sceneY: 60

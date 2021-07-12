@@ -1,0 +1,242 @@
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 60, sceneY: 44
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 55, sceneY: 51
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 51, sceneY: 62
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 56, sceneY: 50
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 62, sceneY: 49
+SOUND 4084	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Wyrm (8611)'	animation: 8268
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 7232, y: 5952
+AREA_SOUND 4114	 delay: 0, range: 7, sceneX: 48, sceneY: 50, source: Wyrm (8611)
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 58, sceneY: 47
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 48, sceneY: 50, source: Wyrm (8611)
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 60, sceneY: 44
+SOUND 4085	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 55, sceneY: 51
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 51, sceneY: 62
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 56, sceneY: 50
+PLAYER 'IInsomniatik'	 animation: 1659
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 20, x: 6592, y: 8000
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 35, x: 8128, y: 5824
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 62, sceneY: 49
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 56, sceneY: 48
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 45, x: 7232, y: 5952
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 49, sceneY: 51, source: Wyrm (8611)
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 60, sceneY: 45
+SOUND 4085	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 55, sceneY: 51
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 51, sceneY: 62
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 56, sceneY: 51
+PLAYER 'IInsomniatik'	 animation: 1659
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 35, x: 8128, y: 5824
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 62, sceneY: 49
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 57, sceneY: 48
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 49, sceneY: 51, source: Wyrm (8611)
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 60, sceneY: 46
+SOUND 4084	 delay: 0
+SOUND 4085	 delay: 5
+SOUND 1965	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 47, x: 7232, y: 5952
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 26, x: 8000, y: 6336
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 55, sceneY: 51
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 51, sceneY: 62
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 56, sceneY: 51
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 45, sceneY: 57
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 62, sceneY: 49
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+PLAYER 'IInsomniatik'	 gfx: 1635
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 57, sceneY: 48
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 49, sceneY: 51, source: Wyrm (8611)
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 60, sceneY: 46
+SOUND 4085	 delay: 5
+SOUND 1965	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659, gfx: 1635
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 20, x: 5952, y: 2368
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 26, x: 8000, y: 6336
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 55, sceneY: 51
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 51, sceneY: 62
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 56, sceneY: 51
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 62, sceneY: 49
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 43, sceneY: 57
+SOUND 2238	 delay: 0
+SOUND 2247	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1659, gfx: 1635
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 44, x: 7232, y: 5952
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+SOUND 3284	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1659, gfx: 1635
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 57, sceneY: 48
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 49, sceneY: 51, source: Wyrm (8611)
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 43, x: 7104, y: 3008
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 60, sceneY: 46
+SOUND 4085	 delay: 5
+SOUND 1965	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6336, y: 6080
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 51, sceneY: 62
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 55, sceneY: 51
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 56, sceneY: 51
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 62, sceneY: 49
+SOUND 4084	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 38, x: 6336, y: 2880
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 26, x: 6336, y: 6592
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 20, x: 6592, y: 8000
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 35, x: 8128, y: 5824
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 42, sceneY: 57
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6336, y: 6080
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 7232, y: 5952
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 49, sceneY: 51, source: Wyrm (8611)
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 55, sceneY: 48
+SOUND 4084	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 58, sceneY: 47
+SOUND 4085	 delay: 5
+SOUND 1965	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 7104, y: 3008
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6336, y: 6080
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 51, sceneY: 62
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 52, sceneY: 53
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 62, sceneY: 49
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 55, sceneY: 51
+SOUND 4084	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 42, sceneY: 57
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 18, x: 6336, y: 6080
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 49, sceneY: 51, source: Wyrm (8611)
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 54, sceneY: 48
+SOUND 4084	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 44, x: 7232, y: 5952
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 57, sceneY: 49
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 51, sceneY: 62
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 50, sceneY: 56
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 62, sceneY: 49
+SOUND 4085	 delay: 5
+SOUND 1965	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 52, sceneY: 51
+SOUND 4084	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 42, sceneY: 57
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 35, x: 7104, y: 3008
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 49, sceneY: 51, source: Wyrm (8611)
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 55, sceneY: 48
+SOUND 4084	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 57, sceneY: 52
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 51, sceneY: 62
+SOUND 4085	 delay: 5
+SOUND 1965	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6336, y: 6080
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 7232, y: 5952
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 51, sceneY: 54
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 62, sceneY: 49
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 52, sceneY: 47
+SOUND 4084	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 38, x: 6336, y: 2880
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 26, x: 6336, y: 6592
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 35, x: 8128, y: 5824
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 42, sceneY: 57
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 7104, y: 3008
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 18, x: 6336, y: 6080
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 49, sceneY: 51, source: Wyrm (8611)
+SOUND 4084	 delay: 0
+SOUND 2696	 delay: 0
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 59, sceneY: 52
+PLAYER 'IInsomniatik'	 animation: 5061
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 57, sceneY: 56
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 51, sceneY: 62
+SOUND 4085	 delay: 5
+SOUND 1965	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 55, sceneY: 53
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 62, sceneY: 49
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 54, sceneY: 44
+SOUND 4084	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+NPC 'Wyrm (8611)'	animation: 8271
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 38, x: 6336, y: 2880
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 26, x: 6336, y: 6592
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 35, x: 8128, y: 5824
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 47, x: 7232, y: 5952
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 42, sceneY: 56
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1635
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 49, sceneY: 51, source: Wyrm (8611)
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 60, sceneY: 56
+SOUND 4084	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 27, x: 6592, y: 2112
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 43, x: 7104, y: 3008
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 57, sceneY: 57
+SOUND 4105	 delay: 0
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 58, sceneY: 53
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 51, sceneY: 47
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 42, sceneY: 56
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 49, sceneY: 51
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 60, sceneY: 57
+AREA_SOUND 4114	 delay: 0, range: 7, sceneX: 42, sceneY: 56
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 57, sceneY: 57
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 58, sceneY: 53
+AREA_SOUND 4081	 delay: 0, range: 6, sceneX: 54, sceneY: 51
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 42, sceneY: 56
+AREA_SOUND 4121	 delay: 0, range: 6, sceneX: 63, sceneY: 45
+PROJECTILE 1634	startHeight: 150, endHeight: 64, slope: 0, duration: 26, x: 5440, y: 7232

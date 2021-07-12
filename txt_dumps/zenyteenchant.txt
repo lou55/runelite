@@ -1,0 +1,4 @@
+SOUND 144	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 931, gfx: 238
+PLAYER 'Elon R Musk'	 animation: 931, gfx: 238
+PLAYER 'Elon R Musk'	 animation: 931, gfx: 238

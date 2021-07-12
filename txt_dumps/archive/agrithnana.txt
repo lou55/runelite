@@ -1,0 +1,23 @@
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 85
+NPC 'Agrith-Na-Na (6369)'	animation: 3500
+PLAYER 'ex rs'	 gfx: 85
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 49, sceneY: 71
+AREA_SOUND 155	 delay: 0, range: 10, sceneX: 48, sceneY: 72
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 85
+NPC 'Agrith-Na-Na (6369)'	animation: 3500
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 85
+NPC 'Agrith-Na-Na (6369)'	animation: 3500
+PLAYER 'ex rs'	 gfx: 85
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 49, sceneY: 71
+AREA_SOUND 155	 delay: 0, range: 10, sceneX: 48, sceneY: 72
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 85
+NPC 'Agrith-Na-Na (6369)'	animation: 3500
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 85
+NPC 'Agrith-Na-Na (6369)'	animation: 3500
+SOUND 403	 delay: 0
+PLAYER 'ex rs'	 gfx: 85

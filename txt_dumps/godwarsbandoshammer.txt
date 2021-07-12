@@ -1,0 +1,8 @@
+PLAYER 'IInsomniatik'	 animation: 7214
+PLAYER 'IInsomniatik'	 animation: 7214
+AREA_SOUND 3879	 delay: 0, range: 15, sceneX: 27, sceneY: 61, source: IInsomniatik
+SOUND 71	 delay: 0
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 31, sceneY: 53
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 30, sceneY: 51
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 30, sceneY: 51
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 31, sceneY: 53

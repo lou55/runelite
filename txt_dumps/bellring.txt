@@ -1,0 +1,3 @@
+SOUND 3879	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390
+PLAYER 'IInsomniatik'	 animation: 390

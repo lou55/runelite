@@ -1,0 +1,36 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Gargoyle (412)'	animation: 1519
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Gargoyle (412)'	animation: 1517
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Gargoyle (412)'	animation: 1519
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Gargoyle (412)'	animation: 1517
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Gargoyle (412)'	animation: 1519
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Gargoyle (412)'	animation: 1517
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Gargoyle (412)'	animation: 1519
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Gargoyle (412)'	animation: 1517
+SOUND 2567	 delay: 0
+PLAYER 'ex rs'	 animation: 401
+AREA_SOUND 429	 delay: 0, range: 4, sceneX: 71, sceneY: 57
+PLAYER 'ex rs'	 animation: 401

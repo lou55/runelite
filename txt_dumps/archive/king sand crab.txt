@@ -1,0 +1,128 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+SOUND 718	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1312
+NPC 'King Sand Crab (7266)'	animation: 1312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+SOUND 718	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1312
+NPC 'King Sand Crab (7266)'	animation: 1312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+SOUND 718	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1312
+NPC 'King Sand Crab (7266)'	animation: 1312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+SOUND 718	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1312
+NPC 'King Sand Crab (7266)'	animation: 1312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+SOUND 718	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+SOUND 718	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+SOUND 718	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1312
+NPC 'King Sand Crab (7266)'	animation: 1312
+SOUND 718	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 718	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 718	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 718	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 718	 delay: 0
+SOUND 2960	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 718	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 718	 delay: 0
+SOUND 2960	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 718	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'King Sand Crab (7266)'	animation: 1313
+SOUND 719	 delay: 0
+SOUND 718	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'King Sand Crab (7266)'	animation: 1312

@@ -1,0 +1,6 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave crawler (408)'	animation: 1504
+SOUND 343	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 342	 delay: 0

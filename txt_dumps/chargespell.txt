@@ -1,0 +1,11 @@
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+SOUND 1651	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 811, gfx: 111
+PLAYER 'Elon R Musk'	 animation: 811, gfx: 111
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+PLAYER 'Elon R Musk'	 animation: 811, gfx: 111
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+PLAYER 'Elon R Musk'	 animation: 811, gfx: 111
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr

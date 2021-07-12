@@ -1,0 +1,39 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Turoth (430)'	animation: 1596
+SOUND 875	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 873	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Turoth (430)'	animation: 1595
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 4032, y: 832
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Turoth (430)'	animation: 1595
+SOUND 875	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 873	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Turoth (430)'	animation: 1595
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Turoth (430)'	animation: 1595
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 4032, y: 832
+SOUND 875	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 873	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Turoth (430)'	animation: 1595
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Turoth (430)'	animation: 1595
+SOUND 875	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 4032, y: 832
+SOUND 873	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Turoth (430)'	animation: 1595

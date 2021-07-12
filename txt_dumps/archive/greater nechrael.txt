@@ -1,0 +1,147 @@
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2418	 delay: 0
+SOUND 879	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Greater Nechryael (7278)'	animation: 1529
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Greater Nechryael (7278)'	animation: 1529
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 26, x: 1472, y: 12480
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Greater Nechryael (7278)'	animation: 1529
+NPC 'Greater Nechryael (7278)'	animation: 1529
+SOUND 645	 delay: 0
+SOUND 879	 delay: 0
+SOUND 521	 delay: 20
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Greater Nechryael (7278)'	animation: 1528
+AREA_SOUND 168	 delay: 56, range: 10, sceneX: 24, sceneY: 83
+AREA_SOUND 168	 delay: 56, range: 10, sceneX: 24, sceneY: 82
+AREA_SOUND 168	 delay: 56, range: 10, sceneX: 24, sceneY: 83
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Greater Nechryael (7278)'	animation: 1528
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 28, x: 1472, y: 12480
+SOUND 645	 delay: 0
+SOUND 879	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Death spawn (10)'	animation: 1540
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Death spawn (10)'	animation: 1542
+SOUND 884	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 25, x: 1472, y: 12480
+SOUND 645	 delay: 0
+SOUND 879	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Death spawn (10)'	animation: 1540
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Death spawn (10)'	animation: 1542
+SOUND 884	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 645	 delay: 0
+SOUND 879	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Death spawn (10)'	animation: 1540
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 26, x: 1472, y: 12480
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Death spawn (10)'	animation: 1542
+SOUND 884	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 645	 delay: 0
+SOUND 879	 delay: 0
+SOUND 521	 delay: 20
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Death spawn (10)'	animation: 1540
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Death spawn (10)'	animation: 1542
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 26, x: 1472, y: 12480
+SOUND 884	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 645	 delay: 0
+SOUND 879	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Death spawn (10)'	animation: 1540
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Death spawn (10)'	animation: 1542
+PROJECTILE 230	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 3008, y: 10560
+SOUND 884	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+PROJECTILE 230	startHeight: 11, endHeight: 144, slope: 15, duration: 11, x: 3008, y: 10560
+SOUND 645	 delay: 0
+SOUND 879	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Death spawn (10)'	animation: 1540
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Death spawn (10)'	animation: 1542
+SOUND 884	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 882	 delay: 0
+SOUND 645	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Greater Nechryael (7278)'	animation: 1528
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Greater Nechryael (7278)'	animation: 1528
+PROJECTILE 230	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 2752, y: 10688
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+PROJECTILE 230	startHeight: 11, endHeight: 144, slope: 15, duration: 11, x: 2752, y: 10688
+SOUND 645	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Greater Nechryael (7278)'	animation: 1528
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Greater Nechryael (7278)'	animation: 1528
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+PROJECTILE 230	startHeight: 11, endHeight: 144, slope: 15, duration: 13, x: 3264, y: 10432
+SOUND 645	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Greater Nechryael (7278)'	animation: 1528
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Greater Nechryael (7278)'	animation: 1528
+PROJECTILE 230	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 3264, y: 10176
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+PROJECTILE 230	startHeight: 11, endHeight: 144, slope: 15, duration: 8, x: 3264, y: 10176
+SOUND 645	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Greater Nechryael (7278)'	animation: 1528
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Greater Nechryael (7278)'	animation: 1528
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 645	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Greater Nechryael (7278)'	animation: 1528

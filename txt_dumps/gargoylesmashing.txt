@@ -1,0 +1,12 @@
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Gargoyle (1543)'	animation: 1519
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Gargoyle (1543)'	animation: 1517
+SOUND 2567	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 401
+NPC 'Gargoyle (1543)'	animation: 1517
+AREA_SOUND 429	 delay: 0, range: 4, sceneX: 71, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 401

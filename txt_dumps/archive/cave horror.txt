@@ -1,0 +1,89 @@
+SOUND 497	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 2835
+PLAYER 'ex rs'	 animation: 2835
+PLAYER 'ex rs'	 animation: 2835
+SOUND 497	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 2835
+PLAYER 'ex rs'	 animation: 2835
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 500	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 497	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 500	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 497	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 500	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 497	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 500	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 497	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 500	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 497	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 500	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 497	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+PLAYER 'ex rs'	 animation: 2835
+NPC 'Cave horror (1047)'	animation: 4237
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 500	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave horror (1047)'	animation: 4232
+SOUND 499	 delay: 0
+SOUND 3120	 delay: 0

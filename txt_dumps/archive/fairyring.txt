@@ -1,0 +1,9 @@
+SOUND 1098	 delay: 0
+PLAYER 'ex rs'	 animation: 3265, gfx: 569
+PLAYER 'ex rs'	 animation: 3265, gfx: 569
+PLAYER 'ex rs'	 animation: 3265, gfx: 569
+PLAYER 'ex rs'	 animation: 3266, gfx: 569
+PLAYER 'ex rs'	 gfx: 569
+PLAYER 'ex rs'	 gfx: 569
+PLAYER 'ex rs'	 gfx: 569
+PLAYER 'ex rs'	 gfx: 569

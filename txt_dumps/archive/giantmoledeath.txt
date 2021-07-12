@@ -1,0 +1,10 @@
+SOUND 1642	 delay: 0
+SOUND 2364	 delay: 20
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1645	 delay: 0

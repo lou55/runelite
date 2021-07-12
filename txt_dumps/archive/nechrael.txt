@@ -1,0 +1,46 @@
+SOUND 645	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Nechryael (8)'	animation: 1528
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Nechryael (8)'	animation: 1528
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 645	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Nechryael (8)'	animation: 1528
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Nechryael (8)'	animation: 1528
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 645	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Nechryael (8)'	animation: 1528
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Nechryael (8)'	animation: 1528
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 645	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Nechryael (8)'	animation: 1528
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Nechryael (8)'	animation: 1528
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 645	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Nechryael (8)'	animation: 1528
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Nechryael (8)'	animation: 1528
+SOUND 647	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 646	 delay: 0

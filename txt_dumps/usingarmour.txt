@@ -1,0 +1,26 @@
+AREA_SOUND 1925	 delay: 0, range: 4, sceneX: 24, sceneY: 40
+SOUND 2234	 delay: 10
+PLAYER 'Elon R Musk'	 animation: 827
+SOUND 1909	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 820
+SOUND 1904	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 820
+SOUND 2549	 delay: 0
+SOUND 2832	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 1659
+SOUND 2720	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1658
+NPC 'Animated Rune Armour (2456)'	animation: 386
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1658
+AREA_SOUND 1924	 delay: 0, range: 4, sceneX: 24, sceneY: 40
+SOUND 2549	 delay: 0
+SOUND 2834	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 1659
+NPC 'Animated Rune Armour (2456)'	animation: 386
+AREA_SOUND 1925	 delay: 0, range: 4, sceneX: 24, sceneY: 40
+SOUND 2720	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1658
+NPC 'Animated Rune Armour (2456)'	animation: 386
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1658

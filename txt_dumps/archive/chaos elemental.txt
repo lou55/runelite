@@ -1,0 +1,371 @@
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 157, x: 2752, y: 9024
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 52, x: 3136, y: 7872
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 24, sceneY: 61
+PLAYER 'ex rs'	 animation: 7552, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 79, x: 2752, y: 8896
+PLAYER 'ex rs'	 gfx: 558
+SOUND 2960	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 24, sceneY: 61
+PLAYER 'ex rs'	 animation: 7552, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 50, x: 3136, y: 7872
+PLAYER 'ex rs'	 animation: 7552, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 81, x: 2752, y: 8896
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 gfx: 558
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 gfx: 558
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 24, sceneY: 61
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 2
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 758
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 758
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 79, x: 2752, y: 8896
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 50, x: 3136, y: 7872
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	gfx: 758
+SOUND 351	 delay: 0
+SOUND 521	 delay: 20
+NPC 'Chaos Elemental (2054)'	gfx: 758
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 24, sceneY: 61
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 80, x: 2752, y: 8896
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 51, x: 3136, y: 7872
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 24, sceneY: 61
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+SOUND 2675	 delay: 0
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 79, x: 2752, y: 8896
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 51, x: 3136, y: 7872
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 24, sceneY: 61
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 7552, gfx: 558
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 80, x: 2752, y: 8896
+PLAYER 'ex rs'	 gfx: 558
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 gfx: 558
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 24, sceneY: 61
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 80, x: 2752, y: 8896
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+AREA_SOUND 344	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+AREA_SOUND 121	 delay: 90, range: 5, sceneX: 24, sceneY: 63
+PLAYER 'ex rs'	 animation: 1156, gfx: 555
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 553
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 554	startHeight: 64, endHeight: 128, slope: 16, duration: 60, x: 2752, y: 8896
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 3136, y: 8128
+PLAYER 'ex rs'	 animation: 7552
+SOUND 351	 delay: 0
+SOUND 346	 delay: 0
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 60, x: 2752, y: 8896
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+AREA_SOUND 350	 delay: 170, range: 5, sceneX: 18, sceneY: 55
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 139, x: 2752, y: 8896
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 50, x: 2368, y: 7872
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 18, sceneY: 61
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+PLAYER 'ex rs'	 animation: 7552, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+SOUND 351	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 82, x: 2752, y: 8896
+PLAYER 'ex rs'	 gfx: 558
+SOUND 519	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 61, x: 4032, y: 9536
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 18, sceneY: 61
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+PLAYER 'ex rs'	 animation: 7552, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 51, x: 2368, y: 7872
+PLAYER 'ex rs'	 animation: 7552, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 79, x: 2752, y: 8896
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 gfx: 558
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 gfx: 558
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 18, sceneY: 61
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 80, x: 2752, y: 8896
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+SOUND 521	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+AREA_SOUND 350	 delay: 110, range: 5, sceneX: 18, sceneY: 61
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+PLAYER 'ex rs'	 animation: 7552, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 51, x: 2368, y: 7872
+PLAYER 'ex rs'	 animation: 7552, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 80, x: 2752, y: 8896
+SOUND 2393	 delay: 0
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 558
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 558
+AREA_SOUND 121	 delay: 110, range: 5, sceneX: 20, sceneY: 61
+AREA_SOUND 344	 delay: 0, range: 10, sceneX: 20, sceneY: 68
+PLAYER 'ex rs'	 animation: 1156, gfx: 555
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 553
+PLAYER 'ex rs'	 animation: 1156, gfx: 555
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 554	startHeight: 64, endHeight: 128, slope: 16, duration: 77, x: 2752, y: 8896
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 555
+PLAYER 'ex rs'	 animation: 829, gfx: 555
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+SOUND 346	 delay: 0
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 6976, y: 6848
+AREA_SOUND 353	 delay: 100, range: 5, sceneX: 54, sceneY: 53
+AREA_SOUND 352	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+PLAYER 'ex rs'	 animation: 7552, gfx: 552
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 550
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 gfx: 552
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PLAYER 'ex rs'	 gfx: 552
+SOUND 2244	 delay: 0
+SOUND 2245	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 3284	 delay: 0
+PLAYER 'ex rs'	 gfx: 552
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+AREA_SOUND 350	 delay: 80, range: 5, sceneX: 56, sceneY: 53
+PLAYER 'ex rs'	 animation: 424, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+SOUND 2566	 delay: 0
+PLAYER 'ex rs'	 animation: 423, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 51, x: 7872, y: 6848
+SOUND 351	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'ex rs'	 animation: 423, gfx: 558
+SOUND 2244	 delay: 0
+SOUND 2245	 delay: 0
+PLAYER 'ex rs'	 gfx: 558
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+AREA_SOUND 350	 delay: 50, range: 5, sceneX: 59, sceneY: 53
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+SOUND 2961	 delay: 20
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 1
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 758
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 18, x: 7872, y: 6848
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 7616, y: 6848
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	gfx: 758
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 7360, y: 5824
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 78, x: 7872, y: 6848
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 7360, y: 5824
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7616, y: 6848
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+AREA_SOUND 350	 delay: 50, range: 5, sceneX: 59, sceneY: 53
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 animation: 7552, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 17, x: 7872, y: 6848
+PLAYER 'ex rs'	 gfx: 558
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 53, x: 7360, y: 5824
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+AREA_SOUND 344	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 553
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7616, y: 6848
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 7360, y: 5824
+PROJECTILE 554	startHeight: 64, endHeight: 128, slope: 16, duration: 80, x: 7872, y: 6848
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 80, x: 7872, y: 6848
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7616, y: 6848
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+AREA_SOUND 350	 delay: 50, range: 5, sceneX: 59, sceneY: 53
+PLAYER 'ex rs'	 animation: 1156, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+SOUND 2958	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 20, x: 7872, y: 6848
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7616, y: 6848
+SOUND 2401	 delay: 0
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+AREA_SOUND 352	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+AREA_SOUND 353	 delay: 50, range: 5, sceneX: 59, sceneY: 53
+PLAYER 'ex rs'	 animation: 1156, gfx: 552
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 7104, y: 5824
+SOUND 2244	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 2245	 delay: 0
+PLAYER 'ex rs'	 animation: 1156, gfx: 552
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 552
+PLAYER 'ex rs'	 animation: 829
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 7104, y: 5824
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+AREA_SOUND 350	 delay: 50, range: 5, sceneX: 59, sceneY: 53
+SOUND 2566	 delay: 0
+PLAYER 'ex rs'	 animation: 423, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+SOUND 2244	 delay: 0
+SOUND 2245	 delay: 0
+SOUND 351	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 423, gfx: 558
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 19, x: 7872, y: 6848
+PLAYER 'ex rs'	 gfx: 558
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 7104, y: 5824
+PLAYER 'ex rs'	 gfx: 558
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 50, x: 7104, y: 5824
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 79, x: 7872, y: 6848
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 54, x: 7104, y: 5824
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 80, x: 7872, y: 6848
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 7104, y: 5824
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 79, x: 7872, y: 6848
+SOUND 2582	 delay: 0
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 52, x: 7104, y: 5824
+SOUND 3120	 delay: 0
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+SOUND 2238	 delay: 0
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 49, x: 7104, y: 5824
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 78, x: 7872, y: 6848
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+AREA_SOUND 350	 delay: 50, range: 5, sceneX: 59, sceneY: 52
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 49, x: 7104, y: 5824
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Chaos Elemental (2054)'	animation: 3149
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 22, x: 7872, y: 6848
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 7616, y: 6720
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 7104, y: 5824
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+AREA_SOUND 163	 delay: 51, range: 10, sceneX: 60, sceneY: 52
+SOUND 1080	 delay: 0
+PLAYER 'ex rs'	 animation: 4230
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 157
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 80, x: 7872, y: 6848
+PLAYER 'ex rs'	 animation: 4230
+NPC 'Chaos Elemental (2054)'	gfx: 157
+PROJECTILE 1574	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 7104, y: 5824
+PROJECTILE 698	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7616, y: 6720
+SOUND 351	 delay: 0
+PLAYER 'ex rs'	 animation: 4230
+NPC 'Chaos Elemental (2054)'	gfx: 157
+AREA_SOUND 349	 delay: 0, range: 10, sceneX: 60, sceneY: 52
+NPC 'Chaos Elemental (2054)'	animation: 3149, gfx: 556
+PROJECTILE 557	startHeight: 64, endHeight: 128, slope: 16, duration: 80, x: 7872, y: 6848
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 2607	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829

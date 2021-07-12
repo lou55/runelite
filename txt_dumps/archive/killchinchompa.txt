@@ -1,0 +1,7 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 361	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 361	 delay: 0
+SOUND 360	 delay: 20
+SOUND 3424	 delay: 0

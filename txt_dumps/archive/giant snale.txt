@@ -1,0 +1,107 @@
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 42, sceneY: 60
+SOUND 1184	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+NPC 'Giant snail (5629)'	animation: 3726
+PROJECTILE 628	startHeight: 75, endHeight: 64, slope: 12, duration: 6, x: 5184, y: 7872
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 41, sceneY: 63
+SOUND 789	 delay: 0
+SOUND 1184	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 629
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 39, sceneY: 60
+PLAYER 'IInsomniatik'	 animation: 4177, gfx: 629
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 42, sceneY: 60
+SOUND 1184	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+NPC 'Giant snail (5629)'	animation: 3726
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 41, sceneY: 63
+SOUND 789	 delay: 0
+SOUND 1184	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 629
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 39, sceneY: 60
+PLAYER 'IInsomniatik'	 animation: 4177, gfx: 629
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 42, sceneY: 60
+SOUND 1184	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+NPC 'Giant snail (5629)'	animation: 3726
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 41, sceneY: 63
+SOUND 789	 delay: 0
+SOUND 1184	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+SOUND 787	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 629
+NPC 'Giant snail (5629)'	animation: 3724
+PROJECTILE 628	startHeight: 75, endHeight: 64, slope: 12, duration: 16, x: 5440, y: 8256
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 39, sceneY: 60
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 38, sceneY: 65
+PLAYER 'IInsomniatik'	 animation: 4177, gfx: 629
+NPC 'Giant snail (5629)'	animation: 3724
+SOUND 1184	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+NPC 'Giant snail (5629)'	animation: 3726
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 41, sceneY: 63
+SOUND 789	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+SOUND 1184	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 629
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 37, sceneY: 58
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 38, sceneY: 65
+PLAYER 'IInsomniatik'	 animation: 4177, gfx: 629
+NPC 'Giant snail (5629)'	animation: 3724
+AREA_SOUND 65535	 delay: 71, range: 12, sceneX: 46, sceneY: 55
+AREA_SOUND 65535	 delay: 0, range: 12, sceneX: 41, sceneY: 60
+SOUND 1184	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+NPC 'Giant snail (5629)'	animation: 3726
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 41, sceneY: 63
+SOUND 789	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 46, sceneY: 55
+SOUND 1184	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 629
+PROJECTILE 628	startHeight: 75, endHeight: 64, slope: 12, duration: 11, x: 5440, y: 8256
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 37, sceneY: 58
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 38, sceneY: 65
+PLAYER 'IInsomniatik'	 animation: 4177, gfx: 629
+SOUND 1184	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+NPC 'Giant snail (5629)'	animation: 3726
+PROJECTILE 628	startHeight: 75, endHeight: 64, slope: 12, duration: 1, x: 4928, y: 7616
+PROJECTILE 628	startHeight: 75, endHeight: 64, slope: 12, duration: 21, x: 5056, y: 8512
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 41, sceneY: 63
+SOUND 789	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+SOUND 1184	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 629
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 37, sceneY: 58
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 38, sceneY: 65
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 42, sceneY: 58
+PLAYER 'IInsomniatik'	 animation: 4177, gfx: 629
+NPC 'Giant snail (5629)'	animation: 3724
+SOUND 1184	 delay: 0
+SOUND 511	 delay: 20
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+NPC 'Giant snail (5629)'	animation: 3726
+PROJECTILE 628	startHeight: 75, endHeight: 64, slope: 12, duration: 8, x: 4928, y: 7616
+PROJECTILE 628	startHeight: 75, endHeight: 64, slope: 12, duration: 23, x: 5056, y: 8512
+PROJECTILE 628	startHeight: 75, endHeight: 64, slope: 12, duration: 3, x: 5568, y: 7616
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 41, sceneY: 63
+SOUND 789	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 629
+SOUND 1184	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 629

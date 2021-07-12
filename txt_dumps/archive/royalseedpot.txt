@@ -1,0 +1,10 @@
+PLAYER 'IInsomniatik'	 animation: 4544, gfx: 767
+PLAYER 'IInsomniatik'	 animation: 4544, gfx: 767
+PLAYER 'IInsomniatik'	 animation: 4544, gfx: 767
+PLAYER 'IInsomniatik'	 animation: 4544, gfx: 767
+PLAYER 'IInsomniatik'	 animation: 4544, gfx: 767
+PLAYER 'IInsomniatik'	 animation: 4546, gfx: 769
+PLAYER 'IInsomniatik'	 animation: 4546, gfx: 769
+PLAYER 'IInsomniatik'	 animation: 4546, gfx: 769
+PLAYER 'IInsomniatik'	 gfx: 769
+PLAYER 'IInsomniatik'	 gfx: 769

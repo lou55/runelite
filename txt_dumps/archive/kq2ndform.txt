@@ -1,0 +1,674 @@
+SOUND 555	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Kalphite Queen (965)'	animation: 6234
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 34, x: 6336, y: 5056
+SOUND 2962	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kalphite Queen (965)'	animation: 6234
+SOUND 554	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kalphite Queen (965)'	animation: 6234
+AREA_SOUND 556	 delay: 0, range: 10, sceneX: 54, sceneY: 42
+NPC 'Kalphite Queen (965)'	animation: 6234
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6336, y: 5056
+SOUND 2246	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+SOUND 3424	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 281
+PLAYER 'ex rs'	 animation: 829, gfx: 281
+PLAYER 'ex rs'	 animation: 829, gfx: 281
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6237
+AREA_SOUND 556	 delay: 0, range: 10, sceneX: 50, sceneY: 46
+SOUND 554	 delay: 0
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2811	 delay: 20
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6208, y: 5312
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 555	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6234
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 34, x: 6208, y: 5312
+SOUND 554	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6234
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 281
+SOUND 571	 delay: 0
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6234
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 74, x: 6208, y: 5312
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6234
+NPC 'Kalphite Queen (965)'	animation: 6234
+SOUND 571	 delay: 0
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Kalphite Queen (965)'	animation: 6237
+SOUND 2393	 delay: 0
+SOUND 554	 delay: 0
+SOUND 555	 delay: 0
+PLAYER 'ex rs'	 animation: 2063
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 26, x: 6208, y: 5440
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 34, x: 6208, y: 5440
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 2675	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 559	 delay: 0
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 16, x: 6080, y: 5440
+SOUND 571	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 554	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+SOUND 551	 delay: 0
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 571	 delay: 0
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Kalphite Queen (965)'	animation: 6237
+SOUND 554	 delay: 0
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2811	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 1041
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+SOUND 554	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 1041
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 554	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6237
+SOUND 551	 delay: 0
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 571	 delay: 0
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 554	 delay: 0
+SOUND 555	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6234
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 26, x: 6080, y: 5440
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 34, x: 6080, y: 5440
+SOUND 571	 delay: 0
+SOUND 520	 delay: 20
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6234
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Kalphite Queen (965)'	animation: 6234
+SOUND 554	 delay: 0
+SOUND 555	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6234
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 26, x: 6080, y: 5440
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 34, x: 6080, y: 5440
+SOUND 2401	 delay: 0
+SOUND 571	 delay: 0
+SOUND 520	 delay: 20
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+PLAYER 'ex rs'	 animation: 2063
+SOUND 2401	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 551	 delay: 0
+SOUND 571	 delay: 0
+SOUND 520	 delay: 20
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+PLAYER 'ex rs'	 animation: 2063
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 2401	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 13, x: 6080, y: 5184
+PROJECTILE 280	startHeight: 11, endHeight: 144, slope: 0, duration: 29, x: 6208, y: 5184
+PLAYER 'ex rs'	 gfx: 281
+SOUND 571	 delay: 0
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 2401	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 555	 delay: 0
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 26, x: 6080, y: 5440
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 34, x: 6080, y: 5440
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+SOUND 2401	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+PLAYER 'ex rs'	 gfx: 281
+SOUND 2401	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 559	 delay: 0
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 43, x: 6080, y: 5440
+SOUND 554	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+AREA_SOUND 556	 delay: 0, range: 10, sceneX: 54, sceneY: 42
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 555	 delay: 0
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6234
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 34, x: 6080, y: 5440
+SOUND 2401	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 281
+PLAYER 'ex rs'	 animation: 829, gfx: 281
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2811	 delay: 20
+SOUND 2814	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	gfx: 1041
+SOUND 554	 delay: 0
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+AREA_SOUND 556	 delay: 0, range: 10, sceneX: 50, sceneY: 46
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 555	 delay: 0
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6234
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 34, x: 6080, y: 5440
+SOUND 554	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6234
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6234
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 554	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2811	 delay: 20
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 555	 delay: 0
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6234
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 34, x: 6080, y: 5440
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6234
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6234
+SOUND 554	 delay: 0
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 551	 delay: 0
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2814	 delay: 20
+SOUND 2813	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Kalphite Queen (965)'	animation: 6237
+SOUND 554	 delay: 0
+SOUND 551	 delay: 0
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+PLAYER 'ex rs'	 animation: 2063
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2811	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+SOUND 554	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 554	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2814	 delay: 20
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 1041
+SOUND 554	 delay: 0
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	gfx: 1041
+SOUND 551	 delay: 0
+SOUND 2811	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 281
+PLAYER 'ex rs'	 animation: 829, gfx: 281
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 2401	 delay: 0
+SOUND 551	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+PLAYER 'ex rs'	 animation: 2063
+SOUND 2401	 delay: 0
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 555	 delay: 0
+PLAYER 'ex rs'	 animation: 2063
+PROJECTILE 289	startHeight: 170, endHeight: 124, slope: 10, duration: 34, x: 6080, y: 5440
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+SOUND 2814	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Kalphite Queen (965)'	gfx: 1041
+SOUND 554	 delay: 0
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 281
+PLAYER 'ex rs'	 animation: 829, gfx: 281
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2815	 delay: 20
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 554	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2811	 delay: 20
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 551	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6235
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6237
+SOUND 554	 delay: 0
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6237
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 2815	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6237, gfx: 1041
+SOUND 554	 delay: 0
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170, gfx: 279
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+SOUND 551	 delay: 0
+SOUND 2815	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 554	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 6235
+PLAYER 'ex rs'	 gfx: 281
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2811	 delay: 20
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 551	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 554	 delay: 0
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 551	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Kalphite Queen (965)'	gfx: 1041
+SOUND 554	 delay: 0
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	gfx: 1041
+SOUND 551	 delay: 0
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 2813	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Kalphite Queen (965)'	animation: 6237
+SOUND 554	 delay: 0
+SOUND 551	 delay: 0
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Kalphite Queen (965)'	animation: 6235
+PLAYER 'ex rs'	 animation: 2063
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+SOUND 558	 delay: 0
+SOUND 559	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062, gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+PROJECTILE 280	startHeight: 170, endHeight: 124, slope: 10, duration: 19, x: 6080, y: 5440
+SOUND 554	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+NPC 'Kalphite Queen (965)'	animation: 1170
+SOUND 553	 delay: 0
+PLAYER 'ex rs'	 gfx: 281
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+PLAYER 'ex rs'	 animation: 2063, gfx: 281
+PLAYER 'ex rs'	 gfx: 281
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2812	 delay: 20
+SOUND 2815	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+PLAYER 'ex rs'	 animation: 2063
+PLAYER 'ex rs'	 animation: 2063
+SOUND 571	 delay: 0
+SOUND 571	 delay: 0
+SOUND 2813	 delay: 20
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+PLAYER 'ex rs'	 animation: 2063

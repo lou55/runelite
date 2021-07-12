@@ -1,0 +1,66 @@
+SOUND 496	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2246	 delay: 0
+SOUND 496	 delay: 0
+SOUND 2359	 delay: 20
+PLAYER 'ex rs'	 animation: 5866
+PLAYER 'ex rs'	 animation: 5866
+PLAYER 'ex rs'	 animation: 5866
+SOUND 3454	 delay: 0
+PLAYER 'ex rs'	 animation: 5865
+NPC 'Jungle horror (1042)'	animation: 4232
+SOUND 481	 delay: 0
+SOUND 498	 delay: 0
+SOUND 2364	 delay: 20
+PLAYER 'ex rs'	 animation: 5866
+NPC 'Jungle horror (1042)'	animation: 4235
+PLAYER 'ex rs'	 animation: 5866
+NPC 'Jungle horror (1042)'	animation: 4235
+PLAYER 'ex rs'	 animation: 5866
+SOUND 496	 delay: 0
+SOUND 2365	 delay: 20
+PLAYER 'ex rs'	 animation: 5866
+NPC 'Jungle horror (1042)'	animation: 4234
+AREA_SOUND 3481	 delay: 0, range: 5, sceneX: 55, sceneY: 66
+PLAYER 'ex rs'	 animation: 5870, gfx: 1027
+NPC 'Jungle horror (1042)'	animation: 4232
+SOUND 481	 delay: 0
+PLAYER 'ex rs'	 animation: 5870, gfx: 1027
+NPC 'Jungle horror (1042)'	animation: 4232
+PLAYER 'ex rs'	 animation: 5870, gfx: 1027
+NPC 'Jungle horror (1042)'	animation: 4232
+SOUND 496	 delay: 0
+SOUND 2360	 delay: 20
+PLAYER 'ex rs'	 animation: 5866, gfx: 1027
+NPC 'Jungle horror (1042)'	animation: 4234
+PLAYER 'ex rs'	 animation: 5866
+NPC 'Jungle horror (1042)'	animation: 4234
+PLAYER 'ex rs'	 animation: 5866
+NPC 'Jungle horror (1042)'	animation: 4234
+SOUND 3454	 delay: 0
+PLAYER 'ex rs'	 animation: 5865
+NPC 'Jungle horror (1042)'	animation: 4232
+SOUND 481	 delay: 0
+SOUND 498	 delay: 0
+SOUND 2358	 delay: 20
+PLAYER 'ex rs'	 animation: 5866
+NPC 'Jungle horror (1042)'	animation: 4235
+PLAYER 'ex rs'	 animation: 5866
+NPC 'Jungle horror (1042)'	animation: 4235
+PLAYER 'ex rs'	 animation: 5866
+SOUND 496	 delay: 0
+SOUND 2358	 delay: 20
+PLAYER 'ex rs'	 animation: 5866
+NPC 'Jungle horror (1042)'	animation: 4234
+AREA_SOUND 3481	 delay: 0, range: 5, sceneX: 55, sceneY: 66
+PLAYER 'ex rs'	 animation: 5870, gfx: 1027
+NPC 'Jungle horror (1042)'	animation: 4232
+SOUND 481	 delay: 0
+PLAYER 'ex rs'	 animation: 5870, gfx: 1027
+NPC 'Jungle horror (1042)'	animation: 4232
+SOUND 480	 delay: 0
+PLAYER 'ex rs'	 animation: 5870, gfx: 1027
+PLAYER 'ex rs'	 animation: 5870, gfx: 1027

@@ -1,0 +1,12 @@
+SOUND 1493	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1100, gfx: 264
+PLAYER 'IInsomniatik'	 animation: 1100, gfx: 264
+GFX 263	level: 0, start_cycle: 3755289, x: 9792, y: 8128
+GFX 263	level: 0, start_cycle: 3755289, x: 9792, y: 8000
+GFX 263	level: 0, start_cycle: 3755289, x: 9664, y: 8000
+GFX 263	level: 0, start_cycle: 3755289, x: 9536, y: 8000
+GFX 263	level: 0, start_cycle: 3755289, x: 9536, y: 8128
+GFX 263	level: 0, start_cycle: 3755289, x: 9664, y: 8256
+GFX 263	level: 0, start_cycle: 3755289, x: 9792, y: 8256
+GFX 263	level: 0, start_cycle: 3755289, x: 9536, y: 8256
+PLAYER 'IInsomniatik'	 animation: 1100

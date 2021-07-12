@@ -1,0 +1,99 @@
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 47, x: 7232, y: 3648
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320
+SOUND 543	 delay: 0
+NPC 'Venenatis (6610)'	animation: 5320
+SOUND 3424	 delay: 0
+NPC 'Venenatis (6610)'	animation: 5320
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 36, x: 7232, y: 3648
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320
+SOUND 543	 delay: 0
+NPC 'Venenatis (6610)'	animation: 5320
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320
+SOUND 541	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5319
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 25, x: 7232, y: 3648
+SOUND 543	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5319
+SOUND 541	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Venenatis (6610)'	animation: 5319, gfx: 164
+SOUND 2959	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5319, gfx: 164
+PROJECTILE 165	startHeight: 64, endHeight: 84, slope: 0, duration: 26, x: 7488, y: 3520
+PLAYER 'ex rs'	 animation: 7552
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7232, y: 3648
+SOUND 543	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5322, gfx: 164
+SOUND 2960	 delay: 20
+NPC 'Venenatis (6610)'	animation: 5322, gfx: 164
+PROJECTILE 165	startHeight: 64, endHeight: 84, slope: 0, duration: 28, x: 7488, y: 3520
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320, gfx: 164
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320, gfx: 164
+PROJECTILE 165	startHeight: 64, endHeight: 84, slope: 0, duration: 26, x: 7488, y: 3520
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7232, y: 3136
+SOUND 543	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+SOUND 2695	 delay: 0
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 34, x: 7232, y: 2624
+PLAYER 'ex rs'	 animation: 7552
+NPC 'Venenatis (6610)'	animation: 5320
+SOUND 543	 delay: 0
+SOUND 541	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Venenatis (6610)'	animation: 5319
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Venenatis (6610)'	animation: 5319
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 2393	 delay: 0
+SOUND 541	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 541	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 149	 delay: 0, range: 10, sceneX: 55, sceneY: 49
+PLAYER 'ex rs'	 gfx: 172
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 8384, y: 1088
+PROJECTILE 165	startHeight: 64, endHeight: 84, slope: 0, duration: 96, x: 7744, y: 6208

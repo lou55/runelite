@@ -1,0 +1,46 @@
+SOUND 2500	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Guard (3010)'	animation: 6489
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Guard (3010)'	animation: 6489
+SOUND 2500	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Guard (3010)'	animation: 6489
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Guard (3010)'	animation: 6489
+SOUND 225	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 2890, gfx: 483
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388, gfx: 483
+NPC 'Guard (3010)'	animation: 6489
+PLAYER 'Elon R Musk'	 animation: 388, gfx: 483
+NPC 'Guard (3010)'	animation: 6489
+PLAYER 'Elon R Musk'	 gfx: 483
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Guard (3010)'	animation: 6488
+SOUND 512	 delay: 0
+GROUND_ITEM 526	 quantity 1	 spawnTime 6732
+GROUND_ITEM 995	 quantity 1	 spawnTime 6732

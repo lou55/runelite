@@ -1,0 +1,68 @@
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: NoBannerinoX
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 49, sceneY: 60, source: TDF Mike NL
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: NoBannerinoX
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Hot Shade
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 51, sceneY: 42, source: Die Angel3
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 49, sceneY: 60, source: TDF Mike NL
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: NoBannerinoX
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Hot Shade
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 51, sceneY: 42, source: Die Angel3
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 49, sceneY: 60, source: TDF Mike NL
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Finnix1777
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: TearySquash
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: NoBannerinoX
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Hot Shade
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 51, sceneY: 42, source: Die Angel3
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Finnix1777
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: TearySquash
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Hot Shade
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 51, sceneY: 42, source: Die Angel3
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Finnix1777
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: TearySquash
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Finnix1777
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: TearySquash
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 49, sceneY: 60, source: TDF Mike NL
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 49, sceneY: 60, source: TDF Mike NL
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: NoBannerinoX
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 49, sceneY: 60, source: TDF Mike NL
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: NoBannerinoX
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Hot Shade
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 51, sceneY: 42, source: Die Angel3
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: NoBannerinoX
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Hot Shade
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 51, sceneY: 42, source: Die Angel3
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Finnix1777
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: TearySquash
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: NoBannerinoX
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Hot Shade
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 51, sceneY: 42, source: Die Angel3
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: Finnix1777
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 52, sceneY: 43, source: TearySquash
+SOUND 1084	 delay: 0
+PLAYER 'ex rs'	 animation: 4198, gfx: 704
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'ex rs'	 animation: 4198, gfx: 704
+NPC 'Guard (3010)'	animation: 6488
+PLAYER 'ex rs'	 animation: 4198, gfx: 704
+SOUND 2549	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Guard (3010)'	animation: 6489
+SOUND 2549	 delay: 0
+PLAYER 'ex rs'	 animation: 386
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'ex rs'	 animation: 386
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Guard (3010)'	animation: 6489
+SOUND 2549	 delay: 0
+PLAYER 'ex rs'	 animation: 386
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'ex rs'	 animation: 386
+NPC 'Guard (3010)'	animation: 6488
+SOUND 512	 delay: 0

@@ -1,0 +1,115 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1560
+SOUND 365	 delay: 0
+SOUND 363	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 363	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 425
+PLAYER 'ex rs'	 animation: 425
+PLAYER 'ex rs'	 animation: 425
+SOUND 363	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 425
+PLAYER 'ex rs'	 animation: 425
+PLAYER 'ex rs'	 animation: 425
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1560
+SOUND 365	 delay: 0
+SOUND 363	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1560
+SOUND 365	 delay: 0
+SOUND 363	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1560
+SOUND 365	 delay: 0
+SOUND 363	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1560
+SOUND 365	 delay: 0
+SOUND 363	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1560
+SOUND 365	 delay: 0
+SOUND 363	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1560
+SOUND 365	 delay: 0
+SOUND 363	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 363	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 365	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 363	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 365	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 2401	 delay: 0
+SOUND 363	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 425
+PLAYER 'ex rs'	 animation: 425
+PLAYER 'ex rs'	 animation: 425
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 363	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 425
+PLAYER 'ex rs'	 animation: 425
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 363	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 365	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cockatrice (419)'	animation: 1562
+SOUND 364	 delay: 0

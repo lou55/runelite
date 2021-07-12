@@ -1,0 +1,123 @@
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 410	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 408	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 410	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 408	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 410	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 408	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 410	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 408	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 6722
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 6722
+SOUND 2959	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 6722
+SOUND 410	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 6722
+SOUND 408	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 410	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 408	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Mithril dragon (2919)'	animation: 80
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 410	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Mithril dragon (2919)'	animation: 89
+SOUND 408	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 408	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 2960	 delay: 20
+AREA_SOUND 3750	 delay: 0, range: 10, sceneX: 43, sceneY: 60
+SOUND 2960	 delay: 20
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+AREA_SOUND 3750	 delay: 0, range: 10, sceneX: 43, sceneY: 60
+SOUND 2958	 delay: 20
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+AREA_SOUND 3750	 delay: 0, range: 10, sceneX: 43, sceneY: 60
+SOUND 2962	 delay: 20
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+SOUND 408	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 518	 delay: 20
+AREA_SOUND 3750	 delay: 0, range: 10, sceneX: 43, sceneY: 60
+SOUND 2958	 delay: 20
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 44, sceneY: 61, source: Mithril dragon (2919)
+SOUND 3120	 delay: 0
+SOUND 408	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 2958	 delay: 20
+SOUND 408	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156

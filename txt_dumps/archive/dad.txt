@@ -1,0 +1,66 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 285
+SOUND 864	 delay: 0
+SOUND 862	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 284
+NPC 'Dad (6391)'	animation: 284
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 285
+SOUND 864	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 285
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 285
+SOUND 864	 delay: 0
+SOUND 865	 delay: 0
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+SOUND 865	 delay: 0
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1157
+NPC 'Dad (6391)'	animation: 285
+SOUND 864	 delay: 0
+NPC 'Dad (6391)'	animation: 285
+SOUND 862	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 284
+SOUND 864	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 284
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 285
+SOUND 864	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 285
+SOUND 862	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 284
+SOUND 864	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 284
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 285
+SOUND 864	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Dad (6391)'	animation: 285
+SOUND 863	 delay: 0

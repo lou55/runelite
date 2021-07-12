@@ -1,0 +1,70 @@
+SOUND 726	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2566	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 728	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 726	 delay: 0
+SOUND 519	 delay: 20
+SOUND 2566	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 728	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 726	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2566	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 728	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 727	 delay: 0
+GROUND_ITEM 377	 quantity 1	 spawnTime 4768
+GROUND_ITEM 562	 quantity 20	 spawnTime 4768
+PLAYER 'Elon R Musk'	 gfx: 603
+PLAYER 'Elon R Musk'	 gfx: 603
+PLAYER 'Elon R Musk'	 gfx: 603
+PLAYER 'Elon R Musk'	 gfx: 603
+PLAYER 'Elon R Musk'	 gfx: 603
+SOUND 2248	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 3416, gfx: 603
+PLAYER 'Elon R Musk'	 animation: 3416
+SOUND 3551	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 728	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 726	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Lobstrosity (7796)'	animation: 6265
+SOUND 3551	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 728	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 726	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Lobstrosity (7796)'	animation: 6265
+SOUND 3473	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 6118, gfx: 1048
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 728	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 6118, gfx: 1048
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 726	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Lobstrosity (7796)'	animation: 6265
+SOUND 3551	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Lobstrosity (7796)'	animation: 6266
+GROUND_ITEM 21490	 quantity 3	 spawnTime 4800
+SOUND 728	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 726	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Lobstrosity (7796)'	animation: 6265

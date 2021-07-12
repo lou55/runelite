@@ -1,0 +1,51 @@
+SOUND 2566	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Ancient Zygomite (7797)'	animation: 3326
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Ancient Zygomite (7797)'	animation: 3326
+SOUND 3551	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Ancient Zygomite (7797)'	animation: 3325
+SOUND 1970	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Ancient Zygomite (7797)'	animation: 3325
+SOUND 2566	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Ancient Zygomite (7797)'	animation: 3326
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Ancient Zygomite (7797)'	animation: 3326
+SOUND 3551	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Ancient Zygomite (7797)'	animation: 3325
+SOUND 1970	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Ancient Zygomite (7797)'	animation: 3325
+SOUND 1965	 delay: 0
+SOUND 1966	 delay: 19
+SOUND 519	 delay: 20
+PROJECTILE 576	startHeight: 64, endHeight: 124, slope: 0, duration: 19, x: 5440, y: 10048
+SOUND 3551	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Ancient Zygomite (7797)'	animation: 3325
+SOUND 1970	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Ancient Zygomite (7797)'	animation: 3325
+SOUND 1965	 delay: 0
+SOUND 1966	 delay: 19
+SOUND 520	 delay: 20
+PROJECTILE 576	startHeight: 64, endHeight: 124, slope: 0, duration: 19, x: 5440, y: 10048
+SOUND 3551	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Ancient Zygomite (7797)'	animation: 3325
+SOUND 1970	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Ancient Zygomite (7797)'	animation: 3325
+GROUND_ITEM 21555	 quantity 9	 spawnTime 4071
+GROUND_ITEM 407	 quantity 1	 spawnTime 4071
+GROUND_ITEM 407	 quantity 1	 spawnTime 4071
+SOUND 1965	 delay: 0
+SOUND 1966	 delay: 19
+SOUND 518	 delay: 20
+PROJECTILE 576	startHeight: 64, endHeight: 124, slope: 0, duration: 19, x: 5440, y: 10048

@@ -1,0 +1,29 @@
+PLAYER 'Elon R Musk'	 gfx: 603
+SOUND 726	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2566	 delay: 0
+PLAYER 'Elon R Musk'	 gfx: 603
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 728	 delay: 0
+PLAYER 'Elon R Musk'	 gfx: 603
+NPC 'Lobstrosity (7796)'	animation: 6266
+PLAYER 'Elon R Musk'	 gfx: 603
+PLAYER 'Elon R Musk'	 gfx: 603
+SOUND 726	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2566	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 728	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 726	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2566	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 728	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 726	 delay: 0
+SOUND 521	 delay: 20
+SOUND 2566	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266
+SOUND 728	 delay: 0
+NPC 'Lobstrosity (7796)'	animation: 6266

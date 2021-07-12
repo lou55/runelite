@@ -1,0 +1,100 @@
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 44, sceneY: 58
+AREA_SOUND 3007	 delay: 50, range: 10, sceneX: 43, sceneY: 60
+SOUND 400	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 69
+SOUND 2960	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 400	 delay: 0
+SOUND 924	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 400	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+SOUND 400	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 400	 delay: 0
+SOUND 924	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Skotizo (7286)'	animation: 4680
+SOUND 400	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Skotizo (7286)'	animation: 4676
+SOUND 400	 delay: 0
+SOUND 403	 delay: 0
+SOUND 924	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Dark Ankou (7296)'	animation: 422
+SOUND 400	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Dark Ankou (7296)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Dark Ankou (7296)'	animation: 425
+SOUND 926	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Dark Ankou (7296)'	animation: 425
+SOUND 400	 delay: 0
+SOUND 924	 delay: 0
+SOUND 2960	 delay: 20
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Dark Ankou (7296)'	animation: 422
+SOUND 400	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Dark Ankou (7296)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Dark Ankou (7296)'	animation: 425
+SOUND 926	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Dark Ankou (7296)'	animation: 425
+SOUND 400	 delay: 0
+SOUND 924	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Dark Ankou (7296)'	animation: 422
+SOUND 400	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Dark Ankou (7296)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Dark Ankou (7296)'	animation: 425
+SOUND 926	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Dark Ankou (7296)'	animation: 425
+SOUND 400	 delay: 0
+SOUND 924	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Dark Ankou (7296)'	animation: 422

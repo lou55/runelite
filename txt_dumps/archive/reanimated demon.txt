@@ -1,0 +1,92 @@
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 400	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+AREA_SOUND 3007	 delay: 140, range: 10, sceneX: 32, sceneY: 58
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 43, sceneY: 57
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 400	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+PROJECTILE 1242	startHeight: 226, endHeight: 124, slope: 16, duration: 111, x: 5568, y: 7616
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 400	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+AREA_SOUND 3007	 delay: 140, range: 10, sceneX: 32, sceneY: 58
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 43, sceneY: 57
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 400	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 2961	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+AREA_SOUND 3007	 delay: 140, range: 10, sceneX: 32, sceneY: 58
+AREA_SOUND 3006	 delay: 0, range: 10, sceneX: 43, sceneY: 57
+PLAYER 'ex rs'	 gfx: 1243
+SOUND 400	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1243
+SOUND 400	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 403	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 67
+SOUND 400	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+AREA_SOUND 3007	 delay: 150, range: 10, sceneX: 31, sceneY: 59
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+PLAYER 'ex rs'	 gfx: 1243
+PROJECTILE 1242	startHeight: 226, endHeight: 124, slope: 16, duration: 121, x: 5568, y: 7616
+SOUND 400	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243
+NPC 'Reanimated demon spawn (7287)'	animation: 64
+SOUND 404	 delay: 0
+PLAYER 'ex rs'	 animation: 390, gfx: 1243

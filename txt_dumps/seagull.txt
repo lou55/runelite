@@ -1,0 +1,9 @@
+GROUND_ITEM 526	 quantity 1	 spawnTime 1192
+SOUND 2714	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1665
+NPC 'Seagull (1338)'	animation: 1014
+SOUND 311	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1665
+NPC 'Seagull (1338)'	animation: 1014
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 53, sceneY: 53
+SOUND 310	 delay: 0

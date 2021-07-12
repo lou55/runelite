@@ -1,0 +1,93 @@
+AREA_SOUND 163	 delay: 96, range: 10, sceneX: 33, sceneY: 68
+AREA_SOUND 163	 delay: 96, range: 10, sceneX: 33, sceneY: 68
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 81
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 32, sceneY: 74, source: Steel dragon (7255)
+AREA_SOUND 3749	 delay: 0, range: 10, sceneX: 33, sceneY: 68
+SOUND 410	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 81
+PROJECTILE 88	startHeight: 64, endHeight: 124, slope: 16, duration: 38, x: 3904, y: 8128
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69
+AREA_SOUND 3749	 delay: 0, range: 10, sceneX: 31, sceneY: 73
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 32, sceneY: 74, source: Steel dragon (7255)
+AREA_SOUND 3749	 delay: 0, range: 10, sceneX: 33, sceneY: 68
+AREA_SOUND 163	 delay: 96, range: 10, sceneX: 33, sceneY: 68
+AREA_SOUND 163	 delay: 96, range: 10, sceneX: 33, sceneY: 68
+SOUND 520	 delay: 20
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69
+AREA_SOUND 3749	 delay: 0, range: 10, sceneX: 31, sceneY: 73
+PROJECTILE 88	startHeight: 64, endHeight: 124, slope: 16, duration: 37, x: 3904, y: 8128
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 32, sceneY: 74, source: Steel dragon (7255)
+AREA_SOUND 3749	 delay: 0, range: 10, sceneX: 33, sceneY: 68
+SOUND 520	 delay: 20
+AREA_SOUND 3749	 delay: 0, range: 10, sceneX: 31, sceneY: 73
+NPC 'Steel dragon (7255)'	animation: 81
+NPC 'Steel dragon (7255)'	animation: 81
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 32, sceneY: 74, source: Steel dragon (7255)
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 81
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+AREA_SOUND 408	 delay: 0, range: 10, sceneX: 31, sceneY: 73
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Steel dragon (7255)'	animation: 91
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Steel dragon (7255)'	animation: 91
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 89
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 89
+AREA_SOUND 408	 delay: 0, range: 10, sceneX: 31, sceneY: 73
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Steel dragon (7255)'	animation: 91
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Steel dragon (7255)'	animation: 91
+SOUND 4195	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 89
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 89
+AREA_SOUND 408	 delay: 0, range: 10, sceneX: 31, sceneY: 73
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Steel dragon (7255)'	animation: 91
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Steel dragon (7255)'	animation: 91
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 89
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 89
+AREA_SOUND 408	 delay: 0, range: 10, sceneX: 31, sceneY: 73
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Steel dragon (7255)'	animation: 91
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Steel dragon (7255)'	animation: 91
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 89
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 89
+AREA_SOUND 408	 delay: 0, range: 10, sceneX: 31, sceneY: 73
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Steel dragon (7255)'	animation: 91
+PLAYER 'ex rs'	 animation: 1659
+NPC 'Steel dragon (7255)'	animation: 91
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Steel dragon (7255)'	animation: 89

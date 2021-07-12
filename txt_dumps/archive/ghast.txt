@@ -1,0 +1,37 @@
+NPC 'Ghast (5626)'	animation: 1088
+SOUND 433	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Ghast (5626)'	animation: 1088
+SOUND 435	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Ghast (5626)'	animation: 1088
+SOUND 433	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Ghast (5626)'	animation: 1087
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Ghast (5626)'	animation: 1087
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Ghast (5626)'	animation: 1088
+SOUND 435	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Ghast (5626)'	animation: 1088
+SOUND 434	 delay: 0
+SOUND 433	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Ghast (5626)'	animation: 1087
+SOUND 435	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Ghast (5626)'	animation: 1087
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Ghast (5626)'	animation: 1088
+SOUND 435	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Ghast (5626)'	animation: 1088
+NPC 'Ghast (5626)'	animation: 1088

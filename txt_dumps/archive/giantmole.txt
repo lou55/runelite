@@ -1,0 +1,248 @@
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 3424	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3311
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3311
+SOUND 1642	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3311
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3311
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3311
+SOUND 1642	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1642	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Giant Mole (5779)'	animation: 3312
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1646	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+AREA_SOUND 1641	 delay: 0, range: 10, sceneX: 50, sceneY: 37
+SOUND 1647	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 570	startHeight: 0, endHeight: 0, slope: 9, duration: 13, x: 6592, y: 4928
+PROJECTILE 570	startHeight: 0, endHeight: 0, slope: 13, duration: 8, x: 6592, y: 4928
+PROJECTILE 570	startHeight: 0, endHeight: 0, slope: 6, duration: 23, x: 6592, y: 4928
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2238	 delay: 0

@@ -1,0 +1,34 @@
+SOUND 815	 delay: 0
+SOUND 2960	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Suqah (790)'	animation: 4385
+SOUND 817	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Suqah (790)'	animation: 4385
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Suqah (790)'	animation: 4385
+SOUND 817	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Suqah (790)'	animation: 4385
+SOUND 815	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Suqah (790)'	animation: 4388
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Suqah (790)'	animation: 4388
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Suqah (790)'	animation: 4385
+SOUND 817	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Suqah (790)'	animation: 4385
+SOUND 815	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Suqah (790)'	animation: 4385
+SOUND 817	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Suqah (790)'	animation: 4385

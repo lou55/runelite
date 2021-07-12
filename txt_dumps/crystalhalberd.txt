@@ -1,0 +1,26 @@
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 54, source: Kanto133
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 54, source: Kanto133
+SOUND 2533	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1203
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 54, source: Kanto133
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 41, source: jokumeez
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 41, source: jokumeez
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1203
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 41, source: jokumeez
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 41, source: jokumeez
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 54, source: Kanto133
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 54, source: Kanto133
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 54, source: Kanto133
+SOUND 512	 delay: 0
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 41, source: jokumeez
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: 3 N V
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 41, source: jokumeez
+GROUND_ITEM 526	 quantity 1	 spawnTime 927
+GROUND_ITEM 995	 quantity 7	 spawnTime 927
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: 3 N V
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 41, source: jokumeez
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: 3 N V
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 41, source: jokumeez

@@ -1,0 +1,25 @@
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Iron M T N
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Iron M T N
+SOUND 2566	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 245
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 303	 delay: 0, range: 1, sceneX: 51, sceneY: 35, source: Lou Grinder
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 245
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 229	 delay: 0, range: 1, sceneX: 51, sceneY: 35, source: Lou Grinder
+AREA_SOUND 2379	 delay: 0, range: 1, sceneX: 51, sceneY: 35, source: Lou Grinder
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 7200
+NPC 'Guard (3010)'	animation: 6489
+SOUND 2566	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 245
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 245
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 303	 delay: 0, range: 1, sceneX: 51, sceneY: 35, source: Lou Grinder
+AREA_SOUND 229	 delay: 0, range: 1, sceneX: 51, sceneY: 35, source: Lou Grinder
+AREA_SOUND 2379	 delay: 0, range: 1, sceneX: 51, sceneY: 35, source: Lou Grinder
+SOUND 512	 delay: 0

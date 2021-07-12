@@ -1,0 +1,1 @@
+AREA_SOUND 765	 delay: 0, range: 5, sceneX: 53, sceneY: 54

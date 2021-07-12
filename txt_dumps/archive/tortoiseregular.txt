@@ -1,0 +1,99 @@
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 457	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Tortoise (6075)'	animation: 3960
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 457	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Tortoise (6075)'	animation: 3960
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 457	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Tortoise (6075)'	animation: 3960
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 457	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Tortoise (6075)'	animation: 3960
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 457	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Tortoise (6075)'	animation: 3960
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 457	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Tortoise (6075)'	animation: 3960
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 457	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Tortoise (6075)'	animation: 3960
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 457	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Tortoise (6075)'	animation: 3960
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 457	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Tortoise (6075)'	animation: 3960
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 457	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Tortoise (6075)'	animation: 3960
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Tortoise (6075)'	animation: 3961
+SOUND 459	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 458	 delay: 0

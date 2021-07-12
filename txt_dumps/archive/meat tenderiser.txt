@@ -1,0 +1,42 @@
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2567	 delay: 0
+PLAYER 'ex rs'	 animation: 401
+NPC 'Guard (5418)'	animation: 403
+SOUND 28	 delay: 0
+SOUND 2567	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 401
+NPC 'Guard (5418)'	animation: 401
+NPC 'Guard (5418)'	animation: 401
+SOUND 2567	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2567	 delay: 0
+PLAYER 'ex rs'	 animation: 401
+NPC 'Guard (5418)'	animation: 401
+SOUND 28	 delay: 0
+PLAYER 'ex rs'	 animation: 401
+NPC 'Guard (5418)'	animation: 401
+SOUND 512	 delay: 0
+SOUND 2567	 delay: 0
+PLAYER 'ex rs'	 animation: 401
+NPC 'Guard (5418)'	animation: 403
+SOUND 28	 delay: 0
+PLAYER 'ex rs'	 animation: 401
+NPC 'Guard (5418)'	animation: 403
+NPC 'Guard (5418)'	animation: 403
+SOUND 2567	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Guard (5418)'	animation: 401
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Guard (5418)'	animation: 401
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 54, sceneY: 64
+SOUND 2567	 delay: 0
+PLAYER 'ex rs'	 animation: 401
+NPC 'Guard (5418)'	animation: 403
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 54, sceneY: 64
+SOUND 28	 delay: 0
+PLAYER 'ex rs'	 animation: 401
+NPC 'Guard (5418)'	animation: 403
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 54, sceneY: 64

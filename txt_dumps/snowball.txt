@@ -1,0 +1,30 @@
+AREA_SOUND 2708	 delay: 0, range: 5, sceneX: 49, sceneY: 52
+SOUND 3292	 delay: 100
+PLAYER 'Elon R Musk'	 animation: 5063, gfx: 860
+PLAYER 'wrathful8008'	animation: 424, gfx: 862
+PLAYER 'Elon R Musk'	 animation: 5063, gfx: 860
+PLAYER 'wrathful8008'	animation: 424, gfx: 862
+PLAYER 'Elon R Musk'	 animation: 5063, gfx: 860
+PLAYER 'wrathful8008'	animation: 424, gfx: 862
+PROJECTILE 861	startHeight: 11, endHeight: 44, slope: 15, duration: 40, x: 6336, y: 6720
+PLAYER 'Elon R Musk'	 animation: 5063, gfx: 860
+PLAYER 'wrathful8008'	animation: 424, gfx: 862
+PLAYER 'wrathful8008'	animation: 424, gfx: 862
+AREA_SOUND 2708	 delay: 0, range: 5, sceneX: 49, sceneY: 52
+SOUND 3292	 delay: 100
+PLAYER 'Elon R Musk'	 animation: 5063, gfx: 860
+PLAYER 'wrathful8008'	animation: 424, gfx: 862
+PLAYER 'Elon R Musk'	 animation: 5063, gfx: 860
+PLAYER 'wrathful8008'	gfx: 862
+PLAYER 'Elon R Musk'	 animation: 5063, gfx: 860
+PLAYER 'wrathful8008'	gfx: 862
+PROJECTILE 861	startHeight: 11, endHeight: 44, slope: 15, duration: 40, x: 6336, y: 6720
+PLAYER 'Elon R Musk'	 animation: 5063, gfx: 860
+PLAYER 'wrathful8008'	gfx: 862
+PLAYER 'wrathful8008'	gfx: 862
+AREA_SOUND 2708	 delay: 0, range: 5, sceneX: 49, sceneY: 52
+SOUND 3292	 delay: 100
+PLAYER 'Elon R Musk'	 animation: 5063, gfx: 860
+PLAYER 'wrathful8008'	animation: 424, gfx: 862
+PLAYER 'Elon R Musk'	 animation: 5063, gfx: 860
+PLAYER 'wrathful8008'	animation: 424, gfx: 862

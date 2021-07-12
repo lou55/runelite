@@ -1,0 +1,63 @@
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 59, sceneY: 55
+AREA_SOUND 227	 delay: 61, range: 10, sceneX: 60, sceneY: 52
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 59, sceneY: 52
+AREA_SOUND 227	 delay: 51, range: 10, sceneX: 60, sceneY: 52
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+NPC 'Wallasalki (5939)'	animation: 2365
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 7104
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 40, duration: 51, x: 7616, y: 6720
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+NPC 'Wallasalki (5939)'	animation: 2365
+SOUND 2369	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Wallasalki (5939)'	animation: 2366
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 59, sceneY: 52
+AREA_SOUND 227	 delay: 51, range: 10, sceneX: 60, sceneY: 52
+SOUND 1079	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 40, duration: 51, x: 7616, y: 6720
+SOUND 2367	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 85
+PLAYER 'IInsomniatik'	 gfx: 85
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 59, sceneY: 55
+AREA_SOUND 227	 delay: 51, range: 10, sceneX: 59, sceneY: 54
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 59, sceneY: 52
+AREA_SOUND 214	 delay: 56, range: 10, sceneX: 59, sceneY: 54
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Wallasalki (5939)'	animation: 2366
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 40, duration: 51, x: 7616, y: 7104
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 40, duration: 56, x: 7616, y: 6720
+SOUND 1079	 delay: 0
+SOUND 2367	 delay: 20
+SOUND 2367	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+PLAYER 'IInsomniatik'	 gfx: 85
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 59, sceneY: 52
+AREA_SOUND 214	 delay: 56, range: 10, sceneX: 59, sceneY: 54
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 40, duration: 56, x: 7616, y: 6720
+SOUND 2370	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Wallasalki (5939)'	animation: 2366
+SOUND 1079	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 59, sceneY: 55
+AREA_SOUND 227	 delay: 51, range: 10, sceneX: 59, sceneY: 54
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 59, sceneY: 52
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 59, sceneY: 54
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+NPC 'Wallasalki (5939)'	animation: 2365
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 40, duration: 51, x: 7616, y: 7104
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 40, duration: 56, x: 7616, y: 6720
+SOUND 2368	 delay: 20
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 59, sceneY: 52
+AREA_SOUND 214	 delay: 66, range: 10, sceneX: 63, sceneY: 53
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 40, duration: 66, x: 7616, y: 6720

@@ -1,0 +1,89 @@
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 926	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 924	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Zombie pirate (565)'	animation: 5647
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Zombie pirate (565)'	animation: 5647
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 926	 delay: 0
+SOUND 924	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5647
+NPC 'Zombie pirate (565)'	animation: 5647
+NPC 'Zombie pirate (565)'	animation: 5647
+SOUND 924	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 926	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 924	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Zombie pirate (565)'	animation: 5647
+SOUND 926	 delay: 0
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 926	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 924	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Zombie pirate (565)'	animation: 5647
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Zombie pirate (565)'	animation: 5647
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 926	 delay: 0
+SOUND 924	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5647
+NPC 'Zombie pirate (565)'	animation: 5647
+NPC 'Zombie pirate (565)'	animation: 5647
+SOUND 924	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 926	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 924	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Zombie pirate (565)'	animation: 5647
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 926	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 924	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Zombie pirate (565)'	animation: 5647
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Zombie pirate (565)'	animation: 5647
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5648
+SOUND 926	 delay: 0
+SOUND 924	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Zombie pirate (565)'	animation: 5647
+SOUND 925	 delay: 0

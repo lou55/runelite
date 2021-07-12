@@ -1,0 +1,14 @@
+SOUND 893	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1809
+PLAYER 'Lou Grinder'	 animation: 1810
+PLAYER 'Lou Grinder'	 animation: 1810
+PLAYER 'Lou Grinder'	 animation: 1810
+PLAYER 'Lou Grinder'	 animation: 1810
+PLAYER 'Lou Grinder'	 animation: 1810
+PLAYER 'Lou Grinder'	 animation: 1810
+PLAYER 'Lou Grinder'	 animation: 1810
+PLAYER 'Lou Grinder'	 animation: 1810
+SOUND 521	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1811
+SOUND 893	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1809

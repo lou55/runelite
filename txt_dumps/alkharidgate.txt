@@ -1,0 +1,3 @@
+SOUND 69	 delay: 0
+
+You pay the guard.

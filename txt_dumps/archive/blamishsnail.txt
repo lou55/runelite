@@ -1,0 +1,30 @@
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Myre Blamish Snail (2634)'	animation: 1278
+SOUND 789	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 63, sceneY: 41
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Myre Blamish Snail (2634)'	animation: 1278
+SOUND 789	 delay: 0
+SOUND 1184	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 787	 delay: 0
+SOUND 433	 delay: 0
+SOUND 1494	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1659
+PLAYER 'IInsomniatik'	 animation: 1659
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Myre Blamish Snail (2649)'	animation: 1278
+SOUND 789	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+AREA_SOUND 790	 delay: 0, range: 10, sceneX: 57, sceneY: 46
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Myre Blamish Snail (2649)'	animation: 1278
+SOUND 789	 delay: 0
+SOUND 1184	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 787	 delay: 0

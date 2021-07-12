@@ -1,0 +1,2 @@
+PLAYER 'ex rs'	 animation: 827
+PLAYER 'ex rs'	 animation: 827

@@ -1,0 +1,29 @@
+AREA_SOUND 3768	 delay: 0, range: 1, sceneX: 49, sceneY: 46, source: JTSMonster
+GROUND_ITEM 592	 quantity 1	 spawnTime 37
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+SOUND 1735	 delay: 0
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 3767	 delay: 0, range: 1, sceneX: 49, sceneY: 46, source: JTSMonster
+AREA_SOUND 3766	 delay: 0, range: 1, sceneX: 49, sceneY: 46, source: JTSMonster
+AREA_SOUND 3769	 delay: 0, range: 1, sceneX: 49, sceneY: 46, source: JTSMonster
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 3768	 delay: 0, range: 1, sceneX: 49, sceneY: 46, source: JTSMonster
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+GROUND_ITEM 592	 quantity 1	 spawnTime 53
+AREA_SOUND 3767	 delay: 0, range: 1, sceneX: 49, sceneY: 46, source: JTSMonster
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 3766	 delay: 0, range: 1, sceneX: 49, sceneY: 46, source: JTSMonster
+AREA_SOUND 3769	 delay: 0, range: 1, sceneX: 49, sceneY: 46, source: JTSMonster
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+GROUND_ITEM 592	 quantity 1	 spawnTime 56
+AREA_SOUND 3768	 delay: 0, range: 1, sceneX: 49, sceneY: 46, source: JTSMonster
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 57, sceneY: 69, source: TurboMutt3-0

@@ -1,0 +1,5 @@
+SOUND 2454	 delay: 10
+PLAYER 'IInsomniatik'	 animation: 1148
+PLAYER 'IInsomniatik'	 animation: 1148
+PLAYER 'IInsomniatik'	 animation: 1148
+PLAYER 'IInsomniatik'	 animation: 1148

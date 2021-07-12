@@ -1,0 +1,108 @@
+AREA_SOUND 696	 delay: 0, range: 12, sceneX: 39, sceneY: 35
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 39, sceneY: 36
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 53, sceneY: 47
+AREA_SOUND 65535	 delay: 0, range: 12, sceneX: 63, sceneY: 39
+AREA_SOUND 65535	 delay: 51, range: 12, sceneX: 63, sceneY: 40
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 57, sceneY: 58
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 56, sceneY: 56
+SOUND 3845	 delay: 0
+SOUND 648	 delay: 0
+SOUND 2370	 delay: 20
+SOUND 2369	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Aviansie (3183)'	animation: 6956
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 38, sceneY: 40
+AREA_SOUND 696	 delay: 0, range: 12, sceneX: 54, sceneY: 41
+AREA_SOUND 451	 delay: 0, range: 10, sceneX: 54, sceneY: 42
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 53, sceneY: 48
+AREA_SOUND 312	 delay: 0, range: 12, sceneX: 63, sceneY: 40
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 57, sceneY: 56
+PLAYER 'IInsomniatik'	 animation: 5061
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 39, sceneY: 36
+AREA_SOUND 531	 delay: 0, range: 12, sceneX: 63, sceneY: 40
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 57, sceneY: 58
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 57, sceneY: 56
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 56, sceneY: 56
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 56, sceneY: 58
+SOUND 3845	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Aviansie (3183)'	animation: 6958
+PROJECTILE 15	startHeight: 11, endHeight: 144, slope: 15, duration: 34, x: 9280, y: 4928
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 37, sceneY: 40
+AREA_SOUND 2706	 delay: 0, range: 10, sceneX: 49, sceneY: 45
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 53, sceneY: 47
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 53, sceneY: 48
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Aviansie (3183)'	animation: 6956
+AREA_SOUND 696	 delay: 0, range: 12, sceneX: 39, sceneY: 35
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 39, sceneY: 36
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 37, sceneY: 41
+AREA_SOUND 448	 delay: 0, range: 12, sceneX: 54, sceneY: 42
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 53, sceneY: 47
+AREA_SOUND 65535	 delay: 0, range: 12, sceneX: 63, sceneY: 39
+AREA_SOUND 2548	 delay: 0, range: 12, sceneX: 62, sceneY: 40
+AREA_SOUND 65535	 delay: 51, range: 12, sceneX: 63, sceneY: 40
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 56, sceneY: 58
+SOUND 3845	 delay: 0
+SOUND 2366	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Aviansie (3183)'	animation: 6956
+AREA_SOUND 471	 delay: 0, range: 10, sceneX: 39, sceneY: 36
+AREA_SOUND 698	 delay: 0, range: 10, sceneX: 54, sceneY: 41
+AREA_SOUND 696	 delay: 0, range: 12, sceneX: 54, sceneY: 41
+AREA_SOUND 451	 delay: 0, range: 10, sceneX: 54, sceneY: 42
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 53, sceneY: 48
+AREA_SOUND 312	 delay: 0, range: 12, sceneX: 63, sceneY: 40
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 57, sceneY: 58
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 56, sceneY: 56
+SOUND 648	 delay: 0
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Aviansie (3183)'	animation: 6956
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6464, y: 6080
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 38, sceneY: 40
+AREA_SOUND 531	 delay: 0, range: 12, sceneX: 63, sceneY: 40
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 57, sceneY: 58
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 57, sceneY: 56
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 57, sceneY: 56
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 56, sceneY: 56
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 56, sceneY: 58
+SOUND 3845	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 37, sceneY: 40
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 53, sceneY: 47
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 53, sceneY: 48
+SOUND 3849	 delay: 0
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 53, sceneY: 47
+AREA_SOUND 65535	 delay: 0, range: 12, sceneX: 63, sceneY: 39
+AREA_SOUND 65535	 delay: 51, range: 12, sceneX: 63, sceneY: 40
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 37, sceneY: 41
+AREA_SOUND 696	 delay: 0, range: 12, sceneX: 54, sceneY: 41
+AREA_SOUND 451	 delay: 0, range: 10, sceneX: 54, sceneY: 42
+AREA_SOUND 491	 delay: 0, range: 10, sceneX: 53, sceneY: 48
+AREA_SOUND 312	 delay: 0, range: 12, sceneX: 63, sceneY: 40
+AREA_SOUND 2548	 delay: 0, range: 12, sceneX: 62, sceneY: 40
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 56, sceneY: 58
+SOUND 648	 delay: 0
+SOUND 2366	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+AREA_SOUND 448	 delay: 0, range: 12, sceneX: 54, sceneY: 42
+AREA_SOUND 531	 delay: 0, range: 12, sceneX: 63, sceneY: 40
+AREA_SOUND 2869	 delay: 0, range: 10, sceneX: 57, sceneY: 58
+AREA_SOUND 2867	 delay: 0, range: 12, sceneX: 57, sceneY: 58
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 57, sceneY: 56
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 56, sceneY: 56
+AREA_SOUND 469	 delay: 0, range: 12, sceneX: 56, sceneY: 56
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 56, sceneY: 58
+SOUND 648	 delay: 0
+SOUND 2367	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+AREA_SOUND 698	 delay: 0, range: 10, sceneX: 54, sceneY: 41
+AREA_SOUND 472	 delay: 0, range: 10, sceneX: 53, sceneY: 47
+AREA_SOUND 489	 delay: 0, range: 12, sceneX: 53, sceneY: 48
+AREA_SOUND 471	 delay: 0, range: 10, sceneX: 56, sceneY: 56
+AREA_SOUND 471	 delay: 0, range: 10, sceneX: 56, sceneY: 58
+PLAYER 'IInsomniatik'	 animation: 430

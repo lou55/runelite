@@ -1,0 +1,6 @@
+AREA_SOUND 4027	 delay: 106, range: 10, sceneX: 70, sceneY: 38
+SOUND 4028	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7855, gfx: 1455
+NPC 'Skeleton (72)'	animation: 5489, gfx: 1457
+PLAYER 'Elon R Musk'	 animation: 7855, gfx: 1455
+SOUND 779	 delay: 0

@@ -1,0 +1,37 @@
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+SOUND 2706	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 7558
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+PLAYER 'IInsomniatik'	 animation: 7558
+NPC 'Guard (3011)'	animation: 6488
+PROJECTILE 442	startHeight: 11, endHeight: 144, slope: 15, duration: 22, x: 6464, y: 5568
+SOUND 1979	 delay: 0
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+SOUND 2706	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 7558
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+PLAYER 'IInsomniatik'	 animation: 7558
+PROJECTILE 442	startHeight: 11, endHeight: 144, slope: 15, duration: 14, x: 6464, y: 5568
+SOUND 1979	 delay: 0
+SOUND 2549	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Guard (3011)'	animation: 6489
+SOUND 2706	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 7558
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+PLAYER 'IInsomniatik'	 animation: 7558
+NPC 'Guard (3011)'	animation: 6488
+PROJECTILE 442	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 6464, y: 5568
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+SOUND 1979	 delay: 0
+NPC 'Guard (3011)'	animation: 6488

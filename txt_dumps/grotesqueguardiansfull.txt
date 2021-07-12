@@ -1,0 +1,1059 @@
+SOUND 3879	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 3825	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 56, x: 7104, y: 8128
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 56, x: 6976, y: 8128
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+AREA_SOUND 223	 delay: 105, range: 10, sceneX: 54, sceneY: 69
+SOUND 428	 delay: 0
+GFX 160	level: 0, start_cycle: 3525976, x: 6976, y: 8896
+PROJECTILE 1445	startHeight: 0, endHeight: 124, slope: 0, duration: 78, x: 7104, y: 8128
+GFX 160	level: 0, start_cycle: 3525976, x: 6976, y: 8896
+GFX 160	level: 0, start_cycle: 3525976, x: 6976, y: 8896
+GFX 160	level: 0, start_cycle: 3525976, x: 6976, y: 8896
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+SOUND 511	 delay: 20
+SOUND 2238	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 3284	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 41, x: 7104, y: 8128
+SOUND 520	 delay: 20
+SOUND 511	 delay: 20
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+SOUND 511	 delay: 20
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+SOUND 511	 delay: 20
+SOUND 428	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 37, x: 7104, y: 8128
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 38, x: 6976, y: 8128
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 2393	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+AREA_SOUND 223	 delay: 105, range: 10, sceneX: 54, sceneY: 65
+SOUND 2247	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+GFX 160	level: 0, start_cycle: 3527235, x: 6976, y: 8384
+PROJECTILE 1445	startHeight: 0, endHeight: 124, slope: 0, duration: 76, x: 7104, y: 8128
+GFX 160	level: 0, start_cycle: 3527235, x: 6976, y: 8384
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+GFX 160	level: 0, start_cycle: 3527235, x: 6976, y: 8384
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 18, x: 6848, y: 8640
+GFX 160	level: 0, start_cycle: 3527235, x: 6976, y: 8384
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 18, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+SOUND 428	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 20, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+SOUND 2685	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 18, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+SOUND 428	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 19, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 521	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 43, x: 7104, y: 8128
+SOUND 511	 delay: 20
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 43, x: 6976, y: 8128
+SOUND 428	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6848, y: 8640
+SOUND 428	 delay: 0
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6848, y: 8640
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 511	 delay: 20
+SOUND 428	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 47, x: 7232, y: 8128
+SOUND 511	 delay: 20
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7770
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6848, y: 8768
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 46, x: 7104, y: 8128
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 46, x: 6976, y: 8128
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6848, y: 8768
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6848, y: 8768
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7770
+SOUND 428	 delay: 0
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7852)'	animation: 7775
+SOUND 511	 delay: 20
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7853)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 47, x: 6976, y: 8128
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 26, x: 6848, y: 8768
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2249	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+AREA_SOUND 1021	 delay: 80, range: 4, sceneX: 49, sceneY: 68
+AREA_SOUND 1021	 delay: 110, range: 4, sceneX: 52, sceneY: 67
+AREA_SOUND 1021	 delay: 80, range: 4, sceneX: 55, sceneY: 64
+SOUND 2238	 delay: 0
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 155, x: 5312, y: 7616
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 155, x: 5440, y: 7616
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 95, x: 6848, y: 7360
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 95, x: 6976, y: 8128
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 125, x: 6592, y: 8512
+GFX 1448	level: 0, start_cycle: 3529121, x: 5440, y: 7744
+GFX 1436	level: 0, start_cycle: 3529249, x: 5440, y: 7744
+GFX 1448	level: 0, start_cycle: 3529115, x: 5568, y: 7744
+GFX 1436	level: 0, start_cycle: 3529249, x: 5568, y: 7744
+GFX 1446	level: 0, start_cycle: 3529125, x: 5824, y: 8640
+GFX 1436	level: 0, start_cycle: 3529189, x: 5824, y: 8640
+GFX 1447	level: 0, start_cycle: 3529124, x: 6080, y: 8384
+GFX 1436	level: 0, start_cycle: 3529219, x: 6080, y: 8384
+GFX 1446	level: 0, start_cycle: 3529117, x: 6976, y: 7488
+GFX 1436	level: 0, start_cycle: 3529189, x: 6976, y: 7488
+GFX 1446	level: 0, start_cycle: 3529125, x: 6336, y: 8768
+GFX 1436	level: 0, start_cycle: 3529189, x: 6336, y: 8768
+GFX 1447	level: 0, start_cycle: 3529118, x: 6720, y: 8640
+GFX 1436	level: 0, start_cycle: 3529219, x: 6720, y: 8640
+GFX 1446	level: 0, start_cycle: 3529118, x: 7104, y: 8256
+GFX 1436	level: 0, start_cycle: 3529189, x: 7104, y: 8256
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7802
+GFX 1436	level: 0, start_cycle: 3529249, x: 5440, y: 7744
+GFX 1436	level: 0, start_cycle: 3529249, x: 5568, y: 7744
+GFX 1436	level: 0, start_cycle: 3529189, x: 5824, y: 8640
+GFX 1436	level: 0, start_cycle: 3529219, x: 6080, y: 8384
+GFX 1436	level: 0, start_cycle: 3529189, x: 6976, y: 7488
+GFX 1436	level: 0, start_cycle: 3529189, x: 6336, y: 8768
+GFX 1436	level: 0, start_cycle: 3529219, x: 6720, y: 8640
+GFX 1436	level: 0, start_cycle: 3529189, x: 7104, y: 8256
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7802
+GFX 1436	level: 0, start_cycle: 3529249, x: 5440, y: 7744
+GFX 1436	level: 0, start_cycle: 3529249, x: 5568, y: 7744
+GFX 1436	level: 0, start_cycle: 3529189, x: 5824, y: 8640
+GFX 1436	level: 0, start_cycle: 3529219, x: 6080, y: 8384
+GFX 1436	level: 0, start_cycle: 3529189, x: 6976, y: 7488
+GFX 1436	level: 0, start_cycle: 3529189, x: 6336, y: 8768
+GFX 1436	level: 0, start_cycle: 3529219, x: 6720, y: 8640
+GFX 1436	level: 0, start_cycle: 3529189, x: 7104, y: 8256
+SOUND 1472	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 7208
+GFX 1436	level: 0, start_cycle: 3529249, x: 5440, y: 7744
+GFX 1436	level: 0, start_cycle: 3529249, x: 5568, y: 7744
+GFX 1436	level: 0, start_cycle: 3529219, x: 6080, y: 8384
+GFX 1436	level: 0, start_cycle: 3529219, x: 6720, y: 8640
+SOUND 1629	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 368
+GFX 1436	level: 0, start_cycle: 3529249, x: 5440, y: 7744
+GFX 1436	level: 0, start_cycle: 3529249, x: 5568, y: 7744
+PLAYER 'IInsomniatik'	 animation: 368
+SOUND 2455	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 785
+PLAYER 'IInsomniatik'	 animation: 785
+SOUND 519	 delay: 20
+SOUND 2727	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 785, gfx: 245
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 785, gfx: 245
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 245
+SOUND 2393	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829, gfx: 245
+PLAYER 'IInsomniatik'	 animation: 829, gfx: 245
+PLAYER 'IInsomniatik'	 animation: 829, gfx: 245
+SOUND 2393	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177, gfx: 245
+SOUND 2401	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 829, gfx: 245
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 2401	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Dusk (7882)'	animation: 7788
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Dusk (7882)'	animation: 7788
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 3825	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7794
+AREA_SOUND 1021	 delay: 140, range: 4, sceneX: 54, sceneY: 69
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7794
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 185, x: 5184, y: 7104
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 185, x: 5824, y: 8384
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 95, x: 5952, y: 8640
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 185, x: 6464, y: 7104
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 185, x: 6336, y: 7872
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 95, x: 7104, y: 7232
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 155, x: 6848, y: 8768
+GFX 1449	level: 0, start_cycle: 3529872, x: 5312, y: 7232
+GFX 1436	level: 0, start_cycle: 3530029, x: 5312, y: 7232
+GFX 1446	level: 0, start_cycle: 3529874, x: 5696, y: 8000
+GFX 1436	level: 0, start_cycle: 3529939, x: 5696, y: 8000
+GFX 1449	level: 0, start_cycle: 3529872, x: 5952, y: 8512
+GFX 1436	level: 0, start_cycle: 3530029, x: 5952, y: 8512
+GFX 1446	level: 0, start_cycle: 3529870, x: 6080, y: 8768
+GFX 1436	level: 0, start_cycle: 3529939, x: 6080, y: 8768
+GFX 1449	level: 0, start_cycle: 3529860, x: 6464, y: 8000
+GFX 1436	level: 0, start_cycle: 3530029, x: 6464, y: 8000
+GFX 1449	level: 0, start_cycle: 3529863, x: 6592, y: 7232
+GFX 1436	level: 0, start_cycle: 3530029, x: 6592, y: 7232
+GFX 1448	level: 0, start_cycle: 3529872, x: 6976, y: 8896
+GFX 1436	level: 0, start_cycle: 3529999, x: 6976, y: 8896
+GFX 1446	level: 0, start_cycle: 3529867, x: 7232, y: 7360
+GFX 1436	level: 0, start_cycle: 3529939, x: 7232, y: 7360
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Dusk (7882)'	animation: 7788
+GFX 1436	level: 0, start_cycle: 3530029, x: 5312, y: 7232
+GFX 1436	level: 0, start_cycle: 3529939, x: 5696, y: 8000
+GFX 1436	level: 0, start_cycle: 3530029, x: 5952, y: 8512
+GFX 1436	level: 0, start_cycle: 3529939, x: 6080, y: 8768
+GFX 1436	level: 0, start_cycle: 3530029, x: 6464, y: 8000
+GFX 1436	level: 0, start_cycle: 3530029, x: 6592, y: 7232
+GFX 1436	level: 0, start_cycle: 3529999, x: 6976, y: 8896
+GFX 1436	level: 0, start_cycle: 3529939, x: 7232, y: 7360
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Dusk (7882)'	animation: 7788
+GFX 1436	level: 0, start_cycle: 3530029, x: 5312, y: 7232
+GFX 1436	level: 0, start_cycle: 3529939, x: 5696, y: 8000
+GFX 1436	level: 0, start_cycle: 3530029, x: 5952, y: 8512
+GFX 1436	level: 0, start_cycle: 3529939, x: 6080, y: 8768
+GFX 1436	level: 0, start_cycle: 3530029, x: 6464, y: 8000
+GFX 1436	level: 0, start_cycle: 3530029, x: 6592, y: 7232
+GFX 1436	level: 0, start_cycle: 3529999, x: 6976, y: 8896
+GFX 1436	level: 0, start_cycle: 3529939, x: 7232, y: 7360
+PLAYER 'IInsomniatik'	 animation: 4177
+GFX 1436	level: 0, start_cycle: 3530029, x: 5312, y: 7232
+GFX 1436	level: 0, start_cycle: 3530029, x: 5952, y: 8512
+GFX 1436	level: 0, start_cycle: 3530029, x: 6464, y: 8000
+GFX 1436	level: 0, start_cycle: 3530029, x: 6592, y: 7232
+GFX 1436	level: 0, start_cycle: 3529999, x: 6976, y: 8896
+GFX 1436	level: 0, start_cycle: 3530029, x: 5312, y: 7232
+GFX 1436	level: 0, start_cycle: 3530029, x: 5952, y: 8512
+GFX 1436	level: 0, start_cycle: 3530029, x: 6464, y: 8000
+GFX 1436	level: 0, start_cycle: 3530029, x: 6592, y: 7232
+GFX 1436	level: 0, start_cycle: 3529999, x: 6976, y: 8896
+GFX 1436	level: 0, start_cycle: 3530029, x: 5312, y: 7232
+GFX 1436	level: 0, start_cycle: 3530029, x: 5952, y: 8512
+GFX 1436	level: 0, start_cycle: 3530029, x: 6464, y: 8000
+GFX 1436	level: 0, start_cycle: 3530029, x: 6592, y: 7232
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7794
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7786
+SOUND 518	 delay: 20
+NPC 'Dusk (7882)'	animation: 7786
+NPC 'Dusk (7882)'	animation: 7786
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7794
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7794
+NPC 'Dusk (7882)'	animation: 7794
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Dusk (7882)'	animation: 7786
+SOUND 520	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7786
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7794
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7786
+AREA_SOUND 1021	 delay: 170, range: 4, sceneX: 52, sceneY: 68
+AREA_SOUND 1021	 delay: 170, range: 4, sceneX: 54, sceneY: 67
+AREA_SOUND 1021	 delay: 110, range: 4, sceneX: 56, sceneY: 65
+SOUND 511	 delay: 20
+NPC 'Dusk (7882)'	animation: 7786
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 125, x: 5696, y: 6976
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 155, x: 5440, y: 7360
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 125, x: 6208, y: 8000
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 185, x: 6592, y: 8640
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 185, x: 6848, y: 8512
+PROJECTILE 1435	startHeight: 0, endHeight: 8, slope: 0, duration: 125, x: 7104, y: 8256
+GFX 1447	level: 0, start_cycle: 3530461, x: 5824, y: 7104
+GFX 1436	level: 0, start_cycle: 3530569, x: 5824, y: 7104
+GFX 1448	level: 0, start_cycle: 3530463, x: 5568, y: 7488
+GFX 1436	level: 0, start_cycle: 3530599, x: 5568, y: 7488
+GFX 1436	level: 0, start_cycle: 3530599, x: 5312, y: 8256
+GFX 1436	level: 0, start_cycle: 3530629, x: 6080, y: 8384
+GFX 1447	level: 0, start_cycle: 3530473, x: 6336, y: 8128
+GFX 1436	level: 0, start_cycle: 3530569, x: 6336, y: 8128
+GFX 1449	level: 0, start_cycle: 3530466, x: 6720, y: 8768
+GFX 1436	level: 0, start_cycle: 3530629, x: 6720, y: 8768
+GFX 1449	level: 0, start_cycle: 3530471, x: 6976, y: 8640
+GFX 1436	level: 0, start_cycle: 3530629, x: 6976, y: 8640
+GFX 1447	level: 0, start_cycle: 3530461, x: 7232, y: 8384
+GFX 1436	level: 0, start_cycle: 3530569, x: 7232, y: 8384
+GFX 1436	level: 0, start_cycle: 3530569, x: 5824, y: 7104
+GFX 1436	level: 0, start_cycle: 3530599, x: 5568, y: 7488
+GFX 1436	level: 0, start_cycle: 3530599, x: 5312, y: 8256
+GFX 1436	level: 0, start_cycle: 3530629, x: 6080, y: 8384
+GFX 1436	level: 0, start_cycle: 3530569, x: 6336, y: 8128
+GFX 1436	level: 0, start_cycle: 3530629, x: 6720, y: 8768
+GFX 1436	level: 0, start_cycle: 3530629, x: 6976, y: 8640
+GFX 1436	level: 0, start_cycle: 3530569, x: 7232, y: 8384
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7882)'	animation: 7794
+GFX 1436	level: 0, start_cycle: 3530569, x: 5824, y: 7104
+GFX 1436	level: 0, start_cycle: 3530599, x: 5568, y: 7488
+GFX 1436	level: 0, start_cycle: 3530599, x: 5312, y: 8256
+GFX 1436	level: 0, start_cycle: 3530629, x: 6080, y: 8384
+GFX 1436	level: 0, start_cycle: 3530569, x: 6336, y: 8128
+GFX 1436	level: 0, start_cycle: 3530629, x: 6720, y: 8768
+GFX 1436	level: 0, start_cycle: 3530629, x: 6976, y: 8640
+GFX 1436	level: 0, start_cycle: 3530569, x: 7232, y: 8384
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+GFX 1436	level: 0, start_cycle: 3530569, x: 5824, y: 7104
+GFX 1436	level: 0, start_cycle: 3530599, x: 5568, y: 7488
+GFX 1436	level: 0, start_cycle: 3530599, x: 5312, y: 8256
+GFX 1436	level: 0, start_cycle: 3530629, x: 6080, y: 8384
+GFX 1436	level: 0, start_cycle: 3530569, x: 6336, y: 8128
+GFX 1436	level: 0, start_cycle: 3530629, x: 6720, y: 8768
+GFX 1436	level: 0, start_cycle: 3530629, x: 6976, y: 8640
+GFX 1436	level: 0, start_cycle: 3530569, x: 7232, y: 8384
+GFX 1436	level: 0, start_cycle: 3530599, x: 5568, y: 7488
+GFX 1436	level: 0, start_cycle: 3530599, x: 5312, y: 8256
+GFX 1436	level: 0, start_cycle: 3530629, x: 6080, y: 8384
+GFX 1436	level: 0, start_cycle: 3530629, x: 6720, y: 8768
+GFX 1436	level: 0, start_cycle: 3530629, x: 6976, y: 8640
+GFX 1436	level: 0, start_cycle: 3530629, x: 6080, y: 8384
+GFX 1436	level: 0, start_cycle: 3530629, x: 6720, y: 8768
+GFX 1436	level: 0, start_cycle: 3530629, x: 6976, y: 8640
+AREA_SOUND 1471	 delay: 120, range: 6, sceneX: 47, sceneY: 62
+AREA_SOUND 1471	 delay: 90, range: 6, sceneX: 55, sceneY: 55
+AREA_SOUND 1471	 delay: 60, range: 6, sceneX: 54, sceneY: 61
+AREA_SOUND 1471	 delay: 60, range: 6, sceneX: 53, sceneY: 60
+AREA_SOUND 1471	 delay: 150, range: 6, sceneX: 51, sceneY: 57
+AREA_SOUND 1471	 delay: 150, range: 6, sceneX: 50, sceneY: 67
+AREA_SOUND 1471	 delay: 150, range: 6, sceneX: 49, sceneY: 64
+AREA_SOUND 1471	 delay: 60, range: 6, sceneX: 56, sceneY: 68
+GFX 1424	level: 0, start_cycle: 3530819, x: 5952, y: 7104
+GFX 1424	level: 0, start_cycle: 3530759, x: 5312, y: 7744
+GFX 1424	level: 0, start_cycle: 3530789, x: 5440, y: 7488
+GFX 1424	level: 0, start_cycle: 3530789, x: 6080, y: 8000
+GFX 1416	level: 0, start_cycle: 3530789, x: 5696, y: 7872
+GFX 1416	level: 0, start_cycle: 3530789, x: 5568, y: 8896
+GFX 1416	level: 0, start_cycle: 3530759, x: 7104, y: 7104
+GFX 1416	level: 0, start_cycle: 3530819, x: 6592, y: 7360
+GFX 1424	level: 0, start_cycle: 3530759, x: 6720, y: 9024
+GFX 1416	level: 0, start_cycle: 3530759, x: 6208, y: 9024
+GFX 1424	level: 0, start_cycle: 3530819, x: 6464, y: 8640
+GFX 1416	level: 0, start_cycle: 3530819, x: 6336, y: 8256
+GFX 1424	level: 0, start_cycle: 3530819, x: 5952, y: 7104
+GFX 1424	level: 0, start_cycle: 3530789, x: 5440, y: 7488
+GFX 1424	level: 0, start_cycle: 3530789, x: 6080, y: 8000
+GFX 1416	level: 0, start_cycle: 3530789, x: 5696, y: 7872
+GFX 1416	level: 0, start_cycle: 3530789, x: 5568, y: 8896
+GFX 1416	level: 0, start_cycle: 3530819, x: 6592, y: 7360
+GFX 1424	level: 0, start_cycle: 3530819, x: 6464, y: 8640
+GFX 1416	level: 0, start_cycle: 3530819, x: 6336, y: 8256
+GFX 1424	level: 0, start_cycle: 3530819, x: 5952, y: 7104
+GFX 1416	level: 0, start_cycle: 3530819, x: 6592, y: 7360
+GFX 1424	level: 0, start_cycle: 3530819, x: 6464, y: 8640
+GFX 1416	level: 0, start_cycle: 3530819, x: 6336, y: 8256
+SOUND 518	 delay: 20
+SOUND 518	 delay: 20
+SOUND 520	 delay: 20
+SOUND 2393	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 1437	startHeight: 0, endHeight: 0, slope: 0, duration: 126, x: 6976, y: 8128
+PROJECTILE 1437	startHeight: 0, endHeight: 0, slope: 0, duration: 116, x: 6976, y: 8128
+PROJECTILE 1437	startHeight: 0, endHeight: 0, slope: 0, duration: 106, x: 6976, y: 8128
+SOUND 2247	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 3284	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+AREA_SOUND 223	 delay: 135, range: 10, sceneX: 56, sceneY: 68
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+GFX 160	level: 0, start_cycle: 3531525, x: 7232, y: 8768
+PLAYER 'IInsomniatik'	 animation: 430
+GFX 160	level: 0, start_cycle: 3531525, x: 7232, y: 8768
+PLAYER 'IInsomniatik'	 animation: 430
+GFX 160	level: 0, start_cycle: 3531525, x: 7232, y: 8768
+GFX 160	level: 0, start_cycle: 3531525, x: 7232, y: 8768
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+GFX 160	level: 0, start_cycle: 3531525, x: 7232, y: 8768
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 38, x: 6976, y: 8128
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 37, x: 6720, y: 8256
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 13, x: 6848, y: 8512
+SOUND 428	 delay: 0
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 6848, y: 8512
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 11, x: 6848, y: 8512
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 36, x: 6720, y: 8256
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 11, x: 6848, y: 8512
+SOUND 428	 delay: 0
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 511	 delay: 20
+SOUND 428	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6720, y: 8640
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 41, x: 6720, y: 8128
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 6720, y: 8640
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 428	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 19, x: 7232, y: 8640
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	gfx: 1442
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 7232, y: 8640
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+SOUND 521	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775, gfx: 1442
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 7232, y: 8640
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 519	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775, gfx: 1442
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7770
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 43, x: 6976, y: 8128
+SOUND 428	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 43, x: 6720, y: 8256
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 518	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 19, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7770
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 428	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 518	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7770
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6848, y: 8640
+SOUND 2401	 delay: 0
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 428	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 520	 delay: 20
+SOUND 518	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2685	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7770
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6848, y: 8640
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 41, x: 6976, y: 8128
+SOUND 428	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 521	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 428	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 41, x: 6720, y: 8256
+SOUND 511	 delay: 20
+SOUND 518	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2393	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7770
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 45, x: 6848, y: 8128
+SOUND 428	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 44, x: 6720, y: 8128
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 6720, y: 8640
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 19, x: 6720, y: 8640
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 6976, y: 8640
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 6976, y: 8640
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7770
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 6976, y: 8640
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 41, x: 6976, y: 8128
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6976, y: 8640
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+AREA_SOUND 223	 delay: 105, range: 10, sceneX: 53, sceneY: 64
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7771
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 18, x: 6976, y: 8640
+GFX 160	level: 0, start_cycle: 3534016, x: 6848, y: 8256
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+GFX 160	level: 0, start_cycle: 3534016, x: 6848, y: 8256
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 6976, y: 8640
+GFX 160	level: 0, start_cycle: 3534016, x: 6848, y: 8256
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+GFX 160	level: 0, start_cycle: 3534016, x: 6848, y: 8256
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6976, y: 8640
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 428	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7771
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6976, y: 8640
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 19, x: 6976, y: 8640
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6976, y: 8640
+SOUND 430	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7775
+SOUND 428	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7770
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Dawn (7884)'	animation: 7770
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 42, x: 6976, y: 8128
+SOUND 511	 delay: 20
+NPC 'Dawn (7884)'	animation: 7770
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 42, x: 6720, y: 8256
+SOUND 2567	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 401
+PLAYER 'IInsomniatik'	 animation: 401
+AREA_SOUND 429	 delay: 0, range: 15, sceneX: 51, sceneY: 61
+SOUND 3201	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1157
+PLAYER 'IInsomniatik'	 animation: 1157
+AREA_SOUND 1471	 delay: 0, range: 15, sceneX: 45, sceneY: 60
+PLAYER 'IInsomniatik'	 animation: 1157
+PLAYER 'IInsomniatik'	 animation: 1157
+AREA_SOUND 1471	 delay: 0, range: 10, sceneX: 45, sceneY: 60
+SOUND 2676	 delay: 0
+SOUND 3825	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2238	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 53, x: 6720, y: 8256
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 52, x: 6848, y: 8512
+SOUND 2249	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 511	 delay: 20
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 511	 delay: 20
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 519	 delay: 20
+NPC 'Dusk (7888)'	animation: 7801
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 26, x: 6720, y: 8256
+SOUND 511	 delay: 20
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 519	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 511	 delay: 20
+NPC 'Dusk (7888)'	animation: 7800
+NPC 'Dusk (7888)'	animation: 7800
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 430	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 2401	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 26, x: 6720, y: 8256
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 26, x: 6848, y: 8512
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 2401	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7801
+PROJECTILE 1444	startHeight: 0, endHeight: 124, slope: 0, duration: 26, x: 6720, y: 8256
+SOUND 430	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7801
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7797
+SOUND 430	 delay: 0
+SOUND 428	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 511	 delay: 20
+SOUND 2567	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 401
+NPC 'Dusk (7888)'	animation: 7801
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 401
+AREA_SOUND 429	 delay: 0, range: 15, sceneX: 54, sceneY: 65
+SOUND 2663	 delay: 0
+SOUND 2663	 delay: 0
+SOUND 2582	 delay: 0
+SOUND 2582	 delay: 0
+SOUND 2582	 delay: 0
+SOUND 2582	 delay: 0
+SOUND 2401	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829

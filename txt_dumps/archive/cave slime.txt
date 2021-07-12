@@ -1,0 +1,15 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave slime (480)'	animation: 1791
+SOUND 786	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 784	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Cave slime (480)'	animation: 1789
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave slime (480)'	animation: 1791
+SOUND 786	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 785	 delay: 0

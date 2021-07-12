@@ -1,0 +1,56 @@
+SOUND 2549	 delay: 0
+SOUND 519	 delay: 20
+SOUND 3551	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+SOUND 3551	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 390
+NPC 'Guard (3010)'	animation: 6488
+SOUND 512	 delay: 0
+GROUND_ITEM 526	 quantity 1	 spawnTime 3023
+GROUND_ITEM 995	 quantity 12	 spawnTime 3023
+SOUND 3552	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 386
+NPC 'Guard (3011)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 386
+NPC 'Guard (3011)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Guard (3011)'	animation: 6489
+SOUND 3552	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 386
+NPC 'Guard (3011)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 386
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 388
+NPC 'Guard (3011)'	animation: 6489
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+SOUND 3552	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 386
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 386
+NPC 'Guard (3011)'	animation: 6488
+SOUND 512	 delay: 0
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr
+GROUND_ITEM 526	 quantity 1	 spawnTime 3035
+GROUND_ITEM 9140	 quantity 5	 spawnTime 3035
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 35, source: Fe Hvy Hmmr

@@ -1,0 +1,10 @@
+SOUND 512	 delay: 0
+GROUND_ITEM 526	 quantity 1	 spawnTime 7648
+GROUND_ITEM 995	 quantity 3	 spawnTime 7648
+AREA_SOUND 4031	 delay: 76, range: 10, sceneX: 56, sceneY: 26
+SOUND 4032	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7855, gfx: 1464
+NPC 'Man (3108)'	animation: 425, gfx: 1466
+PLAYER 'Elon R Musk'	 animation: 7855, gfx: 1464
+SOUND 513	 delay: 0
+SOUND 512	 delay: 0

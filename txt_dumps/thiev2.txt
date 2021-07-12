@@ -1,0 +1,20 @@
+GROUND_ITEM 1856	 quantity 1	 spawnTime 776
+SOUND 2581	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 832
+SOUND 1650	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 832
+PLAYER 'IInsomniatik'	 animation: 832
+GROUND_ITEM 1856	 quantity 1	 spawnTime 792
+SOUND 2581	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 832
+PLAYER 'IInsomniatik'	 animation: 832
+PLAYER 'IInsomniatik'	 animation: 832
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 56, sceneY: 62
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 57, sceneY: 63
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 57, sceneY: 63
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 57, sceneY: 63
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 57, sceneY: 63
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 57, sceneY: 63
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 57, sceneY: 63
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 57, sceneY: 63
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 57, sceneY: 63

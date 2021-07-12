@@ -1,0 +1,57 @@
+SOUND 496	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jungle horror (1046)'	animation: 4232
+SOUND 481	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jungle horror (1046)'	animation: 4232
+SOUND 496	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Jungle horror (1046)'	animation: 4234
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Jungle horror (1046)'	animation: 4234
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jungle horror (1046)'	animation: 4232
+SOUND 481	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jungle horror (1046)'	animation: 4232
+SOUND 496	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Jungle horror (1046)'	animation: 4234
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Jungle horror (1046)'	animation: 4234
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jungle horror (1046)'	animation: 4232
+SOUND 481	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jungle horror (1046)'	animation: 4232
+SOUND 496	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Jungle horror (1046)'	animation: 4234
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Jungle horror (1046)'	animation: 4234
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jungle horror (1046)'	animation: 4232
+SOUND 481	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jungle horror (1046)'	animation: 4232
+SOUND 480	 delay: 0
+SOUND 496	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 498	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156

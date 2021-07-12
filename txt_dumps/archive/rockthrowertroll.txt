@@ -1,0 +1,29 @@
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 46, sceneY: 74
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 49, sceneY: 75
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 860	 delay: 0
+SOUND 2843	 delay: 20
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 53, sceneY: 76
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 860	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 276	startHeight: 128, endHeight: 144, slope: 8, duration: 26, x: 6848, y: 9792
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 58, sceneY: 74
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 860	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 276	startHeight: 128, endHeight: 144, slope: 8, duration: 24, x: 7488, y: 9536
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 46, sceneY: 74
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 49, sceneY: 75
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 860	 delay: 0
+SOUND 2843	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 53, sceneY: 76
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 860	 delay: 0
+AREA_SOUND 871	 delay: 0, range: 10, sceneX: 58, sceneY: 74
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 860	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 276	startHeight: 128, endHeight: 144, slope: 8, duration: 24, x: 7488, y: 9536

@@ -1,0 +1,47 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Untouchable (6352)'	animation: 6329
+SOUND 3640	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3638	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Untouchable (6352)'	animation: 6329
+SOUND 3640	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Untouchable (6352)'	animation: 6329
+NPC 'The Untouchable (6352)'	animation: 6329
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Untouchable (6352)'	animation: 6330
+SOUND 3640	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Untouchable (6352)'	animation: 6330
+SOUND 3638	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Untouchable (6352)'	animation: 6329
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Untouchable (6352)'	animation: 6329
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Untouchable (6352)'	animation: 6329
+SOUND 3640	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3638	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Untouchable (6352)'	animation: 6329
+SOUND 3640	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Untouchable (6352)'	animation: 6329
+NPC 'The Untouchable (6352)'	animation: 6329
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Untouchable (6352)'	animation: 6330
+SOUND 3640	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Untouchable (6352)'	animation: 6330
+SOUND 3639	 delay: 0

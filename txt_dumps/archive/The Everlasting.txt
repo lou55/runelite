@@ -1,0 +1,26 @@
+SOUND 3622	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'The Everlasting (6351)'	animation: 6345
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Everlasting (6351)'	animation: 6346
+SOUND 3626	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Everlasting (6351)'	animation: 6346
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Everlasting (6351)'	animation: 6346
+SOUND 3626	 delay: 0
+SOUND 3622	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Everlasting (6351)'	animation: 6345
+NPC 'The Everlasting (6351)'	animation: 6345
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Everlasting (6351)'	animation: 6346
+SOUND 3626	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'The Everlasting (6351)'	animation: 6346
+SOUND 3625	 delay: 0

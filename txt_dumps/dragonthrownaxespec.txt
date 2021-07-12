@@ -1,0 +1,32 @@
+SOUND 2706	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7617, gfx: 1320
+NPC 'Skeleton (73)'	animation: 5489
+PLAYER 'Elon R Musk'	 animation: 7617, gfx: 1320
+NPC 'Skeleton (73)'	animation: 5489
+PROJECTILE 1319	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 6336, y: 6592
+GROUND_ITEM 20849	 quantity 1	 spawnTime 65
+SOUND 774	 delay: 0
+NPC 'Skeleton (73)'	animation: 5489
+SOUND 2528	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7521, gfx: 1317
+NPC 'Skeleton (73)'	animation: 5489
+SOUND 776	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 7521, gfx: 1317
+NPC 'Skeleton (73)'	animation: 5485
+GROUND_ITEM 20849	 quantity 1	 spawnTime 68
+SOUND 774	 delay: 0
+NPC 'Skeleton (73)'	animation: 5485
+SOUND 2706	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7617, gfx: 1320
+NPC 'Skeleton (73)'	animation: 5489
+SOUND 776	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 7617, gfx: 1320
+NPC 'Skeleton (73)'	animation: 5485
+PROJECTILE 1319	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 6336, y: 6592
+SOUND 774	 delay: 0
+NPC 'Skeleton (73)'	animation: 5485
+SOUND 2706	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7617, gfx: 1320
+NPC 'Skeleton (73)'	animation: 5489

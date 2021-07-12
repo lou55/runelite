@@ -1,0 +1,26 @@
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 72, sceneY: 65
+SOUND 225	 delay: 0
+PLAYER 'ex rs'	 animation: 2890, gfx: 483
+NPC 'Man (3108)'	animation: 425
+SOUND 513	 delay: 0
+PLAYER 'ex rs'	 animation: 2890, gfx: 483
+NPC 'Man (3108)'	animation: 425
+PLAYER 'ex rs'	 animation: 2890, gfx: 483
+NPC 'Man (3108)'	animation: 425
+SOUND 2566	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 483
+NPC 'Man (3108)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Man (3108)'	animation: 422
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 72, sceneY: 65
+SOUND 513	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+SOUND 2566	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Man (3108)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 390
+NPC 'Man (3108)'	animation: 422

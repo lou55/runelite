@@ -1,0 +1,57 @@
+AREA_SOUND 582	 delay: 0, range: 5, sceneX: 50, sceneY: 58
+SOUND 576	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Killerwatt (469)'	animation: 3165
+SOUND 583	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 576	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Killerwatt (469)'	animation: 3163
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 576	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Killerwatt (469)'	animation: 3165
+SOUND 583	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 576	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Killerwatt (469)'	animation: 3163
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 576	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Killerwatt (469)'	animation: 3165
+SOUND 583	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 576	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Killerwatt (469)'	animation: 3163
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 576	 delay: 0
+SOUND 521	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Killerwatt (469)'	animation: 3165
+SOUND 583	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 576	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Killerwatt (469)'	animation: 3163
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 576	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Killerwatt (469)'	animation: 3165
+SOUND 583	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 580	 delay: 0

@@ -1,0 +1,197 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 3686	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 519	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 3687	 delay: 0
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 2676	 delay: 0
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 3686	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2958	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 3687	 delay: 0
+NPC 'Glod (6358)'	animation: 6524
+NPC 'Glod (6358)'	animation: 6524
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 3686	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 3687	 delay: 0
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+NPC 'Glod (6358)'	animation: 6501
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6503
+SOUND 3685	 delay: 0
+SOUND 3674	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Glod (6358)'	animation: 6501
+SOUND 3684	 delay: 0

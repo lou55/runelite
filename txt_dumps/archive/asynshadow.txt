@@ -1,0 +1,28 @@
+SOUND 745	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Asyn shadow (5632)'	animation: 1283
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Asyn shadow (5632)'	animation: 1283
+SOUND 745	 delay: 0
+SOUND 747	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 746	 delay: 0
+SOUND 745	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Asyn shadow (5632)'	animation: 1283
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Asyn shadow (5632)'	animation: 1283
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Asyn shadow (5632)'	animation: 1286
+SOUND 747	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Asyn shadow (5632)'	animation: 1286
+SOUND 745	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Asyn shadow (5632)'	animation: 1283

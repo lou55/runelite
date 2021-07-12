@@ -1,0 +1,97 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 278	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 276	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Abyssal demon (415)'	animation: 1537
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 278	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 2398	 delay: 0
+NPC 'Abyssal demon (415)'	animation: 1535, gfx: 409
+SOUND 276	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 278	 delay: 0
+SOUND 276	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 1537
+PLAYER 'ex rs'	 gfx: 409
+NPC 'Abyssal demon (415)'	animation: 1537
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 278	 delay: 0
+SOUND 276	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 1537
+NPC 'Abyssal demon (415)'	animation: 1537
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 278	 delay: 0
+SOUND 276	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 1537
+PLAYER 'ex rs'	 gfx: 409
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 278	 delay: 0
+SOUND 276	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 1537
+NPC 'Abyssal demon (415)'	animation: 1537
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 278	 delay: 0
+SOUND 276	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 1537
+SOUND 2398	 delay: 0
+NPC 'Abyssal demon (415)'	animation: 1537, gfx: 409
+SOUND 276	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 276	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 278	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 276	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Abyssal demon (415)'	animation: 1537
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 278	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 277	 delay: 0

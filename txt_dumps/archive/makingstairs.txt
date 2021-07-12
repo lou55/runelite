@@ -1,0 +1,3 @@
+SOUND 2266	 delay: 0
+SOUND 938	 delay: 0
+PLAYER 'ex rs'	 animation: 3676

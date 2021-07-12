@@ -1,0 +1,61 @@
+SOUND 726	 delay: 0
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 2368	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Rock lobster (5944)'	animation: 2860
+SOUND 726	 delay: 0
+SOUND 728	 delay: 0
+SOUND 2366	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 726	 delay: 0
+SOUND 2368	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 2367	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 2370	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Rock lobster (5944)'	animation: 2860
+SOUND 726	 delay: 0
+SOUND 728	 delay: 0
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 726	 delay: 0
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 726	 delay: 0
+SOUND 2368	 delay: 20
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 2368	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Rock lobster (5944)'	animation: 2860
+SOUND 726	 delay: 0
+SOUND 726	 delay: 0
+SOUND 728	 delay: 0
+SOUND 2370	 delay: 20
+SOUND 2368	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 726	 delay: 0
+SOUND 2366	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 726	 delay: 0
+SOUND 2368	 delay: 20
+SOUND 2366	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859

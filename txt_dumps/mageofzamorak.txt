@@ -1,0 +1,66 @@
+GROUND_ITEM 995	 quantity 4	 spawnTime 806
+NPC 'Mage of Zamorak (2580)'	animation: 1818, gfx: 343
+NPC 'Mage of Zamorak (2580)'	animation: 1818, gfx: 343
+NPC 'Mage of Zamorak (2580)'	animation: 1818, gfx: 343
+GROUND_ITEM 995	 quantity 2	 spawnTime 816
+SOUND 3314	 delay: 0
+SOUND 2749	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+PLAYER 'Lou Grinder'	 animation: 1156
+PLAYER 'Lou Grinder'	 animation: 1156
+SOUND 3314	 delay: 0
+SOUND 2748	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+PLAYER 'Lou Grinder'	 animation: 1156
+PLAYER 'Lou Grinder'	 animation: 1156
+SOUND 3314	 delay: 0
+SOUND 2747	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+PLAYER 'Lou Grinder'	 animation: 1156
+PLAYER 'Lou Grinder'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Skeleton (81)'	animation: 5489
+SOUND 779	 delay: 0
+SOUND 3314	 delay: 0
+SOUND 2750	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Skeleton (81)'	animation: 5485
+NPC 'Skeleton (81)'	animation: 5485
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Skeleton (81)'	animation: 5489
+SOUND 779	 delay: 0
+SOUND 3314	 delay: 0
+SOUND 2750	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Skeleton (81)'	animation: 5485
+NPC 'Skeleton (81)'	animation: 5485
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Skeleton (81)'	animation: 5489
+SOUND 779	 delay: 0
+SOUND 3314	 delay: 0
+SOUND 2747	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Skeleton (81)'	animation: 5485
+NPC 'Skeleton (81)'	animation: 5485
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Skeleton (81)'	animation: 5489
+SOUND 779	 delay: 0
+SOUND 3314	 delay: 0
+SOUND 2746	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Skeleton (81)'	animation: 5485
+NPC 'Skeleton (81)'	animation: 5485
+NPC 'Skeleton (81)'	animation: 5485
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Skeleton (81)'	animation: 5489
+SOUND 779	 delay: 0
+SOUND 3314	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Skeleton (81)'	animation: 5485
+SOUND 777	 delay: 0
+GROUND_ITEM 526	 quantity 1	 spawnTime 852

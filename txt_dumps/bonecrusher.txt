@@ -1,0 +1,3 @@
+SOUND 974	 delay: 0
+SOUND 975	 delay: 0
+SOUND 974	 delay: 0

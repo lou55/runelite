@@ -1,0 +1,55 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Aberrant spectre (5)'	animation: 1509
+SOUND 275	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Aberrant spectre (5)'	animation: 1509
+SOUND 272	 delay: 0
+PLAYER 'ex rs'	 animation: 425, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507, gfx: 334
+SOUND 273	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507
+PROJECTILE 335	startHeight: 0, endHeight: 160, slope: 5, duration: 26, x: 7488, y: 8000
+SOUND 275	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507
+SOUND 272	 delay: 0
+PLAYER 'ex rs'	 animation: 425, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507, gfx: 334
+SOUND 273	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507
+PROJECTILE 335	startHeight: 0, endHeight: 160, slope: 5, duration: 26, x: 7488, y: 8000
+SOUND 275	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507
+SOUND 272	 delay: 0
+PLAYER 'ex rs'	 animation: 425, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507, gfx: 334
+SOUND 273	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507
+SOUND 275	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507
+SOUND 272	 delay: 0
+PLAYER 'ex rs'	 animation: 425, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507, gfx: 334
+SOUND 273	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 336
+NPC 'Aberrant spectre (5)'	animation: 1507
+PROJECTILE 335	startHeight: 0, endHeight: 160, slope: 5, duration: 25, x: 7488, y: 8000
+SOUND 275	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 336
+SOUND 272	 delay: 0
+PLAYER 'ex rs'	 animation: 425, gfx: 336
+PLAYER 'ex rs'	 animation: 425, gfx: 336
+PROJECTILE 335	startHeight: 0, endHeight: 160, slope: 5, duration: 66, x: 7488, y: 8000
+PLAYER 'ex rs'	 animation: 425, gfx: 336
+SOUND 273	 delay: 0
+PLAYER 'ex rs'	 gfx: 336

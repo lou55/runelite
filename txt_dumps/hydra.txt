@@ -1,0 +1,73 @@
+AREA_SOUND 4120	 delay: 65, range: 1, sceneX: 56, sceneY: 50
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Hydra (8609)'	animation: 8261
+AREA_SOUND 4089	 delay: 0, range: 15, sceneX: 52, sceneY: 56, source: Hydra (8609)
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Hydra (8609)'	animation: 8261
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 4068	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+AREA_SOUND 4120	 delay: 55, range: 1, sceneX: 54, sceneY: 55
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Hydra (8609)'	animation: 8261
+AREA_SOUND 4089	 delay: 0, range: 15, sceneX: 52, sceneY: 56, source: Hydra (8609)
+SOUND 4068	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Hydra (8609)'	animation: 8261
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 4068	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+AREA_SOUND 4120	 delay: 55, range: 1, sceneX: 54, sceneY: 55
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Hydra (8609)'	animation: 8261
+AREA_SOUND 4089	 delay: 0, range: 15, sceneX: 52, sceneY: 56, source: Hydra (8609)
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Hydra (8609)'	animation: 8261
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 4068	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 2675	 delay: 0
+AREA_SOUND 4083	 delay: 55, range: 1, sceneX: 54, sceneY: 55
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Hydra (8609)'	animation: 8262
+AREA_SOUND 4103	 delay: 0, range: 15, sceneX: 52, sceneY: 56, source: Hydra (8609)
+SOUND 4068	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Hydra (8609)'	animation: 8262
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 4068	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+AREA_SOUND 4135	 delay: 80, range: 5, sceneX: 54, sceneY: 55
+AREA_SOUND 4135	 delay: 90, range: 5, sceneX: 55, sceneY: 53
+AREA_SOUND 4135	 delay: 80, range: 5, sceneX: 51, sceneY: 58
+NPC 'Hydra (8609)'	animation: 8263
+GFX 1645	level: 0, start_cycle: 3982122, x: 6976, y: 7104
+GFX 1645	level: 0, start_cycle: 3982132, x: 7104, y: 6848
+GFX 1645	level: 0, start_cycle: 3982122, x: 6592, y: 7488
+NPC 'Hydra (8609)'	animation: 8263
+PROJECTILE 1644	startHeight: 64, endHeight: 64, slope: 0, duration: 52, x: 6720, y: 7232
+PROJECTILE 1644	startHeight: 64, endHeight: 64, slope: 0, duration: 52, x: 6720, y: 7232
+PROJECTILE 1644	startHeight: 64, endHeight: 64, slope: 0, duration: 62, x: 6720, y: 7232
+GFX 1645	level: 0, start_cycle: 3982122, x: 6976, y: 7104
+GFX 1645	level: 0, start_cycle: 3982132, x: 7104, y: 6848
+GFX 1645	level: 0, start_cycle: 3982122, x: 6592, y: 7488
+AREA_SOUND 3944	 delay: 0, range: 2, sceneX: 54, sceneY: 55
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Hydra (8609)'	animation: 8263
+GFX 1645	level: 0, start_cycle: 3982122, x: 6976, y: 7104
+GFX 1645	level: 0, start_cycle: 3982132, x: 7104, y: 6848
+GFX 1645	level: 0, start_cycle: 3982122, x: 6592, y: 7488
+SOUND 4068	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+GFX 1645	level: 0, start_cycle: 3982132, x: 7104, y: 6848

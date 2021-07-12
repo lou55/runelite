@@ -1,0 +1,67 @@
+SOUND 895	 delay: 0
+SOUND 897	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2249	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 896	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 897	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Wall beast (476)'	animation: 1802
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 896	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 897	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Wall beast (476)'	animation: 1802
+SOUND 1792	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 896	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 897	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Wall beast (476)'	animation: 1802
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 896	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 897	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Wall beast (476)'	animation: 1802
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 896	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 897	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Wall beast (476)'	animation: 1802
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 896	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Wall beast (476)'	animation: 1803
+SOUND 894	 delay: 0

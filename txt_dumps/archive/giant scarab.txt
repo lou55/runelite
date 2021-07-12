@@ -1,0 +1,98 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5458
+SOUND 743	 delay: 0
+SOUND 741	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Giant scarab (6343)'	animation: 5457
+SOUND 742	 delay: 0

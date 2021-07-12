@@ -1,0 +1,16 @@
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 67, sceneY: 18, source: Smyle4Me
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 67, sceneY: 18, source: Smyle4Me
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 67, sceneY: 18, source: Smyle4Me
+SOUND 2520	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1378, gfx: 1292
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 67, sceneY: 18, source: Smyle4Me
+SOUND 1979	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1378, gfx: 1292
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 67, sceneY: 18, source: Smyle4Me
+SOUND 512	 delay: 0
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 67, sceneY: 18, source: Smyle4Me
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 67, sceneY: 18, source: Smyle4Me
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 67, sceneY: 18, source: Smyle4Me
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 67, sceneY: 18, source: Smyle4Me

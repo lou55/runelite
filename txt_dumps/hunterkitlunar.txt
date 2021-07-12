@@ -1,0 +1,8 @@
+SOUND 3615	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 6303, gfx: 1074
+PLAYER 'IInsomniatik'	 animation: 6303, gfx: 1074
+PLAYER 'IInsomniatik'	 animation: 6303, gfx: 1074
+PLAYER 'IInsomniatik'	 animation: 6303, gfx: 1074
+PLAYER 'IInsomniatik'	 animation: 6303, gfx: 1074
+PLAYER 'IInsomniatik'	 animation: 6303, gfx: 1074
+PLAYER 'IInsomniatik'	 animation: 6303, gfx: 1074

@@ -1,0 +1,140 @@
+AREA_SOUND 153	 delay: 76, range: 10, sceneX: 31, sceneY: 62
+AREA_SOUND 151	 delay: 0, range: 10, sceneX: 34, sceneY: 60
+PLAYER 'Elon R Musk'	 gfx: 179
+PLAYER 'Elon R Musk'	 gfx: 179
+PLAYER 'Elon R Musk'	 gfx: 179
+SOUND 520	 delay: 20
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 gfx: 179
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 gfx: 179
+AREA_SOUND 202	 delay: 0, range: 10, sceneX: 31, sceneY: 62
+AREA_SOUND 227	 delay: 85, range: 10, sceneX: 31, sceneY: 61
+AREA_SOUND 202	 delay: 0, range: 10, sceneX: 31, sceneY: 61
+AREA_SOUND 203	 delay: 85, range: 10, sceneX: 31, sceneY: 62
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1819, gfx: 345
+PLAYER 'R4ng3rn0ob88'	animation: 1820, gfx: 85
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1819, gfx: 345
+PLAYER 'R4ng3rn0ob88'	animation: 1820, gfx: 85
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1819, gfx: 345
+PLAYER 'R4ng3rn0ob88'	animation: 1820, gfx: 85
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 gfx: 345
+PLAYER 'R4ng3rn0ob88'	gfx: 85
+SOUND 154	 delay: 0
+AREA_SOUND 2695	 delay: 0, range: 10, sceneX: 31, sceneY: 62
+AREA_SOUND 4032	 delay: 0, range: 10, sceneX: 31, sceneY: 61
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 31, sceneY: 62
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 4230, gfx: 85
+PLAYER 'R4ng3rn0ob88'	animation: 7855, gfx: 1464
+SOUND 154	 delay: 0
+SOUND 2766	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 4230, gfx: 85
+PLAYER 'R4ng3rn0ob88'	animation: 7855, gfx: 1464
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 4032, y: 8000
+GROUND_ITEM 21948	 quantity 1	 spawnTime 353
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 4230, gfx: 85
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+AREA_SOUND 4032	 delay: 0, range: 10, sceneX: 31, sceneY: 61
+AREA_SOUND 4031	 delay: 56, range: 10, sceneX: 31, sceneY: 62
+SOUND 2675	 delay: 0
+PLAYER 'Elon R Musk'	 gfx: 1466
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 519	 delay: 20
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 gfx: 1466
+PLAYER 'R4ng3rn0ob88'	animation: 7855, gfx: 1464
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 gfx: 1466
+SOUND 154	 delay: 0
+SOUND 3825	 delay: 0
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 5824, y: 7616
+AREA_SOUND 2695	 delay: 0, range: 10, sceneX: 31, sceneY: 61
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 519	 delay: 20
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424
+PLAYER 'R4ng3rn0ob88'	animation: 4230
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 4032, y: 7872
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+SOUND 154	 delay: 0
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 15, x: 5824, y: 7616
+AREA_SOUND 2695	 delay: 0, range: 10, sceneX: 31, sceneY: 61
+PLAYER 'Elon R Musk'	 animation: 424
+SOUND 518	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 424
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 4032, y: 7872
+PLAYER 'Elon R Musk'	 animation: 424
+PLAYER 'Elon R Musk'	 animation: 424
+SOUND 2677	 delay: 0
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 5824, y: 7616
+SOUND 3720	 delay: 0
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 18, x: 1856, y: 11968
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 18, x: 2112, y: 11584
+AREA_SOUND 2695	 delay: 0, range: 10, sceneX: 23, sceneY: 64
+SOUND 2675	 delay: 0
+SOUND 3720	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 1856, y: 11968
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 2112, y: 11584
+PLAYER 'Elon R Musk'	 animation: 424
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 3008, y: 8256
+SOUND 519	 delay: 20
+SOUND 3720	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424
+PLAYER 'Elon R Musk'	 animation: 424
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 40, x: 832, y: 12864
+SOUND 3720	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424
+AREA_SOUND 2695	 delay: 0, range: 10, sceneX: 23, sceneY: 68
+SOUND 2680	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424
+SOUND 3720	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 40, x: 832, y: 12864
+PROJECTILE 1301	startHeight: 120, endHeight: 144, slope: 1, duration: 25, x: 1856, y: 11968
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 45, x: 3008, y: 8768
+SOUND 2681	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 424, gfx: 436
+PLAYER 'R4ng3rn0ob88'	animation: 4230
+PLAYER 'Elon R Musk'	 animation: 424, gfx: 436
+SOUND 2672	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424, gfx: 436
+PLAYER 'Elon R Musk'	 gfx: 436
+PROJECTILE 1301	startHeight: 120, endHeight: 144, slope: 1, duration: 26, x: 1856, y: 11968
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 1856, y: 11968

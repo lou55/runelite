@@ -1,0 +1,7 @@
+AREA_SOUND 2401	 delay: 0, range: 5, sceneX: 56, sceneY: 44
+PLAYER 'ex rs'	 animation: 878, gfx: 1273
+PLAYER 'ex rs'	 animation: 878, gfx: 1273
+PLAYER 'ex rs'	 animation: 878, gfx: 1273
+PLAYER 'ex rs'	 gfx: 1273
+SOUND 1132	 delay: 30
+PLAYER 'ex rs'	 animation: 827

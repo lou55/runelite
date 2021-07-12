@@ -1,0 +1,23 @@
+SOUND 550	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jelly (439)'	animation: 1585
+SOUND 547	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Jelly (439)'	animation: 1586
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jelly (439)'	animation: 1585
+SOUND 550	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jelly (439)'	animation: 1585
+SOUND 547	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Jelly (439)'	animation: 1586
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jelly (439)'	animation: 1585
+SOUND 550	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Jelly (439)'	animation: 1585

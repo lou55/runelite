@@ -1,0 +1,67 @@
+AREA_SOUND 156	 delay: 110, range: 10, sceneX: 49, sceneY: 68
+AREA_SOUND 3750	 delay: 0, range: 15, sceneX: 48, sceneY: 72
+SOUND 3740	 delay: 0
+PLAYER 'ex rs'	 animation: 6695, gfx: 1160
+PLAYER 'ex rs'	 gfx: 1160
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 49, sceneY: 73, source: Elvarg (6349)
+PLAYER 'ex rs'	 gfx: 1160
+PROJECTILE 130	startHeight: 200, endHeight: 92, slope: 23, duration: 64, x: 6336, y: 9408
+PROJECTILE 130	startHeight: 200, endHeight: 100, slope: 15, duration: 69, x: 6336, y: 9408
+PROJECTILE 130	startHeight: 200, endHeight: 84, slope: 8, duration: 74, x: 6336, y: 9408
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 gfx: 1160
+AREA_SOUND 156	 delay: 110, range: 10, sceneX: 49, sceneY: 68
+AREA_SOUND 3750	 delay: 0, range: 15, sceneX: 48, sceneY: 72
+SOUND 3740	 delay: 0
+PLAYER 'ex rs'	 animation: 6695, gfx: 1161
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 6695, gfx: 1161
+NPC 'Elvarg (6349)'	animation: 81
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 49, sceneY: 73, source: Elvarg (6349)
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 animation: 6695, gfx: 1161
+NPC 'Elvarg (6349)'	animation: 81
+PROJECTILE 130	startHeight: 200, endHeight: 104, slope: 20, duration: 61, x: 6336, y: 9408
+PROJECTILE 130	startHeight: 200, endHeight: 92, slope: 20, duration: 66, x: 6336, y: 9408
+PROJECTILE 130	startHeight: 200, endHeight: 88, slope: 8, duration: 71, x: 6336, y: 9408
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 6695, gfx: 1161
+AREA_SOUND 156	 delay: 80, range: 10, sceneX: 49, sceneY: 71
+AREA_SOUND 3750	 delay: 0, range: 15, sceneX: 48, sceneY: 72
+SOUND 3740	 delay: 0
+PLAYER 'ex rs'	 animation: 6695, gfx: 1161
+NPC 'Elvarg (6349)'	animation: 81
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 1161
+NPC 'Elvarg (6349)'	animation: 81
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 49, sceneY: 73, source: Elvarg (6349)
+SOUND 410	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 1658, gfx: 1161
+NPC 'Elvarg (6349)'	animation: 81
+PROJECTILE 130	startHeight: 200, endHeight: 72, slope: 21, duration: 30, x: 6336, y: 9408
+PROJECTILE 130	startHeight: 200, endHeight: 80, slope: 13, duration: 35, x: 6336, y: 9408
+PROJECTILE 130	startHeight: 200, endHeight: 96, slope: 17, duration: 40, x: 6336, y: 9408
+PLAYER 'ex rs'	 gfx: 1161
+AREA_SOUND 156	 delay: 80, range: 10, sceneX: 49, sceneY: 71
+AREA_SOUND 3750	 delay: 0, range: 15, sceneX: 48, sceneY: 72
+SOUND 3740	 delay: 0
+PLAYER 'ex rs'	 animation: 6695, gfx: 1161
+NPC 'Elvarg (6349)'	animation: 81
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 6695, gfx: 1161
+NPC 'Elvarg (6349)'	animation: 81
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 49, sceneY: 73, source: Elvarg (6349)
+SOUND 410	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 6695, gfx: 1161
+NPC 'Elvarg (6349)'	animation: 81
+PROJECTILE 130	startHeight: 200, endHeight: 100, slope: 13, duration: 30, x: 6336, y: 9408
+PROJECTILE 130	startHeight: 200, endHeight: 72, slope: 17, duration: 35, x: 6336, y: 9408
+PROJECTILE 130	startHeight: 200, endHeight: 88, slope: 14, duration: 40, x: 6336, y: 9408
+PLAYER 'ex rs'	 animation: 6695, gfx: 1161
+AREA_SOUND 156	 delay: 80, range: 10, sceneX: 49, sceneY: 71
+AREA_SOUND 3750	 delay: 0, range: 15, sceneX: 48, sceneY: 72
+SOUND 3740	 delay: 0
+PLAYER 'ex rs'	 animation: 6695, gfx: 1161
+NPC 'Elvarg (6349)'	animation: 81

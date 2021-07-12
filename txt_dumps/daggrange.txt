@@ -1,0 +1,43 @@
+SOUND 2367	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 46, sceneY: 35
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 66, x: 5952, y: 4544
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 47, sceneY: 35
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 6080, y: 4544
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 30, sceneY: 42
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 3520, y: 5568
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 56, x: 3904, y: 5440
+SOUND 2366	 delay: 20
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 27, sceneY: 43
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 29, sceneY: 42
+SOUND 1615	 delay: 0
+SOUND 2366	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 3520, y: 5568
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 56, x: 3776, y: 5440
+SOUND 2368	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 1615	 delay: 0
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 28, sceneY: 41
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 29, sceneY: 41
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 56, x: 3648, y: 5312
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 3776, y: 5312
+SOUND 2368	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156

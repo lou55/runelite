@@ -1,0 +1,34 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Banshee (414)'	animation: 1525
+SOUND 286	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Banshee (414)'	animation: 1525
+SOUND 285	 delay: 0
+SOUND 284	 delay: 0
+SOUND 519	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Banshee (414)'	animation: 1523
+SOUND 286	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Banshee (414)'	animation: 1523
+NPC 'Banshee (414)'	animation: 1523
+SOUND 284	 delay: 0
+SOUND 519	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Banshee (414)'	animation: 1523
+SOUND 286	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Banshee (414)'	animation: 1523
+NPC 'Banshee (414)'	animation: 1523
+SOUND 284	 delay: 0
+SOUND 520	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Banshee (414)'	animation: 1523
+SOUND 286	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Banshee (414)'	animation: 1523
+SOUND 285	 delay: 0

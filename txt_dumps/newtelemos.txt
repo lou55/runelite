@@ -1,0 +1,4 @@
+AREA_SOUND 200	 delay: 0, range: 10, sceneX: 48, sceneY: 52
+PLAYER 'ex rs'	 animation: 3864
+PLAYER 'ex rs'	 animation: 3864
+PLAYER 'ex rs'	 animation: 3864

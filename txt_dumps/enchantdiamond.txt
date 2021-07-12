@@ -1,0 +1,5 @@
+SOUND 138	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 931, gfx: 238
+PLAYER 'Elon R Musk'	 animation: 931, gfx: 238
+GROUND_ITEM 229	 quantity 1	 spawnTime 6095
+PLAYER 'Elon R Musk'	 animation: 931, gfx: 238

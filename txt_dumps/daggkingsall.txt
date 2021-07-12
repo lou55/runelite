@@ -1,0 +1,570 @@
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 8000
+AREA_SOUND 1070	 delay: 0, range: 10, sceneX: 47, sceneY: 43
+GFX 68	level: 0, start_cycle: 4573659, x: 6080, y: 5568
+GFX 68	level: 0, start_cycle: 4573659, x: 6976, y: 4800
+GFX 68	level: 0, start_cycle: 4573659, x: 8512, y: 8384
+AREA_SOUND 1070	 delay: 0, range: 10, sceneX: 52, sceneY: 54
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 10048, y: 7488
+GFX 68	level: 0, start_cycle: 4573688, x: 6720, y: 6976
+AREA_SOUND 227	 delay: 3, range: 10, sceneX: 58, sceneY: 49
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 8000
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 10048, y: 7488
+AREA_SOUND 227	 delay: 5, range: 10, sceneX: 66, sceneY: 49
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 8000
+GFX 68	level: 0, start_cycle: 4573838, x: 6464, y: 5440
+PLAYER 'IInsomniatik'	 gfx: 85
+PLAYER 'IInsomniatik'	 gfx: 85
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 78, sceneY: 58
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 86, x: 10048, y: 7488
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 8000
+GFX 68	level: 0, start_cycle: 4573959, x: 9152, y: 8512
+GFX 68	level: 0, start_cycle: 4573959, x: 10048, y: 7488
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 116, x: 6720, y: 6976
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 63, sceneY: 51
+AREA_SOUND 1072	 delay: 61, range: 10, sceneX: 66, sceneY: 50
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 477
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 8000
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 20, duration: 61, x: 8256, y: 6720
+GFX 68	level: 0, start_cycle: 4574078, x: 10176, y: 4544
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 477
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 116, x: 6720, y: 6976
+GFX 68	level: 0, start_cycle: 4574108, x: 6848, y: 4544
+GFX 68	level: 0, start_cycle: 4574108, x: 6976, y: 8000
+GFX 68	level: 0, start_cycle: 4574108, x: 8000, y: 4160
+GFX 68	level: 0, start_cycle: 4574108, x: 9152, y: 4160
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 477
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 8256, y: 6976
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 477
+GFX 68	level: 0, start_cycle: 4574168, x: 10432, y: 5568
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 63, sceneY: 51
+AREA_SOUND 1072	 delay: 61, range: 10, sceneX: 66, sceneY: 50
+SOUND 2367	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 8256, y: 6976
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 20, duration: 61, x: 8256, y: 6720
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 18, x: 8768, y: 6592
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 111, x: 6720, y: 6976
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PLAYER 'IInsomniatik'	 gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 19, x: 8768, y: 6592
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 63, sceneY: 51
+AREA_SOUND 1072	 delay: 56, range: 10, sceneX: 65, sceneY: 50
+SOUND 2366	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 8256, y: 6976
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 20, duration: 56, x: 8256, y: 6720
+SOUND 1074	 delay: 0
+SOUND 2367	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 8768, y: 6592
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 111, x: 6720, y: 6976
+PLAYER 'IInsomniatik'	 gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 8256, y: 6976
+PLAYER 'IInsomniatik'	 gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 1043	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 8768, y: 6592
+GFX 68	level: 0, start_cycle: 4574408, x: 9152, y: 8000
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 63, sceneY: 51
+AREA_SOUND 1072	 delay: 56, range: 10, sceneX: 65, sceneY: 50
+SOUND 2368	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 8256, y: 6976
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 20, duration: 56, x: 8256, y: 6720
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 8896, y: 8256
+SOUND 1074	 delay: 0
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 18, x: 8768, y: 6592
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 111, x: 6720, y: 6976
+PLAYER 'IInsomniatik'	 gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 8256, y: 6976
+PLAYER 'IInsomniatik'	 gfx: 477
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 8768, y: 6592
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 63, sceneY: 51
+AREA_SOUND 227	 delay: 61, range: 10, sceneX: 64, sceneY: 54
+SOUND 2369	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 20, duration: 61, x: 8256, y: 6720
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 8896, y: 8256
+AREA_SOUND 227	 delay: 5, range: 10, sceneX: 65, sceneY: 50
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 19, x: 8768, y: 6592
+PLAYER 'IInsomniatik'	 gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 8256, y: 6976
+PLAYER 'IInsomniatik'	 gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 8768, y: 6592
+GFX 68	level: 0, start_cycle: 4574648, x: 9408, y: 4288
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 63, sceneY: 51
+AREA_SOUND 1072	 delay: 61, range: 10, sceneX: 64, sceneY: 54
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 8256, y: 6976
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 20, duration: 61, x: 8256, y: 6720
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 8896, y: 8256
+AREA_SOUND 227	 delay: 5, range: 10, sceneX: 65, sceneY: 50
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 8768, y: 6592
+PLAYER 'IInsomniatik'	 gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 8256, y: 6976
+PLAYER 'IInsomniatik'	 gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 8768, y: 6592
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 63, sceneY: 51
+AREA_SOUND 1072	 delay: 61, range: 10, sceneX: 64, sceneY: 54
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 8256, y: 6976
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 20, duration: 61, x: 8256, y: 6720
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 8896, y: 8256
+AREA_SOUND 227	 delay: 5, range: 10, sceneX: 65, sceneY: 50
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 8768, y: 6592
+PLAYER 'IInsomniatik'	 gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PLAYER 'IInsomniatik'	 gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 8768, y: 6592
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 63, sceneY: 51
+AREA_SOUND 1072	 delay: 61, range: 10, sceneX: 64, sceneY: 54
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 10, x: 8256, y: 6976
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 20, duration: 61, x: 8256, y: 6720
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 8896, y: 8256
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 8768, y: 6592
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 111, x: 6720, y: 6976
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 8256, y: 6976
+NPC 'Dagannoth Prime (2266)'	animation: 2852
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 8768, y: 6592
+GFX 68	level: 0, start_cycle: 4575008, x: 6464, y: 7744
+GFX 68	level: 0, start_cycle: 4575008, x: 7360, y: 8384
+GFX 68	level: 0, start_cycle: 4575008, x: 8896, y: 8256
+GFX 68	level: 0, start_cycle: 4575008, x: 10560, y: 7232
+AREA_SOUND 213	 delay: 0, range: 10, sceneX: 63, sceneY: 51
+AREA_SOUND 227	 delay: 61, range: 10, sceneX: 64, sceneY: 54
+SOUND 2366	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dagannoth Prime (2266)'	animation: 2854
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 8256, y: 6976
+PROJECTILE 162	startHeight: 50, endHeight: 100, slope: 20, duration: 61, x: 8256, y: 6720
+AREA_SOUND 227	 delay: 5, range: 10, sceneX: 65, sceneY: 50
+SOUND 2401	 delay: 0
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 8768, y: 6592
+PLAYER 'IInsomniatik'	 gfx: 85
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 8256, y: 6976
+PLAYER 'IInsomniatik'	 gfx: 85
+PLAYER 'IInsomniatik'	 gfx: 85
+GFX 68	level: 0, start_cycle: 4575159, x: 6720, y: 7104
+GFX 68	level: 0, start_cycle: 4575159, x: 9024, y: 8000
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 64, sceneY: 54
+PLAYER 'IInsomniatik'	 gfx: 85
+GFX 68	level: 0, start_cycle: 4575189, x: 6592, y: 5440
+SOUND 2401	 delay: 0
+SOUND 1075	 delay: 0
+SOUND 2366	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 76, x: 6720, y: 7104
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 86, x: 6336, y: 7360
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 86, x: 9024, y: 8000
+PLAYER 'IInsomniatik'	 animation: 1156
+GFX 68	level: 0, start_cycle: 4575339, x: 10816, y: 5696
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+SOUND 2676	 delay: 0
+AREA_SOUND 1460	 delay: 86, range: 10, sceneX: 66, sceneY: 48
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dagannoth Rex (2267)'	animation: 2853
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 86, x: 9024, y: 8000
+GFX 68	level: 0, start_cycle: 4575427, x: 9920, y: 4800
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dagannoth Rex (2267)'	animation: 2853
+GFX 68	level: 0, start_cycle: 4575459, x: 6592, y: 4672
+GFX 68	level: 0, start_cycle: 4575459, x: 6208, y: 5696
+GFX 68	level: 0, start_cycle: 4575459, x: 6464, y: 5696
+GFX 68	level: 0, start_cycle: 4575459, x: 7360, y: 4672
+GFX 68	level: 0, start_cycle: 4575459, x: 8640, y: 4288
+GFX 68	level: 0, start_cycle: 4575459, x: 8256, y: 8256
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+SOUND 1075	 delay: 0
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+AREA_SOUND 1460	 delay: 86, range: 10, sceneX: 66, sceneY: 48
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dagannoth Rex (2267)'	animation: 2853
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 86, x: 9024, y: 8000
+SOUND 2247	 delay: 0
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 7744
+GFX 68	level: 0, start_cycle: 4575607, x: 6592, y: 7104
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+SOUND 1075	 delay: 0
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 85
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 64, sceneY: 54
+AREA_SOUND 1460	 delay: 86, range: 10, sceneX: 66, sceneY: 48
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 7744
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth Rex (2267)'	gfx: 1042
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+SOUND 1075	 delay: 0
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 64, sceneY: 54
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+AREA_SOUND 1460	 delay: 86, range: 10, sceneX: 66, sceneY: 48
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 7744
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth Rex (2267)'	gfx: 1042
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+SOUND 1075	 delay: 0
+SOUND 2370	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 64, sceneY: 54
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+AREA_SOUND 1460	 delay: 86, range: 10, sceneX: 66, sceneY: 48
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 7744
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth Rex (2267)'	gfx: 1042
+GFX 68	level: 0, start_cycle: 4575969, x: 10432, y: 6464
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+SOUND 1075	 delay: 0
+SOUND 2368	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+AREA_SOUND 1460	 delay: 86, range: 10, sceneX: 66, sceneY: 48
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 86, x: 9024, y: 8000
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	gfx: 1042
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 7744
+GFX 68	level: 0, start_cycle: 4576059, x: 6336, y: 7360
+GFX 68	level: 0, start_cycle: 4576059, x: 7616, y: 8640
+GFX 68	level: 0, start_cycle: 4576059, x: 8512, y: 8128
+GFX 68	level: 0, start_cycle: 4576059, x: 10176, y: 7488
+GFX 68	level: 0, start_cycle: 4576059, x: 10560, y: 7360
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth Rex (2267)'	gfx: 1042
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+SOUND 1075	 delay: 0
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 64, sceneY: 54
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+AREA_SOUND 1460	 delay: 86, range: 10, sceneX: 66, sceneY: 48
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6976, y: 7744
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth Rex (2267)'	gfx: 1042
+GFX 68	level: 0, start_cycle: 4576212, x: 6976, y: 7744
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+SOUND 1075	 delay: 0
+SOUND 2368	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 64, sceneY: 54
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 66, sceneY: 48
+AREA_SOUND 1460	 delay: 86, range: 10, sceneX: 66, sceneY: 48
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2853, gfx: 1042
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+NPC 'Dagannoth Rex (2267)'	animation: 2856
+PLAYER 'IInsomniatik'	 gfx: 665
+GFX 68	level: 0, start_cycle: 4576360, x: 7616, y: 4160
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 86, x: 9024, y: 8000
+GFX 68	level: 0, start_cycle: 4576448, x: 10176, y: 4544
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 106, x: 9024, y: 8000
+GFX 68	level: 0, start_cycle: 4576509, x: 8896, y: 8512
+GFX 68	level: 0, start_cycle: 4576539, x: 6720, y: 5184
+AREA_SOUND 227	 delay: 5, range: 10, sceneX: 67, sceneY: 49
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 227	 delay: 76, range: 10, sceneX: 64, sceneY: 50
+AREA_SOUND 214	 delay: 81, range: 10, sceneX: 65, sceneY: 49
+AREA_SOUND 227	 delay: 96, range: 10, sceneX: 68, sceneY: 51
+SOUND 2401	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 76, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 81, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 96, x: 7616, y: 6336
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+GFX 68	level: 0, start_cycle: 4576778, x: 10432, y: 4800
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 227	 delay: 76, range: 10, sceneX: 64, sceneY: 50
+AREA_SOUND 227	 delay: 76, range: 10, sceneX: 64, sceneY: 48
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 76, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 76, x: 7616, y: 6336
+GFX 68	level: 0, start_cycle: 4576809, x: 6848, y: 4800
+GFX 68	level: 0, start_cycle: 4576809, x: 7360, y: 4672
+GFX 68	level: 0, start_cycle: 4576809, x: 8384, y: 4416
+PLAYER 'IInsomniatik'	 gfx: 85
+SOUND 2368	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 85
+PLAYER 'IInsomniatik'	 gfx: 85
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 214	 delay: 76, range: 10, sceneX: 64, sceneY: 50
+AREA_SOUND 227	 delay: 76, range: 10, sceneX: 64, sceneY: 48
+SOUND 2677	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 76, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 76, x: 7616, y: 6336
+AREA_SOUND 227	 delay: 86, range: 10, sceneX: 58, sceneY: 48
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Supreme (2265)'	animation: 2855, gfx: 85
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Dagannoth Supreme (2265)'	animation: 2852, gfx: 85
+PLAYER 'IInsomniatik'	 gfx: 665
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 227	 delay: 61, range: 10, sceneX: 61, sceneY: 50
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 227	 delay: 61, range: 10, sceneX: 61, sceneY: 48
+AREA_SOUND 227	 delay: 76, range: 10, sceneX: 64, sceneY: 50
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+NPC 'Dagannoth Supreme (2265)'	animation: 2855
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 76, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 6336
+SOUND 2249	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+SOUND 2368	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+NPC 'Dagannoth Supreme (2265)'	animation: 2852
+GFX 68	level: 0, start_cycle: 4577108, x: 7744, y: 8256
+GFX 68	level: 0, start_cycle: 4577108, x: 10816, y: 6720
+GFX 68	level: 0, start_cycle: 4577108, x: 10304, y: 7744
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+GFX 68	level: 0, start_cycle: 4577138, x: 10688, y: 6592
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 214	 delay: 61, range: 10, sceneX: 61, sceneY: 50
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 214	 delay: 61, range: 10, sceneX: 61, sceneY: 48
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 6336
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dagannoth Supreme (2265)'	animation: 2855
+SOUND 1074	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Dagannoth Supreme (2265)'	animation: 2852
+AREA_SOUND 1070	 delay: 0, range: 10, sceneX: 49, sceneY: 46
+GFX 68	level: 0, start_cycle: 4577261, x: 6336, y: 5952
+GFX 68	level: 0, start_cycle: 4577261, x: 6208, y: 5184
+GFX 68	level: 0, start_cycle: 4577261, x: 7616, y: 8128
+GFX 68	level: 0, start_cycle: 4577261, x: 8512, y: 8512
+AREA_SOUND 1070	 delay: 0, range: 10, sceneX: 50, sceneY: 51
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 227	 delay: 61, range: 10, sceneX: 60, sceneY: 51
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 227	 delay: 61, range: 10, sceneX: 61, sceneY: 50
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 227	 delay: 61, range: 10, sceneX: 61, sceneY: 48
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+NPC 'Dagannoth Supreme (2265)'	animation: 2855
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 6336
+GFX 68	level: 0, start_cycle: 4577289, x: 6464, y: 6592
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Supreme (2265)'	animation: 2855
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 53, sceneY: 61
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 60, sceneY: 51
+SOUND 1074	 delay: 0
+SOUND 2369	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Supreme (2265)'	animation: 2852
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6848, y: 7872
+PLAYER 'IInsomniatik'	 gfx: 85
+NPC 'Dagannoth Supreme (2265)'	animation: 2852
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 60, sceneY: 51
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 227	 delay: 61, range: 10, sceneX: 60, sceneY: 51
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 227	 delay: 61, range: 10, sceneX: 61, sceneY: 50
+AREA_SOUND 1624	 delay: 0, range: 10, sceneX: 58, sceneY: 48
+AREA_SOUND 214	 delay: 61, range: 10, sceneX: 61, sceneY: 48
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+NPC 'Dagannoth Supreme (2265)'	animation: 2855
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 6336
+PROJECTILE 475	startHeight: 50, endHeight: 100, slope: 40, duration: 61, x: 7616, y: 6336
+SOUND 2369	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Supreme (2265)'	animation: 2855
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 50, sceneY: 51
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 53, sceneY: 61
+SOUND 1074	 delay: 0
+SOUND 2367	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1658, gfx: 85
+NPC 'Dagannoth Supreme (2265)'	animation: 2852
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6464, y: 6592
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6848, y: 7872
+NPC 'Dagannoth Supreme (2265)'	animation: 2852
+AREA_SOUND 212	 delay: 4, range: 10, sceneX: 60, sceneY: 51
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 95
+SOUND 2367	 delay: 20
+SOUND 2367	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 95
+GFX 68	level: 0, start_cycle: 4577562, x: 8000, y: 8640
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 50, sceneY: 51
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 53, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 95
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6464, y: 6592
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6848, y: 7872
+SOUND 518	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 95
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 60, sceneY: 51
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+SOUND 2367	 delay: 20
+SOUND 2368	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 53, sceneY: 61
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6464, y: 6592
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 101, x: 6848, y: 7872
+PLAYER 'IInsomniatik'	 animation: 1156, gfx: 85
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 59, sceneY: 49
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 2367	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 53, sceneY: 61
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 59, sceneY: 49
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 101, x: 6848, y: 7872
+PLAYER 'IInsomniatik'	 animation: 1156
+GFX 68	level: 0, start_cycle: 4577889, x: 6464, y: 5440
+SOUND 2366	 delay: 20
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 53, sceneY: 61
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 59, sceneY: 49
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 101, x: 6848, y: 7872
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 57, sceneY: 62
+SOUND 2366	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 7360, y: 8000
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 53, sceneY: 61
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 60, sceneY: 52
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 96, x: 6848, y: 7872
+PLAYER 'IInsomniatik'	 animation: 1156
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 50, sceneY: 54
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 56, x: 6464, y: 6976
+SOUND 2366	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 47, sceneY: 57
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 56, x: 6080, y: 7360
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 50, sceneY: 54
+SOUND 2366	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 51, x: 6464, y: 6976
+SOUND 2368	 delay: 20
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 50, sceneY: 55
+SOUND 2461	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1603
+PROJECTILE 294	startHeight: 50, endHeight: 100, slope: 40, duration: 66, x: 6464, y: 7104

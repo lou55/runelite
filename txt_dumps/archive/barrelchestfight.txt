@@ -1,0 +1,181 @@
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 1930	 delay: 0, range: 10, sceneX: 63, sceneY: 52
+SOUND 3455	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+SOUND 3455	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5894
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3825	 delay: 0
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 2676	 delay: 0
+SOUND 3455	 delay: 0
+SOUND 2672	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3825	 delay: 0
+SOUND 3455	 delay: 0
+SOUND 2672	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3120	 delay: 0
+SOUND 3455	 delay: 0
+SOUND 518	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+SOUND 3455	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5894
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3455	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2713	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897, gfx: 341
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897, gfx: 341
+SOUND 3455	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2713	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897, gfx: 341
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897, gfx: 341
+SOUND 2393	 delay: 0
+SOUND 3424	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 3455	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3455	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3455	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3455	 delay: 0
+SOUND 2962	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+SOUND 3455	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5894
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3455	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3455	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Barrelchest (600)'	animation: 5894
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3457	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Barrelchest (600)'	animation: 5897
+SOUND 3456	 delay: 0

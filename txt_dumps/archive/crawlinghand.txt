@@ -1,0 +1,43 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Crawling Hand (448)'	animation: 1591
+SOUND 379	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Crawling Hand (448)'	animation: 1591
+SOUND 377	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Crawling Hand (448)'	animation: 1592
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Crawling Hand (448)'	animation: 1592
+SOUND 379	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 377	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Crawling Hand (448)'	animation: 1592
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Crawling Hand (448)'	animation: 1592
+SOUND 379	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 377	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Crawling Hand (448)'	animation: 1592
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Crawling Hand (448)'	animation: 1592
+SOUND 379	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 377	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Crawling Hand (448)'	animation: 1592
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Crawling Hand (448)'	animation: 1592
+SOUND 379	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 378	 delay: 0

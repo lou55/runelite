@@ -1,0 +1,245 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 2708	 delay: 0
+SOUND 2589	 delay: 60
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 385, gfx: 193
+NPC 'Essyllt (9249)'	animation: 385, gfx: 193
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 2544	 delay: 0
+SOUND 2727	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 1575
+SOUND 2707	 delay: 0
+PLAYER 'ex rs'	 gfx: 1575
+PLAYER 'ex rs'	 animation: 1156, gfx: 1575
+PROJECTILE 217	startHeight: 11, endHeight: 160, slope: 15, duration: 30, x: 5824, y: 6976
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1156, gfx: 1575
+PLAYER 'ex rs'	 animation: 1156
+SOUND 1353	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 1349	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2708	 delay: 0
+SOUND 2589	 delay: 60
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Essyllt (9249)'	animation: 385, gfx: 193
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 385
+SOUND 1349	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1353	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 1349	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1353	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 1349	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1353	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 1349	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 1353	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 1349	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2544	 delay: 0
+SOUND 2727	 delay: 0
+PLAYER 'ex rs'	 animation: 1156, gfx: 1575
+SOUND 2707	 delay: 0
+PLAYER 'ex rs'	 animation: 1156, gfx: 1575
+PLAYER 'ex rs'	 animation: 1156, gfx: 1575
+PROJECTILE 217	startHeight: 11, endHeight: 160, slope: 15, duration: 30, x: 5696, y: 6976
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 gfx: 1575
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 2708	 delay: 0
+SOUND 2589	 delay: 60
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 385, gfx: 193
+NPC 'Essyllt (9249)'	animation: 385, gfx: 193
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 1353	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 428
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+SOUND 2544	 delay: 0
+SOUND 2727	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 1575
+SOUND 2707	 delay: 0
+PLAYER 'ex rs'	 gfx: 1575
+PLAYER 'ex rs'	 animation: 1156, gfx: 1575
+PROJECTILE 217	startHeight: 11, endHeight: 160, slope: 15, duration: 30, x: 5568, y: 6976
+SOUND 520	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658, gfx: 1575
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 2708	 delay: 0
+SOUND 2589	 delay: 60
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Essyllt (9249)'	animation: 385, gfx: 193
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Essyllt (9249)'	animation: 385, gfx: 193
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1353	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Essyllt (9249)'	animation: 428
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Essyllt (9249)'	animation: 428
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 1349	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Essyllt (9249)'	animation: 430
+SOUND 512	 delay: 0

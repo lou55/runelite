@@ -1,0 +1,21 @@
+SOUND 698	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 696	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Pyrefiend (433)'	animation: 1582
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Pyrefiend (433)'	animation: 1582
+SOUND 698	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 696	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Pyrefiend (433)'	animation: 1582
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Pyrefiend (433)'	animation: 1582
+SOUND 698	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 697	 delay: 0

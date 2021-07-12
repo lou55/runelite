@@ -1,0 +1,18 @@
+PLAYER 'Elon R Musk'	 animation: 811
+PLAYER 'Elon R Musk'	 animation: 811
+SOUND 779	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 811
+AREA_SOUND 1653	 delay: 86, range: 10, sceneX: 62, sceneY: 35
+PLAYER 'Elon R Musk'	 animation: 811
+NPC 'Skeleton (72)'	animation: 5489, gfx: 77
+PLAYER 'Elon R Musk'	 animation: 811
+PLAYER 'Elon R Musk'	 animation: 811
+SOUND 779	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 811
+AREA_SOUND 1653	 delay: 76, range: 10, sceneX: 58, sceneY: 35
+PLAYER 'Elon R Musk'	 animation: 811
+NPC 'Skeleton (72)'	animation: 5489, gfx: 77
+PLAYER 'Elon R Musk'	 animation: 811
+PLAYER 'Elon R Musk'	 animation: 811
+SOUND 779	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 811

@@ -1,0 +1,65 @@
+SOUND 369	 delay: 0
+SOUND 2832	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7144
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7144
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 5312, y: 6592
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7144
+SOUND 824	 delay: 0
+NPC 'Ent (6594)'	animation: 7144
+SOUND 369	 delay: 0
+SOUND 2834	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 424
+NPC 'Ent (6594)'	animation: 7144
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 2
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7144, gfx: 758
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7144, gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 31, x: 5312, y: 6592
+SOUND 822	 delay: 0
+SOUND 2835	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7145, gfx: 758
+SOUND 369	 delay: 0
+SOUND 824	 delay: 0
+SOUND 2833	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 424
+NPC 'Ent (6594)'	animation: 7145, gfx: 758
+PLAYER 'Elon R Musk'	 animation: 424
+NPC 'Ent (6594)'	gfx: 758
+SOUND 2695	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7144, gfx: 758
+SOUND 822	 delay: 0
+SOUND 2834	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7145
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 5312, y: 6592
+SOUND 369	 delay: 0
+SOUND 824	 delay: 0
+SOUND 2833	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7145
+SOUND 822	 delay: 0
+SOUND 518	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7144
+SOUND 369	 delay: 0
+SOUND 2831	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7144
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 20, x: 5312, y: 6592
+SOUND 824	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7552
+NPC 'Ent (6594)'	animation: 7144
+NPC 'Ent (6594)'	animation: 7144
+SOUND 822	 delay: 0
+SOUND 2833	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 424
+NPC 'Ent (6594)'	animation: 7145

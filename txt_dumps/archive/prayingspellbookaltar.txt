@@ -1,0 +1,22 @@
+SOUND 1097	 delay: 0
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+SOUND 1097	 delay: 0
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+SOUND 1097	 delay: 0
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+SOUND 1097	 delay: 0
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645
+SOUND 3120	 delay: 0
+PLAYER 'ex rs'	 animation: 645
+PLAYER 'ex rs'	 animation: 645

@@ -1,0 +1,24 @@
+AREA_SOUND 1460	 delay: 66, range: 10, sceneX: 74, sceneY: 58
+SOUND 178	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Banshee (414)'	animation: 1525, gfx: 1042
+SOUND 284	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1167, gfx: 665
+NPC 'Banshee (414)'	animation: 1523, gfx: 1042
+PLAYER 'IInsomniatik'	 gfx: 665
+SOUND 286	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 665
+SOUND 284	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1572
+PLAYER 'IInsomniatik'	 animation: 1572
+PLAYER 'IInsomniatik'	 animation: 1572
+PLAYER 'IInsomniatik'	 animation: 1572
+SOUND 284	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1572
+SOUND 284	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1572
+PLAYER 'IInsomniatik'	 animation: 1572

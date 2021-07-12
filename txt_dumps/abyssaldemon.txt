@@ -1,0 +1,15 @@
+SOUND 278	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Abyssal demon (415)'	animation: 2309
+SOUND 2398	 delay: 0
+NPC 'Abyssal demon (415)'	animation: 1535, gfx: 409
+SOUND 276	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 276	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156

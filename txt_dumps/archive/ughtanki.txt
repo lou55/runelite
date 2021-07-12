@@ -1,0 +1,64 @@
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Ugthanki (4652)'	animation: 50
+SOUND 371	 delay: 0
+NPC 'Ugthanki (4652)'	animation: 50
+NPC 'Ugthanki (4652)'	animation: 50
+SOUND 369	 delay: 0
+SOUND 2812	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Ugthanki (4652)'	animation: 49
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Ugthanki (4652)'	animation: 49
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Ugthanki (4652)'	animation: 50
+SOUND 371	 delay: 0
+NPC 'Ugthanki (4652)'	animation: 50
+SOUND 369	 delay: 0
+SOUND 2814	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Ugthanki (4652)'	animation: 49
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Ugthanki (4652)'	animation: 49
+PLAYER 'ex rs'	 animation: 2063
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Ugthanki (4652)'	animation: 50
+SOUND 371	 delay: 0
+SOUND 369	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Ugthanki (4652)'	animation: 49
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Ugthanki (4652)'	animation: 49
+PLAYER 'ex rs'	 animation: 2063
+SOUND 369	 delay: 0
+SOUND 2812	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Ugthanki (4652)'	animation: 49
+SOUND 371	 delay: 0
+NPC 'Ugthanki (4652)'	animation: 49
+SOUND 369	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Ugthanki (4652)'	animation: 49
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Ugthanki (4652)'	animation: 49, gfx: 1041
+SOUND 371	 delay: 0
+NPC 'Ugthanki (4652)'	gfx: 1041
+SOUND 369	 delay: 0
+SOUND 2813	 delay: 20
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Ugthanki (4652)'	animation: 49
+PLAYER 'ex rs'	 animation: 2063
+NPC 'Ugthanki (4652)'	animation: 49
+SOUND 519	 delay: 20
+SOUND 1323	 delay: 0
+PLAYER 'ex rs'	 animation: 2062
+NPC 'Ugthanki (4652)'	animation: 50
+SOUND 371	 delay: 0
+NPC 'Ugthanki (4652)'	animation: 50
+SOUND 370	 delay: 0

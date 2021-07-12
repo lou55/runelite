@@ -1,0 +1,65 @@
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+SOUND 3413	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 407
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 407
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 410
+NPC 'Guard (3010)'	animation: 6489
+PLAYER 'Elon R Musk'	 animation: 410
+NPC 'Guard (3010)'	animation: 6489
+SOUND 3413	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 407
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 407
+NPC 'Guard (3010)'	animation: 6489
+NPC 'Guard (3010)'	animation: 6489
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 410
+NPC 'Guard (3010)'	animation: 6489
+PLAYER 'Elon R Musk'	 animation: 410
+NPC 'Guard (3010)'	animation: 6489
+SOUND 3413	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 407
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 407
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 410
+NPC 'Guard (3010)'	animation: 6489
+PLAYER 'Elon R Musk'	 animation: 410
+NPC 'Guard (3010)'	animation: 6489
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 410
+NPC 'Guard (3010)'	animation: 6489
+SOUND 3412	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 406
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 406
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 410
+NPC 'Guard (3010)'	animation: 6489
+PLAYER 'Elon R Musk'	 animation: 410
+NPC 'Guard (3010)'	animation: 6489
+SOUND 2549	 delay: 0
+SOUND 520	 delay: 20
+SOUND 3412	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 406
+NPC 'Guard (3010)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 406
+NPC 'Guard (3010)'	animation: 6488

@@ -1,0 +1,66 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Warped Jelly (7277)'	animation: 1585
+PROJECTILE 226	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 9024, y: 7232
+SOUND 550	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Warped Jelly (7277)'	animation: 1585
+PROJECTILE 226	startHeight: 11, endHeight: 144, slope: 15, duration: 11, x: 8768, y: 6976
+SOUND 547	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Warped Jelly (7277)'	animation: 1586
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Warped Jelly (7277)'	animation: 1586
+PROJECTILE 226	startHeight: 11, endHeight: 144, slope: 15, duration: 14, x: 8768, y: 6976
+SOUND 550	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+PROJECTILE 226	startHeight: 11, endHeight: 144, slope: 15, duration: 8, x: 8768, y: 6976
+SOUND 547	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Warped Jelly (7277)'	animation: 1586
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 550	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 547	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Warped Jelly (7277)'	animation: 1586
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Warped Jelly (7277)'	animation: 1585
+SOUND 550	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Warped Jelly (7277)'	animation: 1585
+PROJECTILE 226	startHeight: 11, endHeight: 144, slope: 15, duration: 8, x: 8768, y: 7616
+SOUND 547	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Warped Jelly (7277)'	animation: 1586
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Warped Jelly (7277)'	animation: 1586
+SOUND 550	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 547	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Warped Jelly (7277)'	animation: 1586
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 550	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 549	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Warped Jelly (7277)'	animation: 1585
+SOUND 550	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Warped Jelly (7277)'	animation: 1585
+SOUND 547	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Warped Jelly (7277)'	animation: 1586

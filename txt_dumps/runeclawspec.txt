@@ -1,0 +1,6 @@
+SOUND 2534	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 923, gfx: 274
+NPC 'Rat (2854)'	animation: 2706
+SOUND 713	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 923, gfx: 274
+SOUND 711	 delay: 0

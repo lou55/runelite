@@ -1,0 +1,76 @@
+SOUND 745	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Shade (7258)'	animation: 1283
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Shade (7258)'	animation: 1283
+SOUND 747	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Shade (7258)'	animation: 1283
+SOUND 745	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Shade (7258)'	animation: 1283
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Shade (7258)'	animation: 1283
+SOUND 747	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 745	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Shade (7258)'	animation: 1283
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Shade (7258)'	animation: 1283
+SOUND 747	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 745	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Shade (7258)'	animation: 1283
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Shade (7258)'	animation: 1283
+SOUND 747	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 745	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Shade (7258)'	animation: 1283
+PROJECTILE 88	startHeight: 64, endHeight: 124, slope: 16, duration: 39, x: 3904, y: 8128
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Shade (7258)'	animation: 1283
+SOUND 747	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 745	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Shade (7258)'	animation: 1283
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Shade (7258)'	animation: 1283
+SOUND 747	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Shade (7258)'	animation: 1283
+SOUND 745	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Shade (7258)'	animation: 1283
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Shade (7258)'	animation: 1283
+SOUND 747	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 746	 delay: 0
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 34, sceneY: 69

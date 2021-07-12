@@ -1,0 +1,874 @@
+PLAYER 'IInsomniatik'	 gfx: 1303
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 2752, y: 6336
+SOUND 3191	 delay: 51
+PLAYER 'IInsomniatik'	 gfx: 1303
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1856, y: 8000
+SOUND 511	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7147)'	animation: 7227
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 2752, y: 6336
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+PLAYER 'IInsomniatik'	 gfx: 1303
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 20, x: 1600, y: 8128
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 10, x: 2752, y: 6336
+PLAYER 'IInsomniatik'	 gfx: 1303
+SOUND 3191	 delay: 51
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7147)'	animation: 7227
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 16, x: 1600, y: 8128
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 2752, y: 6336
+SOUND 3352	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7147)'	animation: 7227
+PLAYER 'IInsomniatik'	 gfx: 1303
+NPC 'Demonic gorilla (7147)'	animation: 7227
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 1600, y: 8128
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 2752, y: 6336
+PLAYER 'IInsomniatik'	 gfx: 1303
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7147)'	animation: 7224
+PROJECTILE 1304	startHeight: 64, endHeight: 68, slope: 5, duration: 18, x: 2880, y: 6208
+SOUND 3352	 delay: 0
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7225
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7225
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 1728, y: 8256
+PLAYER 'IInsomniatik'	 gfx: 1305
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7147)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 26, x: 1728, y: 8256
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 2752, y: 6336
+SOUND 2675	 delay: 0
+NPC 'Demonic gorilla (7147)'	animation: 7228
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 1728, y: 8256
+NPC 'Demonic gorilla (7147)'	animation: 7228
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 2752, y: 6336
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 2752, y: 6336
+SOUND 2247	 delay: 0
+SOUND 3284	 delay: 0
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 1984, y: 8000
+AREA_SOUND 1444	 delay: 0, range: 10, sceneX: 28, sceneY: 70
+SOUND 2238	 delay: 0
+SOUND 518	 delay: 20
+NPC 'Demonic gorilla (7147)'	animation: 7228
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7147)'	animation: 7228
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 2393	 delay: 0
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 2752, y: 6336
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 14, x: 1984, y: 8000
+AREA_SOUND 1444	 delay: 0, range: 10, sceneX: 28, sceneY: 70
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 gfx: 1305
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 2752, y: 6336
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1305
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1984, y: 8000
+PLAYER 'IInsomniatik'	 gfx: 1305
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7147)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1984, y: 8000
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7147)'	animation: 7224
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 8896
+SOUND 3352	 delay: 0
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7225
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1984, y: 8000
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7225
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7224
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7147)'	animation: 7224
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 3648, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7148)'	animation: 7228
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7148)'	animation: 7228
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3648, y: 8896
+SOUND 2677	 delay: 0
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 3350	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 1302	startHeight: 64, endHeight: 0, slope: 5, duration: 19, x: 3776, y: 6848
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 2393	 delay: 0
+SOUND 3350	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7145)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1984, y: 8000
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7145)'	animation: 7224
+SOUND 2676	 delay: 0
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7145)'	animation: 7226
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7228
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 1856, y: 8000
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7228
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 1856, y: 8000
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1856, y: 8000
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 6848
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1856, y: 8000
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 7104
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 10, x: 3776, y: 7104
+SOUND 2675	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1856, y: 8000
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7224
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 1856, y: 8000
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 3648, y: 7104
+SOUND 3191	 delay: 51
+PLAYER 'IInsomniatik'	 gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 7104
+SOUND 518	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 3648, y: 7104
+PLAYER 'IInsomniatik'	 gfx: 1303
+PLAYER 'IInsomniatik'	 gfx: 1303
+SOUND 2677	 delay: 0
+SOUND 3191	 delay: 51
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+SOUND 3352	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 7104
+PLAYER 'IInsomniatik'	 gfx: 1303
+PLAYER 'IInsomniatik'	 gfx: 1303
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7224
+SOUND 3352	 delay: 0
+SOUND 3191	 delay: 51
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+PROJECTILE 1302	startHeight: 64, endHeight: 0, slope: 5, duration: 19, x: 3520, y: 8896
+SOUND 2247	 delay: 0
+SOUND 3284	 delay: 0
+SOUND 2238	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 1303
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7224
+SOUND 3352	 delay: 0
+SOUND 3191	 delay: 51
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 1856, y: 8256
+SOUND 2676	 delay: 0
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1856, y: 8256
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+SOUND 2675	 delay: 0
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1856, y: 8256
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7224
+SOUND 3352	 delay: 0
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 1856, y: 8256
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3648, y: 7104
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7145)'	animation: 7228
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 1856, y: 8256
+SOUND 2393	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3648, y: 7104
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3776, y: 8896
+SOUND 2393	 delay: 0
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1856, y: 8256
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3648, y: 7104
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 1856, y: 8256
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 gfx: 1305
+NPC 'Demonic gorilla (7145)'	animation: 7225
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3648, y: 7104
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1305
+NPC 'Demonic gorilla (7145)'	animation: 7225
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1856, y: 8256
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 1305
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7145)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 7104
+SOUND 3352	 delay: 0
+SOUND 3350	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7145)'	animation: 7226
+NPC 'Demonic gorilla (7145)'	animation: 7226
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 7104
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7145)'	animation: 7224
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7145)'	animation: 7226
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7145)'	animation: 7226
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7228
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7228
+SOUND 2247	 delay: 0
+SOUND 3284	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7226
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7226
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 7104
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7224
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7226
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7226
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7226
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3648, y: 7104
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3648, y: 7104
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7226
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7226
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 7104
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 7104
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7224
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7226
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7145)'	animation: 7228
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7145)'	animation: 7228
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 7104
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3648, y: 7104
+SOUND 2238	 delay: 0
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 388
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 1984, y: 8512
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 3648, y: 7104
+SOUND 2238	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 388
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7145)'	animation: 7224
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+PROJECTILE 1304	startHeight: 64, endHeight: 68, slope: 5, duration: 18, x: 1984, y: 8640
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7145)'	animation: 7226
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 10, x: 2240, y: 8768
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7145)'	animation: 7226
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7145)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 2240, y: 8768
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 2240, y: 8768
+SOUND 3350	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7145)'	animation: 7226
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7145)'	animation: 7226
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+SOUND 2676	 delay: 0
+PROJECTILE 1304	startHeight: 64, endHeight: 68, slope: 5, duration: 26, x: 1984, y: 8640
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7145)'	animation: 7226
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7145)'	animation: 7226
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1984, y: 8256
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1984, y: 8256
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7228
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7228
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1984, y: 8256
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7104
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 4032, y: 7104
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 4032, y: 7104
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7104
+SOUND 3352	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+PLAYER 'IInsomniatik'	 gfx: 1305
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7104
+SOUND 2675	 delay: 0
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7104
+SOUND 3352	 delay: 0
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+PLAYER 'IInsomniatik'	 gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7232
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7224
+SOUND 3825	 delay: 0
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 4032, y: 7232
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 1984, y: 8256
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 1984, y: 8256
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 4160, y: 7360
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1984, y: 8256
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4160, y: 7360
+SOUND 2247	 delay: 0
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 gfx: 1305
+SOUND 3284	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1305
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 4160, y: 7360
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7144)'	animation: 7225
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1856, y: 8256
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4160, y: 7360
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7144)'	animation: 7224
+SOUND 3191	 delay: 51
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1856, y: 8256
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4160, y: 7360
+SOUND 3352	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3776, y: 8896
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 4160, y: 7360
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7224
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 3191	 delay: 51
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7144)'	animation: 7227
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1303
+NPC 'Demonic gorilla (7145)'	animation: 7228
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7145)'	animation: 7228
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 8896
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+SOUND 3351	 delay: 0
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 430
+PROJECTILE 1304	startHeight: 64, endHeight: 68, slope: 5, duration: 18, x: 1984, y: 8384
+PROJECTILE 1302	startHeight: 64, endHeight: 0, slope: 5, duration: 19, x: 6592, y: 6720
+SOUND 3350	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 2393	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 2393	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 4032, y: 7104
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 2676	 delay: 0
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 1856, y: 8256
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 4032, y: 7104
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 4032, y: 7104
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 1984, y: 8128
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7104
+SOUND 2582	 delay: 0
+SOUND 3191	 delay: 56
+PLAYER 'IInsomniatik'	 gfx: 1303
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 1984, y: 8128
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7104
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1303
+PLAYER 'IInsomniatik'	 gfx: 1303
+SOUND 2677	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 1303
+PLAYER 'IInsomniatik'	 gfx: 1303
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 14, x: 1984, y: 8128
+SOUND 2247	 delay: 0
+SOUND 3191	 delay: 56
+PLAYER 'IInsomniatik'	 gfx: 1303
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4160, y: 7360
+SOUND 3284	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1303
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 1984, y: 8128
+PLAYER 'IInsomniatik'	 gfx: 1303
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 1303
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 1984, y: 8128
+SOUND 2238	 delay: 0
+SOUND 2238	 delay: 0
+PLAYER 'IInsomniatik'	 gfx: 1303
+SOUND 3191	 delay: 56
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7148)'	animation: 7227
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 1984, y: 8128
+SOUND 3352	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7148)'	animation: 7227
+PLAYER 'IInsomniatik'	 gfx: 1303
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 1984, y: 8128
+PLAYER 'IInsomniatik'	 gfx: 1303
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1303
+NPC 'Demonic gorilla (7147)'	animation: 7228
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7147)'	animation: 7228
+PROJECTILE 1302	startHeight: 64, endHeight: 0, slope: 5, duration: 24, x: 1984, y: 8384
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PLAYER 'IInsomniatik'	 animation: 4177
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7147)'	animation: 7224
+SOUND 3352	 delay: 0
+SOUND 3350	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7147)'	animation: 7226
+NPC 'Demonic gorilla (7147)'	animation: 7226
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7147)'	animation: 7224
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4416, y: 9024
+SOUND 3350	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7147)'	animation: 7226
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 4032, y: 7104
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7147)'	animation: 7226
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7104
+AREA_SOUND 1444	 delay: 0, range: 10, sceneX: 34, sceneY: 70
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 10, x: 4032, y: 7104
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7147)'	animation: 7226
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4416, y: 9280
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7147)'	animation: 7226
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7104
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4416, y: 9280
+SOUND 2393	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7104
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4416, y: 9280
+SOUND 3350	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4032, y: 7104
+PLAYER 'IInsomniatik'	 animation: 4177
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4416, y: 9280
+AREA_SOUND 1444	 delay: 0, range: 10, sceneX: 34, sceneY: 72
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7147)'	animation: 7224
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 1728, y: 8128
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7147)'	animation: 7224
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7147)'	animation: 7226
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 1728, y: 8128
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 4288, y: 8896
+PLAYER 'IInsomniatik'	 animation: 4177
+NPC 'Demonic gorilla (7147)'	animation: 7226
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 1728, y: 8128
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4544, y: 9024
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7225
+SOUND 520	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7225
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 4544, y: 9024
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 4160, y: 7104
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 29, x: 4160, y: 7104
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7225
+AREA_SOUND 3869	 delay: 0, range: 5, sceneX: 35, sceneY: 70
+SOUND 3352	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7225
+PROJECTILE 1043	startHeight: 105, endHeight: 144, slope: 15, duration: 38, x: 4160, y: 7104
+PLAYER 'IInsomniatik'	 gfx: 1305
+SOUND 2393	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 28, x: 4160, y: 7104
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 2393	 delay: 0
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 animation: 829, gfx: 1305
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 27, x: 4160, y: 7104
+SOUND 520	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1305
+PLAYER 'IInsomniatik'	 gfx: 1305
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 27, x: 4160, y: 7104
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 30, x: 4160, y: 7104
+SOUND 2675	 delay: 0
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 gfx: 1305
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1305
+PLAYER 'IInsomniatik'	 gfx: 1305
+SOUND 2500	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 390
+NPC 'Demonic gorilla (7147)'	animation: 7224
+SOUND 2247	 delay: 0
+SOUND 3352	 delay: 0
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+PLAYER 'IInsomniatik'	 animation: 390, gfx: 1305
+SOUND 3284	 delay: 0
+SOUND 2238	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 gfx: 1305
+PLAYER 'IInsomniatik'	 gfx: 1305
+AREA_SOUND 1444	 delay: 0, range: 10, sceneX: 35, sceneY: 70
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7147)'	animation: 7224
+PLAYER 'IInsomniatik'	 animation: 5061
+NPC 'Demonic gorilla (7147)'	animation: 7224
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 4032, y: 9152
+SOUND 3352	 delay: 0
+SOUND 3529	 delay: 0
+SOUND 3528	 delay: 50
+SOUND 2672	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7225
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+NPC 'Demonic gorilla (7147)'	animation: 7225
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 4032, y: 9152
+SOUND 3352	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 5061, gfx: 1305
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1728, y: 7744
+PLAYER 'IInsomniatik'	 gfx: 1305
+SOUND 2393	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 1728, y: 7744
+SOUND 3350	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 1728, y: 7744
+PLAYER 'IInsomniatik'	 animation: 430
+PLAYER 'IInsomniatik'	 animation: 430
+AREA_SOUND 1444	 delay: 0, range: 10, sceneX: 34, sceneY: 70
+SOUND 2401	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1728, y: 7744
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 2401	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 1728, y: 7744
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 4672, y: 9152
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+SOUND 2401	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 1302	startHeight: 64, endHeight: 0, slope: 5, duration: 21, x: 9408, y: 7104
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 11, x: 9792, y: 7104
+PLAYER 'IInsomniatik'	 animation: 829
+PLAYER 'IInsomniatik'	 animation: 829
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 11, x: 9792, y: 7104
+PROJECTILE 231	startHeight: 105, endHeight: 144, slope: 15, duration: 11, x: 9792, y: 7104

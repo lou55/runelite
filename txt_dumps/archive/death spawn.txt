@@ -1,0 +1,33 @@
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Death spawn (10)'	animation: 1542
+SOUND 884	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Death spawn (10)'	animation: 1540
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 35, sceneY: 84
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 35, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+NPC 'Death spawn (10)'	animation: 1542, gfx: 363
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Death spawn (10)'	animation: 1542
+SOUND 884	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Death spawn (10)'	animation: 1540
+SOUND 882	 delay: 0
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 35, sceneY: 84
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 35, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+AREA_SOUND 170	 delay: 56, range: 10, sceneX: 36, sceneY: 85
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 1472, y: 12480

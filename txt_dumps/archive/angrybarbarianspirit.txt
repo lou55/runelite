@@ -1,0 +1,58 @@
+SOUND 442	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+PLAYER 'IInsomniatik'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+SOUND 444	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 442	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 444	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 442	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Angry barbarian spirit (5563)'	animation: 6728
+SOUND 444	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Angry barbarian spirit (5563)'	animation: 6728
+SOUND 442	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 444	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 442	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+SOUND 2720	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+SOUND 444	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 1658
+SOUND 442	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Angry barbarian spirit (5563)'	animation: 6726
+PLAYER 'IInsomniatik'	 animation: 1156
+NPC 'Angry barbarian spirit (5563)'	animation: 6726

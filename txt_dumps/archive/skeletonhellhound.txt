@@ -1,0 +1,25 @@
+SOUND 1187	 delay: 0
+SOUND 2960	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Skeleton Hellhound (6387)'	animation: 6578
+SOUND 1185	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Skeleton Hellhound (6387)'	animation: 6578
+SOUND 1187	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Skeleton Hellhound (6387)'	animation: 6578
+SOUND 1185	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Skeleton Hellhound (6387)'	animation: 6578
+SOUND 1187	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Skeleton Hellhound (6387)'	animation: 6578
+SOUND 1185	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Skeleton Hellhound (6387)'	animation: 6578
+SOUND 1188	 delay: 0

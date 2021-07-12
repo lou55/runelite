@@ -1,0 +1,101 @@
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 50, sceneY: 40
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 50, sceneY: 57
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 27, x: 9408, y: 3392
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 50, sceneY: 58
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 6720, y: 4416
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 31, x: 6464, y: 5184
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 9152, y: 3904
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 50, sceneY: 40
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 50, sceneY: 57
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 20, x: 6464, y: 5184
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 16, x: 9024, y: 4416
+AREA_SOUND 1321	 delay: 0, range: 10, sceneX: 50, sceneY: 58
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 6592, y: 4288
+AREA_SOUND 2696	 delay: 0, range: 10, sceneX: 52, sceneY: 51
+PLAYER 'Elon R Musk'	 animation: 424
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 22, x: 9024, y: 4416
+SOUND 521	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 424
+PLAYER 'pay4box'	animation: 6600, gfx: 234
+PROJECTILE 228	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 6720, y: 6592
+AREA_SOUND 2695	 delay: 0, range: 10, sceneX: 49, sceneY: 47
+AREA_SOUND 2696	 delay: 0, range: 10, sceneX: 52, sceneY: 51
+PLAYER 'Elon R Musk'	 animation: 424
+PLAYER 'pay4box'	gfx: 234
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 36, x: 9024, y: 4416
+AREA_SOUND 2695	 delay: 0, range: 10, sceneX: 49, sceneY: 51
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 4230
+PLAYER 'pay4box'	animation: 424, gfx: 234
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 6720, y: 4416
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 31, x: 6336, y: 6080
+PROJECTILE 228	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 6720, y: 6592
+AREA_SOUND 2696	 delay: 0, range: 10, sceneX: 52, sceneY: 51
+PLAYER 'Elon R Musk'	 animation: 4230
+PLAYER 'pay4box'	animation: 6600, gfx: 234
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 31, x: 6336, y: 6592
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 51, sceneY: 58
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 4230
+PLAYER 'pay4box'	animation: 6600, gfx: 234
+PROJECTILE 228	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 6720, y: 6592
+AREA_SOUND 2696	 delay: 0, range: 10, sceneX: 52, sceneY: 51
+AREA_SOUND 1321	 delay: 0, range: 10, sceneX: 50, sceneY: 58
+SOUND 511	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 424
+PLAYER 'pay4box'	animation: 6600, gfx: 234
+AREA_SOUND 2695	 delay: 0, range: 10, sceneX: 49, sceneY: 47
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 424
+PLAYER 'pay4box'	animation: 6600, gfx: 234
+PROJECTILE 228	startHeight: 11, endHeight: 144, slope: 15, duration: 16, x: 6720, y: 6592
+AREA_SOUND 2566	 delay: 0, range: 10, sceneX: 50, sceneY: 51
+AREA_SOUND 202	 delay: 0, range: 10, sceneX: 49, sceneY: 51
+AREA_SOUND 203	 delay: 85, range: 10, sceneX: 50, sceneY: 51
+SOUND 518	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 1819
+PLAYER 'pay4box'	animation: 423, gfx: 345
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 20, x: 6464, y: 4544
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 30, x: 6336, y: 6080
+GROUND_ITEM 21326	 quantity 7	 spawnTime 751
+AREA_SOUND 2907	 delay: 0, range: 10, sceneX: 51, sceneY: 58
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 51, sceneY: 58
+PLAYER 'Elon R Musk'	 animation: 1819
+PLAYER 'Elon R Musk'	 animation: 1819
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 6848, y: 4288
+AREA_SOUND 2566	 delay: 0, range: 10, sceneX: 50, sceneY: 51
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 424
+PLAYER 'Elon R Musk'	 animation: 424
+AREA_SOUND 1321	 delay: 0, range: 10, sceneX: 50, sceneY: 60
+PLAYER 'Elon R Musk'	 animation: 424
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 31, x: 6464, y: 4288
+AREA_SOUND 4032	 delay: 0, range: 10, sceneX: 50, sceneY: 51
+AREA_SOUND 227	 delay: 56, range: 10, sceneX: 49, sceneY: 51
+PLAYER 'Elon R Musk'	 animation: 7855, gfx: 1464
+PLAYER 'pay4box'	gfx: 85
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 6592, y: 4288
+AREA_SOUND 2566	 delay: 0, range: 10, sceneX: 49, sceneY: 51
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 50, sceneY: 59
+GROUND_ITEM 229	 quantity 1	 spawnTime 758
+GROUND_ITEM 229	 quantity 1	 spawnTime 758
+PLAYER 'Elon R Musk'	 animation: 7855, gfx: 1464
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 6464, y: 4672
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6720, y: 4416
+SOUND 511	 delay: 20
+PLAYER 'pay4box'	animation: 423, gfx: 85
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 20, x: 6592, y: 4288
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 20, x: 7232, y: 3136
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 6464, y: 4928
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 7360, y: 3264
+AREA_SOUND 2566	 delay: 0, range: 10, sceneX: 48, sceneY: 51
+PLAYER 'Elon R Musk'	 animation: 424
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 10048, y: 7872
+AREA_SOUND 1321	 delay: 0, range: 10, sceneX: 50, sceneY: 60
+SOUND 518	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 424
+PLAYER 'pay4box'	animation: 423
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 7360, y: 3264
+GROUND_ITEM 9244	 quantity 1	 spawnTime 764
+PLAYER 'Elon R Musk'	 animation: 424
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 7232, y: 3136

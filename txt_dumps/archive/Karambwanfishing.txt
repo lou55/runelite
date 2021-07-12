@@ -1,0 +1,53 @@
+PLAYER 'ex rs'	 animation: 1193
+AREA_SOUND 2600	 delay: 0, range: 1, sceneX: 51, sceneY: 54, source: ex rs
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+AREA_SOUND 2600	 delay: 0, range: 1, sceneX: 51, sceneY: 54, source: ex rs
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+AREA_SOUND 2600	 delay: 0, range: 1, sceneX: 51, sceneY: 54, source: ex rs
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+AREA_SOUND 2600	 delay: 0, range: 1, sceneX: 51, sceneY: 54, source: ex rs
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+AREA_SOUND 2600	 delay: 0, range: 1, sceneX: 51, sceneY: 54, source: ex rs
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+AREA_SOUND 2600	 delay: 0, range: 1, sceneX: 51, sceneY: 54, source: ex rs
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+AREA_SOUND 2600	 delay: 0, range: 1, sceneX: 51, sceneY: 54, source: ex rs
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+AREA_SOUND 2600	 delay: 0, range: 1, sceneX: 51, sceneY: 54, source: ex rs
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193
+PLAYER 'ex rs'	 animation: 1193

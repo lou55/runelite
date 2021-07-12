@@ -1,0 +1,82 @@
+SOUND 3330	 delay: 0
+SOUND 3326	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5626
+SOUND 3330	 delay: 0
+SOUND 3326	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5626
+SOUND 3330	 delay: 0
+SOUND 3326	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5626
+SOUND 3330	 delay: 0
+SOUND 3326	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5626
+SOUND 3330	 delay: 0
+SOUND 3326	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5626
+SOUND 3330	 delay: 0
+SOUND 3326	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5626
+SOUND 3330	 delay: 0
+SOUND 3326	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+NPC 'Terror dog (6473)'	animation: 5625
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5626
+SOUND 3330	 delay: 0
+SOUND 3326	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Terror dog (6473)'	animation: 5625
+SOUND 3328	 delay: 0
+SOUND 3326	 delay: 0
+SOUND 3326	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156

@@ -1,0 +1,103 @@
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+SOUND 2707	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 8194
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+PLAYER 'IInsomniatik'	 animation: 8194
+NPC 'Guard (3011)'	animation: 6488
+PROJECTILE 28	startHeight: 11, endHeight: 144, slope: 15, duration: 23, x: 7104, y: 5696
+SOUND 1979	 delay: 0
+SOUND 2707	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 8194
+NPC 'Guard (3011)'	animation: 6488
+PLAYER 'IInsomniatik'	 animation: 8194
+NPC 'Guard (3011)'	animation: 6488
+PROJECTILE 28	startHeight: 11, endHeight: 144, slope: 15, duration: 19, x: 7104, y: 5696
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+SOUND 1979	 delay: 0
+SOUND 2549	 delay: 0
+SOUND 2834	 delay: 20
+SOUND 2707	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 8194
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+PLAYER 'IInsomniatik'	 animation: 8194
+NPC 'Guard (3011)'	animation: 6488
+SOUND 1979	 delay: 0
+SOUND 2707	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 8194
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+PLAYER 'IInsomniatik'	 animation: 8194
+PROJECTILE 28	startHeight: 11, endHeight: 144, slope: 15, duration: 11, x: 7104, y: 5696
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+SOUND 1979	 delay: 0
+SOUND 2549	 delay: 0
+SOUND 2835	 delay: 20
+SOUND 2707	 delay: 0
+PLAYER 'IInsomniatik'	 animation: 8194
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+PLAYER 'IInsomniatik'	 animation: 8194
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+SOUND 1979	 delay: 0
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+SOUND 512	 delay: 0
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 58, source: BioHazardd
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Chibi HC
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Surfender
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 43, source: Przemekkarim

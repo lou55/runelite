@@ -1,0 +1,19 @@
+SOUND 2567	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 401
+NPC 'Rock Crab (100)'	animation: 1313
+SOUND 720	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 401
+NPC 'Rock Crab (100)'	animation: 1313
+SOUND 718	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'Elon R Musk'	 animation: 403
+NPC 'Rock Crab (100)'	animation: 1312
+PLAYER 'Elon R Musk'	 animation: 403
+NPC 'Rock Crab (100)'	animation: 1312
+SOUND 2520	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1378, gfx: 1450
+NPC 'Rock Crab (100)'	animation: 1313
+SOUND 720	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 1378, gfx: 1450
+SOUND 719	 delay: 0
+GROUND_ITEM 995	 quantity 36	 spawnTime 2494

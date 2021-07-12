@@ -1,0 +1,14 @@
+AREA_SOUND 4026	 delay: 86, range: 10, sceneX: 59, sceneY: 25
+SOUND 4025	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 7855, gfx: 1461
+NPC 'Guard (3254)'	animation: 388, gfx: 1463
+PLAYER 'Elon R Musk'	 animation: 7855, gfx: 1461
+SOUND 1979	 delay: 0
+SOUND 2549	 delay: 0
+SOUND 511	 delay: 20
+SOUND 2555	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 401
+NPC 'Guard (3254)'	animation: 386
+SOUND 1979	 delay: 0
+PLAYER 'Elon R Musk'	 animation: 401
+NPC 'Guard (3254)'	animation: 386

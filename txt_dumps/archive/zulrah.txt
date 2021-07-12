@@ -1,0 +1,171 @@
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5808
+PLAYER 'ex rs'	 animation: 5061
+SOUND 796	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+SOUND 2675	 delay: 0
+AREA_SOUND 790	 delay: 0, range: 7, sceneX: 53, sceneY: 58
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5069
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5069
+PROJECTILE 1045	startHeight: 0, endHeight: 20, slope: 0, duration: 60, x: 6848, y: 7488
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 7232, y: 7488
+SOUND 796	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+AREA_SOUND 1930	 delay: 0, range: 4, sceneX: 53, sceneY: 53
+AREA_SOUND 790	 delay: 0, range: 7, sceneX: 51, sceneY: 58
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5069
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 7232, y: 7488
+SOUND 796	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1045	startHeight: 0, endHeight: 20, slope: 0, duration: 60, x: 6592, y: 7488
+AREA_SOUND 790	 delay: 0, range: 7, sceneX: 53, sceneY: 59
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5069
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5069
+PROJECTILE 1045	startHeight: 0, endHeight: 20, slope: 0, duration: 62, x: 6848, y: 7616
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 14, x: 7232, y: 7872
+SOUND 796	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5069
+AREA_SOUND 790	 delay: 0, range: 7, sceneX: 51, sceneY: 60
+AREA_SOUND 1930	 delay: 0, range: 4, sceneX: 57, sceneY: 56
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5069
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 7232, y: 7872
+AREA_SOUND 1930	 delay: 0, range: 4, sceneX: 57, sceneY: 59
+SOUND 796	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5069
+PROJECTILE 1045	startHeight: 0, endHeight: 20, slope: 0, duration: 60, x: 6592, y: 7744
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5069
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 13, x: 7232, y: 7872
+SOUND 796	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5808
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2042)'	animation: 5072
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 7232, y: 7872
+PLAYER 'ex rs'	 animation: 5061
+AREA_SOUND 2496	 delay: 0, range: 9, sceneX: 50, sceneY: 57
+SOUND 2676	 delay: 0
+SOUND 796	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2043)'	animation: 5807
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2043)'	animation: 5807
+SOUND 796	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2043)'	animation: 5807
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2043)'	animation: 5807
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 7232, y: 7872
+AREA_SOUND 2720	 delay: 0, range: 2, sceneX: 56, sceneY: 61
+SOUND 796	 delay: 0
+SOUND 520	 delay: 20
+SOUND 2727	 delay: 0
+PLAYER 'ex rs'	 animation: 1157, gfx: 245
+PLAYER 'ex rs'	 animation: 1157, gfx: 245
+PLAYER 'ex rs'	 animation: 1157, gfx: 245
+PLAYER 'ex rs'	 animation: 1157, gfx: 245
+PLAYER 'ex rs'	 gfx: 245
+PLAYER 'ex rs'	 gfx: 245
+PLAYER 'ex rs'	 gfx: 245
+NPC 'Zulrah (2043)'	animation: 5806
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 245
+NPC 'Zulrah (2043)'	animation: 5806
+AREA_SOUND 2720	 delay: 0, range: 2, sceneX: 57, sceneY: 60
+SOUND 519	 delay: 20
+SOUND 2727	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 245
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 7488, y: 7872
+SOUND 796	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 245
+PLAYER 'ex rs'	 gfx: 245
+PLAYER 'ex rs'	 gfx: 245
+PLAYER 'ex rs'	 gfx: 245
+PLAYER 'ex rs'	 gfx: 245
+AREA_SOUND 2496	 delay: 0, range: 9, sceneX: 50, sceneY: 57
+PLAYER 'ex rs'	 gfx: 245
+PLAYER 'ex rs'	 gfx: 245
+AREA_SOUND 162	 delay: 0, range: 4, sceneX: 53, sceneY: 58
+SOUND 163	 delay: 90
+SOUND 2677	 delay: 0
+PROJECTILE 1046	startHeight: 0, endHeight: 48, slope: 0, duration: 60, x: 6848, y: 7488
+AREA_SOUND 213	 delay: 0, range: 4, sceneX: 53, sceneY: 60
+SOUND 214	 delay: 90
+SOUND 2359	 delay: 20
+NPC 'Zulrah (2044)'	animation: 5069
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2044)'	animation: 5069
+PROJECTILE 1044	startHeight: 0, endHeight: 48, slope: 0, duration: 59, x: 6848, y: 7744
+PLAYER 'ex rs'	 animation: 5061
+AREA_SOUND 213	 delay: 0, range: 4, sceneX: 53, sceneY: 60
+SOUND 796	 delay: 0
+SOUND 214	 delay: 90
+SOUND 2358	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2044)'	animation: 5069
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2044)'	animation: 5069
+PROJECTILE 1044	startHeight: 0, endHeight: 48, slope: 0, duration: 60, x: 6848, y: 7744
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 7360, y: 7616
+SOUND 796	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+AREA_SOUND 162	 delay: 0, range: 4, sceneX: 53, sceneY: 59
+SOUND 163	 delay: 90
+SOUND 2364	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2044)'	animation: 5069
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 7360, y: 7616
+SOUND 796	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2044)'	animation: 5069
+PROJECTILE 1046	startHeight: 0, endHeight: 48, slope: 0, duration: 60, x: 6848, y: 7616
+PLAYER 'ex rs'	 animation: 5061
+SOUND 2364	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Zulrah (2044)'	animation: 5072
+AREA_SOUND 2496	 delay: 0, range: 9, sceneX: 50, sceneY: 57
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 796	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PROJECTILE 1045	startHeight: 0, endHeight: 20, slope: 0, duration: 60, x: 5568, y: 7360
+AREA_SOUND 1930	 delay: 0, range: 4, sceneX: 57, sceneY: 56
+PROJECTILE 1045	startHeight: 0, endHeight: 20, slope: 0, duration: 60, x: 5568, y: 7360
+AREA_SOUND 1930	 delay: 0, range: 4, sceneX: 57, sceneY: 59
+AREA_SOUND 1930	 delay: 0, range: 4, sceneX: 57, sceneY: 62
+PROJECTILE 1045	startHeight: 0, endHeight: 20, slope: 0, duration: 57, x: 5568, y: 7360
+PROJECTILE 1045	startHeight: 0, endHeight: 20, slope: 10, duration: 87, x: 5568, y: 7360
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PROJECTILE 1047	startHeight: 0, endHeight: 20, slope: 0, duration: 90, x: 5568, y: 7360
+PLAYER 'ex rs'	 animation: 829
+PROJECTILE 1047	startHeight: 0, endHeight: 20, slope: 0, duration: 91, x: 5568, y: 7360
+PROJECTILE 1047	startHeight: 0, endHeight: 20, slope: 0, duration: 87, x: 5568, y: 7360
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PROJECTILE 1047	startHeight: 0, endHeight: 20, slope: 0, duration: 90, x: 5568, y: 7488
+PLAYER 'ex rs'	 animation: 829

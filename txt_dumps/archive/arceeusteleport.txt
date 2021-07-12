@@ -1,0 +1,4 @@
+AREA_SOUND 200	 delay: 0, range: 10, sceneX: 49, sceneY: 51
+PLAYER 'IInsomniatik'	 animation: 3865, gfx: 1296
+PLAYER 'IInsomniatik'	 animation: 3865, gfx: 1296
+PLAYER 'IInsomniatik'	 animation: 3865, gfx: 1296

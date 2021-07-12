@@ -1,0 +1,23 @@
+---------| LOADING |----------
+GROUND_ITEM 946	 quantity 1	 spawnTime 1032
+GROUND_ITEM 882	 quantity 1	 spawnTime 1032
+GROUND_ITEM 558	 quantity 1	 spawnTime 1032
+GROUND_ITEM 1923	 quantity 1	 spawnTime 1032
+GROUND_ITEM 1931	 quantity 1	 spawnTime 1032
+GROUND_ITEM 1935	 quantity 1	 spawnTime 1032
+GROUND_ITEM 946	 quantity 1	 spawnTime 1032
+GROUND_ITEM 1203	 quantity 1	 spawnTime 1036
+AREA_SOUND 413	 delay: 0, range: 5, sceneX: 75, sceneY: 56
+PROJECTILE 11	startHeight: 11, endHeight: 144, slope: 15, duration: 23, x: 9792, y: 9920
+AREA_SOUND 413	 delay: 0, range: 5, sceneX: 76, sceneY: 63
+AREA_SOUND 413	 delay: 0, range: 5, sceneX: 76, sceneY: 63
+AREA_SOUND 412	 delay: 0, range: 5, sceneX: 76, sceneY: 62
+PROJECTILE 11	startHeight: 11, endHeight: 144, slope: 15, duration: 16, x: 9792, y: 9920
+---------| LOADING |----------
+GROUND_ITEM 1923	 quantity 1	 spawnTime 1032
+GROUND_ITEM 1931	 quantity 1	 spawnTime 1032
+GROUND_ITEM 1935	 quantity 1	 spawnTime 1032
+GROUND_ITEM 946	 quantity 1	 spawnTime 1032
+GROUND_ITEM 1203	 quantity 1	 spawnTime 1036
+PROJECTILE 11	startHeight: 11, endHeight: 144, slope: 15, duration: 22, x: 4672, y: 8896
+SOUND 69	 delay: 0
