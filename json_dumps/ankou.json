@@ -1,0 +1,567 @@
+[
+  {
+    "server-tick": 7,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 8,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "2973, 3732, 0",
+    "interacting": {
+      "npc": "Ankou (6608)"
+    }
+  },
+  {
+    "server-tick": 9,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "2973, 3734, 0",
+    "interacting": {
+      "npc": "Ankou (6608)"
+    }
+  },
+  {
+    "server-tick": 10,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "pos": "2974, 3736, 0",
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "526, 1, 10"
+      },
+      {
+        "id, quantity, spawnTime": "526, 1, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 11,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 12,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 425
+    }
+  },
+  {
+    "server-tick": 13,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)"
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ankou (6608)"
+    }
+  },
+  {
+    "server-tick": 17,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 18,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 19,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)"
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ankou (6608)"
+    }
+  },
+  {
+    "server-tick": 21,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)"
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ankou (6608)"
+    }
+  },
+  {
+    "server-tick": 25,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)"
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 28,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 199,
+    "interacting": {
+      "npc": "Ankou (6608)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3120, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 199,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 30,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 199,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 31,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)"
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ankou (6608)"
+    }
+  },
+  {
+    "server-tick": 33,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 34,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 35,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)"
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ankou (6608)"
+    }
+  },
+  {
+    "server-tick": 37,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 38,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 39,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)"
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 40,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ankou (6608)"
+    }
+  },
+  {
+    "server-tick": 41,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 42,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 43,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)"
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 44,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ankou (6608)"
+    }
+  },
+  {
+    "server-tick": 45,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 46,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 47,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ankou (6608)"
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 48,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "925, 0"
+      },
+      {
+        "id, delay": "3424, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 49,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 50,
+    "game-state": "LOGGED_IN (30)",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "526, 1, 50"
+      },
+      {
+        "id, quantity, spawnTime": "563, 2, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 51,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 52,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 53,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

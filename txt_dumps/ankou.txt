@@ -1,0 +1,98 @@
+GROUND_ITEM 526	 quantity 1	 spawnTime 10
+GROUND_ITEM 526	 quantity 1	 spawnTime 10
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Ankou (6608)'	animation: 425
+SOUND 926	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Ankou (6608)'	animation: 425
+NPC 'Ankou (6608)'	animation: 425
+SOUND 924	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ankou (6608)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Ankou (6608)'	animation: 422
+SOUND 926	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+SOUND 924	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ankou (6608)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Ankou (6608)'	animation: 422
+SOUND 926	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+SOUND 924	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ankou (6608)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Ankou (6608)'	animation: 422
+SOUND 926	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+SOUND 924	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ankou (6608)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Ankou (6608)'	animation: 422
+SOUND 926	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+AREA_SOUND 2396	 delay: 0, range: 1, sceneX: 54, sceneY: 56
+AREA_SOUND 2384	 delay: 25, range: 1, sceneX: 54, sceneY: 56
+SOUND 3120	 delay: 0
+PLAYER 'Lou Grinder'	 gfx: 199
+SOUND 924	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 199
+NPC 'Ankou (6608)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 199
+NPC 'Ankou (6608)'	animation: 422
+SOUND 926	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+SOUND 924	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ankou (6608)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Ankou (6608)'	animation: 422
+SOUND 926	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+SOUND 924	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ankou (6608)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Ankou (6608)'	animation: 422
+SOUND 926	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+SOUND 924	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ankou (6608)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Ankou (6608)'	animation: 422
+SOUND 926	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+SOUND 924	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ankou (6608)'	animation: 422
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Ankou (6608)'	animation: 422
+SOUND 926	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+SOUND 925	 delay: 0
+SOUND 3424	 delay: 0
+GROUND_ITEM 526	 quantity 1	 spawnTime 50
+GROUND_ITEM 563	 quantity 2	 spawnTime 50

@@ -28,28 +28,16 @@ import ch.qos.logback.classic.Level;
 import ch.qos.logback.classic.Logger;
 import com.google.common.collect.ImmutableList;
 import com.google.common.primitives.Ints;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonObject;
 import com.google.inject.Provides;
-import java.awt.image.BufferedImage;
-import static java.lang.Math.min;
-import java.util.Arrays;
-import java.util.List;
-import javax.inject.Inject;
 import lombok.Getter;
-import net.runelite.api.ChatMessageType;
-import net.runelite.api.Client;
-import net.runelite.api.Experience;
-import net.runelite.api.IndexedSprite;
-import net.runelite.api.MenuAction;
-import net.runelite.api.MenuEntry;
-import net.runelite.api.NPC;
-import net.runelite.api.Player;
-import net.runelite.api.Skill;
-import net.runelite.api.VarbitComposition;
+import net.runelite.api.*;
+import net.runelite.api.coords.LocalPoint;
 import net.runelite.api.coords.WorldPoint;
-import net.runelite.api.events.CommandExecuted;
-import net.runelite.api.events.MenuEntryAdded;
-import net.runelite.api.events.StatChanged;
-import net.runelite.api.events.VarbitChanged;
+import net.runelite.api.events.*;
 import net.runelite.api.kit.KitType;
 import net.runelite.client.chat.ChatMessageBuilder;
 import net.runelite.client.chat.ChatMessageManager;
@@ -62,19 +50,40 @@ import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.ui.ClientToolbar;
 import net.runelite.client.ui.JagexColors;
 import net.runelite.client.ui.NavigationButton;
+import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayManager;
 import net.runelite.client.util.ColorUtil;
 import net.runelite.client.util.ImageUtil;
 import org.slf4j.LoggerFactory;
 
+import javax.inject.Inject;
+import javax.swing.*;
+import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.nio.file.Paths;
+import java.text.SimpleDateFormat;
+import java.util.List;
+import java.util.*;
+
+import static java.lang.Math.min;
+
 @PluginDescriptor(
-	name = "Developer Tools",
-	tags = {"panel"},
-	developerPlugin = true
+		name = "Developer Tools",
+		tags = {"panel"},
+		developerPlugin = true
 )
 @Getter
 public class DevToolsPlugin extends Plugin
 {
+
+	private boolean track = false;
+	private JsonArray array = new JsonArray();
+	private final List<String> lines = new ArrayList<>();
+
 	private static final List<MenuAction> EXAMINE_MENU_ACTIONS = ImmutableList.of(MenuAction.EXAMINE_ITEM,
 			MenuAction.EXAMINE_ITEM_GROUND, MenuAction.EXAMINE_NPC, MenuAction.EXAMINE_OBJECT);
 
@@ -117,6 +126,9 @@ public class DevToolsPlugin extends Plugin
 	@Inject
 	private ChatMessageManager chatMessageManager;
 
+	private DevToolsButton toggleTracking;
+	private DevToolsButton saveTrackedData;
+	private DevToolsButton actorAnimationsAndGraphics;
 	private DevToolsButton players;
 	private DevToolsButton npcs;
 	private DevToolsButton groundItems;
@@ -147,6 +159,7 @@ public class DevToolsPlugin extends Plugin
 	private DevToolsButton roofs;
 	private DevToolsButton shell;
 	private NavigationButton navButton;
+	private boolean switchedOn;
 
 	@Provides
 	DevToolsConfig provideConfig(ConfigManager configManager)
@@ -157,6 +170,8 @@ public class DevToolsPlugin extends Plugin
 	@Override
 	protected void startUp() throws Exception
 	{
+		actorAnimationsAndGraphics = new DevToolsButton("Animations and Graphics");
+
 		players = new DevToolsButton("Players");
 		npcs = new DevToolsButton("NPCs");
 
@@ -193,6 +208,9 @@ public class DevToolsPlugin extends Plugin
 		roofs = new DevToolsButton("Roofs");
 		shell = new DevToolsButton("Shell");
 
+		toggleTracking = new DevToolsButton("Toggle Tracking");
+		saveTrackedData = new DevToolsButton("Save Tracked Data");
+
 		overlayManager.add(overlay);
 		overlayManager.add(locationOverlay);
 		overlayManager.add(sceneOverlay);
@@ -200,6 +218,81 @@ public class DevToolsPlugin extends Plugin
 		overlayManager.add(worldMapLocationOverlay);
 		overlayManager.add(mapRegionOverlay);
 		overlayManager.add(soundEffectOverlay);
+
+		overlayManager.add(new Overlay() {
+			@Override
+			public Dimension render(Graphics2D graphics) {
+
+				if(track) {
+					graphics.setColor(Color.GREEN);
+					graphics.drawString("Tracking", 0, 20);
+				} else {
+					graphics.setColor(Color.RED);
+					graphics.drawString("Not tracking", 0, 20);
+				}
+
+				return null;
+			}
+		});
+		toggleTracking.addActionListener(e -> {
+			track = !track;
+
+			resetJsonArrays();
+		});
+
+		saveTrackedData.addActionListener(e -> {
+
+			if (switchedOn) {
+				switchedOn = false;
+				return;
+			}
+			Date date = new Date() ;
+			SimpleDateFormat dateFormat = new SimpleDateFormat("MM-dd HH-mm") ;
+
+			String fileName = JOptionPane.showInputDialog("Please input filename: ");
+
+			if ((fileName == null) || (fileName.length() == 0)) {
+				return;
+			}
+
+			File jsonFile = Paths.get("json_dumps", fileName+".json").toFile();
+			File txtFile = Paths.get("txt_dumps", fileName+".txt").toFile();
+
+			jsonFile.getParentFile().mkdir();
+			txtFile.getParentFile().mkdir();
+
+			int i = 1;
+			while (jsonFile.exists()){
+				jsonFile = Paths.get("json_dumps", fileName+"_"+i+".json").toFile();
+				i++;
+			}
+			i = 1;
+			while (txtFile.exists()){
+				txtFile = Paths.get("txt_dumps", fileName+"_"+i+".txt").toFile();
+				i++;
+			}
+			try {
+
+				jsonFile.createNewFile();
+				final FileWriter writer = new FileWriter(jsonFile);
+				final Gson gson = new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create();
+				gson.toJson(array, writer);
+				writer.flush();
+				writer.close();
+
+				txtFile.createNewFile();
+				final PrintWriter printWriter = new PrintWriter(new FileWriter(txtFile));
+				for(String line : lines)
+					printWriter.println(line);
+				printWriter.flush();
+				printWriter.close();;
+
+			} catch (IOException ex) {
+				ex.printStackTrace();
+			}
+			resetJsonArrays();
+			switchedOn = true;
+		});
 
 		final DevToolsPanel panel = injector.getInstance(DevToolsPanel.class);
 
@@ -215,6 +308,13 @@ public class DevToolsPlugin extends Plugin
 		clientToolbar.addNavigation(navButton);
 
 		eventBus.register(soundEffectOverlay);
+	}
+
+	private void resetJsonArrays() {
+		array = new JsonArray();
+		playerSounds = new JsonArray();
+		areaSounds = new JsonArray();
+		lines.clear();
 	}
 
 	@Override
@@ -426,9 +526,9 @@ public class DevToolsPlugin extends Plugin
 				String value = configManager.getConfiguration(group, key);
 				final String message = String.format("%s.%s = %s", group, key, value);
 				chatMessageManager.queue(QueuedMessage.builder()
-					.type(ChatMessageType.GAMEMESSAGE)
-					.runeLiteFormattedMessage(new ChatMessageBuilder().append(message).build())
-					.build());
+						.type(ChatMessageType.GAMEMESSAGE)
+						.runeLiteFormattedMessage(new ChatMessageBuilder().append(message).build())
+						.build());
 				break;
 			}
 			case "modicons":
@@ -445,9 +545,9 @@ public class DevToolsPlugin extends Plugin
 					}
 				}
 				chatMessageManager.queue(QueuedMessage.builder()
-					.type(ChatMessageType.GAMEMESSAGE)
-					.runeLiteFormattedMessage(builder.build())
-					.build());
+						.type(ChatMessageType.GAMEMESSAGE)
+						.runeLiteFormattedMessage(builder.build())
+						.build());
 				break;
 			}
 		}
@@ -491,4 +591,215 @@ public class DevToolsPlugin extends Plugin
 			client.setMenuEntries(entries);
 		}
 	}
+
+	final Gson gson = new GsonBuilder().setPrettyPrinting().create();
+	volatile WorldPoint lastWp = null;
+	JsonArray playerSounds = new JsonArray();
+	JsonArray npcSounds = new JsonArray();
+	JsonArray areaSounds = new JsonArray();
+	JsonArray groundItemArray = new JsonArray();
+
+	@Subscribe
+	public void onItemSpawned(ItemSpawned itemSpawned)
+	{
+		final TileItem tileItem = itemSpawned.getItem();
+		final JsonObject groundItem = new JsonObject();
+		groundItem.addProperty("id, quantity, spawnTime", tileItem.getId()+", "+tileItem.getQuantity()+", "+tileItem.getSpawnTime());
+		groundItemArray.add(groundItem);
+		save("GROUND_ITEM "+tileItem.getId()+"\t quantity "+tileItem.getQuantity()+"\t spawnTime "+tileItem.getSpawnTime());
+	}
+
+	@Subscribe
+	public void onSoundEffectPlayed(SoundEffectPlayed soundEffectPlayed){
+		final JsonObject sound = new JsonObject();
+		sound.addProperty("id, delay", soundEffectPlayed.getSoundId()+", "+soundEffectPlayed.getDelay());
+		playerSounds.add(sound);
+		save("SOUND "+soundEffectPlayed.getSoundId()+"\t delay: "+soundEffectPlayed.getDelay());
+	}
+
+	@Subscribe
+	public void onAreaSoundEffectPlayed(AreaSoundEffectPlayed areaSoundEffectPlayed){
+		final JsonObject sound = new JsonObject();
+		sound.addProperty("id", areaSoundEffectPlayed.getSoundId());
+		sound.addProperty("delay", areaSoundEffectPlayed.getDelay());
+		sound.addProperty("range", areaSoundEffectPlayed.getRange());
+		sound.addProperty("sceneX", areaSoundEffectPlayed.getSceneX());
+		sound.addProperty("sceneY", areaSoundEffectPlayed.getSceneY());
+		String details = "AREA_SOUND "+areaSoundEffectPlayed.getSoundId()+"\t delay: "+areaSoundEffectPlayed.getDelay()+", range: "+areaSoundEffectPlayed.getRange()+", sceneX: "+areaSoundEffectPlayed.getSceneX()+", sceneY: "+areaSoundEffectPlayed.getSceneY();
+
+		if(areaSoundEffectPlayed.getSource() instanceof NPC){
+			final Player localPlayer = client.getLocalPlayer();
+			final NPC npc = ((NPC) areaSoundEffectPlayed.getSource());
+			if(npc.getInteracting() == localPlayer || Objects.requireNonNull(localPlayer).getInteracting() == npc) {
+				sound.addProperty("source", npc.getName() + " (" + npc.getId() + ")");
+				areaSounds.add(sound);
+				details+=", source: " + npc.getName() + " (" + npc.getId() + ")";
+			}
+		} else if(areaSoundEffectPlayed.getSource() instanceof Player){
+			sound.addProperty("source",  areaSoundEffectPlayed.getSource().getName());
+			areaSounds.add(sound);
+			details+=", source: " + areaSoundEffectPlayed.getSource().getName();
+		}
+		save(details);
+	}
+
+	GameState gameState = GameState.UNKNOWN;
+	@Subscribe
+	public void onGameStateChanged(final GameStateChanged event)
+	{
+		if (event.getGameState() == GameState.LOADING)
+		{
+			save("---------| LOADING |----------");
+		}
+		gameState = event.getGameState();
+	}
+
+	@Subscribe
+	public void onGameTick(GameTick gameTick) {
+
+
+		final int tick = client.getTickCount();
+		final Player local = Objects.requireNonNull(client.getLocalPlayer());
+		final Actor interacting = local.getInteracting();
+
+		final JsonObject object = new JsonObject();
+
+		final WorldPoint wp = local.getWorldLocation();
+
+		object.addProperty("server-tick", tick);
+		object.addProperty("game-state", gameState.name()+" ("+gameState.getState()+")");
+
+		String details = "";
+
+		if (local.getAnimation() != -1) {
+			object.addProperty("animation", local.getAnimation());
+			details+="animation: "+local.getAnimation();
+		}
+		if (local.getGraphic() != -1) {
+			object.addProperty("gfx", local.getGraphic());
+			if(!details.isEmpty())
+				details+=", ";
+			details+="gfx: "+local.getGraphic();
+		}
+		if (lastWp == null || !lastWp.equals(wp))
+			object.addProperty("pos", wp.getX() + ", " + wp.getY() + ", " + wp.getPlane() + "");
+
+		if(!details.isEmpty()){
+			save("PLAYER '"+local.getName()+"'\t "+details);
+		}
+		lastWp = wp;
+
+		if (interacting != null)
+			saveInteractingActor(interacting, object);
+
+		saveSounds(object);
+		saveGroundItems(object);
+
+		playerSounds = new JsonArray();
+		areaSounds = new JsonArray();
+		groundItemArray = new JsonArray();
+
+		saveAddedProjectiles(object);
+
+		saveAddedGraphics(object);
+
+		if (object.keySet().size() > 1 && track) {
+			array.add(object);
+		}
+	}
+
+	private void saveInteractingActor(Actor interacting, JsonObject object) {
+
+		final JsonObject interactingObject = new JsonObject();
+
+		String string = "";
+
+		if (interacting instanceof Player) {
+			interactingObject.addProperty("player", interacting.getName());
+			string+="PLAYER '"+interacting.getName()+"'\t";
+		} else if (interacting instanceof NPC) {
+			interactingObject.addProperty("npc", interacting.getName() + " (" + ((NPC) interacting).getId() + ")");
+			string+="NPC '"+interacting.getName()+ " (" + ((NPC) interacting).getId() + ")"+"'\t";
+		}
+
+		boolean save = false;
+		if (interacting.getAnimation() != -1) {
+			interactingObject.addProperty("animation", interacting.getAnimation());
+			string+="animation: "+interacting.getAnimation();
+			save = true;
+		}
+
+		if (interacting.getGraphic() != -1) {
+			interactingObject.addProperty("gfx", interacting.getGraphic());
+			if(save)
+				string+=", ";
+			string+="gfx: "+interacting.getGraphic();
+			save = true;
+		}
+
+		if(save){
+			save(string);
+		}
+
+		object.add("interacting", interactingObject);
+	}
+
+	private void saveSounds(JsonObject object) {
+		if (areaSounds.size() > 0)
+			object.add("area-sounds", areaSounds);
+
+		if (playerSounds.size() > 0)
+			object.add("sounds", playerSounds);
+	}
+
+	private void saveGroundItems(JsonObject object) {
+		if(groundItemArray.size() > 0)
+			object.add("ground-items", groundItemArray);
+	}
+
+	private void saveAddedProjectiles(JsonObject object) {
+		final JsonArray addedProjectiles = new JsonArray();
+		for (Projectile projectile : client.getProjectiles()) {
+			final JsonObject proj = new JsonObject();
+			proj.addProperty("id", projectile.getId());
+			proj.addProperty("heights", projectile.getStartHeight() + ", " + projectile.getEndHeight());
+			proj.addProperty("slope, duration", projectile.getSlope() + ", " + projectile.getRemainingCycles());
+			final int projTick = projectile.getStartMovementCycle();
+			final int clientCycle = client.getGameCycle();
+			if (projTick > clientCycle && projTick < clientCycle + 15) {
+				addedProjectiles.add(proj);
+				save("PROJECTILE "+projectile.getId()+"\tstartHeight: "+projectile.getStartHeight()+", endHeight: "+projectile.getEndHeight()+", slope: "+projectile.getSlope()+", duration: "+projectile.getRemainingCycles()+", x: "+projectile.getX1()+", y: "+projectile.getY1());
+			}
+		}
+
+		if (addedProjectiles.size() > 0)
+			object.add("projectiles", addedProjectiles);
+	}
+
+	private void saveAddedGraphics(JsonObject object) {
+		final JsonArray addedGraphics = new JsonArray();
+		for (GraphicsObject graphicsObject : client.getGraphicsObjects()) {
+			final JsonObject grap = new JsonObject();
+			grap.addProperty("id", graphicsObject.getId());
+			grap.addProperty("level", graphicsObject.getLevel());
+			grap.addProperty("start", graphicsObject.getStartCycle());
+			final int projTick = graphicsObject.getStartCycle();
+			final int clientCycle = client.getGameCycle();
+
+			if (projTick > clientCycle) {
+				addedGraphics.add(grap);
+				final LocalPoint localPoint = graphicsObject.getLocation();
+				save("GFX "+graphicsObject.getId()+"\tlevel: "+graphicsObject.getLevel()+", start_cycle: "+graphicsObject.getStartCycle()+", x: "+localPoint.getX()+", y: "+localPoint.getY());
+			}
+		}
+
+		if (addedGraphics.size() > 0)
+			object.add("graphics", addedGraphics);
+
+	}
+
+	private void save(String... lines){
+		Collections.addAll(this.lines, lines);
+	}
+
 }
