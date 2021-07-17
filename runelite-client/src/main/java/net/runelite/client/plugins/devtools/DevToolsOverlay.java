@@ -38,23 +38,8 @@ import java.util.List;
 import java.util.Set;
 import javax.inject.Inject;
 import javax.inject.Singleton;
-import net.runelite.api.Client;
-import net.runelite.api.Constants;
-import net.runelite.api.DecorativeObject;
-import net.runelite.api.GameObject;
-import net.runelite.api.GraphicsObject;
-import net.runelite.api.ItemLayer;
-import net.runelite.api.NPC;
-import net.runelite.api.NPCComposition;
-import net.runelite.api.Node;
-import net.runelite.api.Perspective;
-import net.runelite.api.Player;
-import net.runelite.api.Point;
-import net.runelite.api.Projectile;
-import net.runelite.api.Scene;
-import net.runelite.api.Tile;
-import net.runelite.api.TileItem;
-import net.runelite.api.TileObject;
+
+import net.runelite.api.*;
 import net.runelite.api.coords.LocalPoint;
 import net.runelite.api.coords.WorldPoint;
 import net.runelite.api.widgets.Widget;
@@ -105,6 +90,11 @@ class DevToolsOverlay extends Overlay
 	{
 		graphics.setFont(FONT);
 
+		if (plugin.getActorAnimationsAndGraphics().isActive())
+		{
+			renderAnimations(graphics);
+		}
+
 		if (plugin.getPlayers().isActive())
 		{
 			renderPlayers(graphics);
@@ -141,6 +131,41 @@ class DevToolsOverlay extends Overlay
 		}
 
 		return null;
+	}
+
+	private void renderAnimations(Graphics2D graphics) {
+		for (Player player : client.getPlayers()) {
+			renderAnimation(graphics, player);
+		}
+
+		for (NPC npc : client.getNpcs()) {
+			renderAnimation(graphics, npc);
+		}
+	}
+
+	private void renderAnimation(Graphics2D graphics, Actor actor) {
+		LocalPoint lp = actor.getLocalLocation();
+		{
+			if (actor.getAnimation() != -1) {
+				String infoString = "(Anim: " + actor.getAnimation() + ")";
+				Point textLocation = Perspective.getCanvasTextLocation(
+						client, graphics, lp, infoString, 200);
+				if (textLocation != null) {
+					OverlayUtil.renderTextLocation(graphics, textLocation, infoString, Color.WHITE);
+				}
+			}
+		}
+		{
+			if (actor.getGraphic() != -1) {
+				String infoString = "(Graphic: " + actor.getGraphic() + ")";
+				Point textLocation = Perspective.getCanvasTextLocation(
+						client, graphics, lp, infoString, 230);
+				if (textLocation != null) {
+					OverlayUtil.renderTextLocation(graphics, textLocation, infoString, Color.WHITE);
+				}
+			}
+		}
+
 	}
 
 	private void renderRoofs(Graphics2D graphics)
