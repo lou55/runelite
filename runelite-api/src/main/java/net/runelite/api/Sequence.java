@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017, Adam <Adam@sigterm.info>
+ * Copyright (c) 2021, Trevor <https://github.com/Trevor159>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -25,14 +25,8 @@
 package net.runelite.api;
 
 /**
- * Utility class used for mapping projectile IDs.
- * <p>
- * Note: This class is not complete and may be missing mapped IDs.
+ * Represents an animation of a renderable
  */
-public class ProjectileID
+public interface Sequence
 {
-	public static final int CANNONBALL = 53;
-	public static final int GRANITE_CANNONBALL = 1443;
-	public static final int TELEKINETIC_SPELL = 143;
-	public static final int ZALCANO_PROJECTILE_FIREBALL = 1728;
 }

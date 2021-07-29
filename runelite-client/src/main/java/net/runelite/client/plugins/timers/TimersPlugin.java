@@ -82,7 +82,7 @@ import org.apache.commons.lang3.ArrayUtils;
 @PluginDescriptor(
 	name = "Timers",
 	description = "Show various timers in an infobox",
-	tags = {"combat", "items", "magic", "potions", "prayer", "overlay", "abyssal", "sire", "inferno", "fight", "caves", "cape", "timer", "tzhaar"}
+	tags = {"combat", "items", "magic", "potions", "prayer", "overlay", "abyssal", "sire", "inferno", "fight", "caves", "cape", "timer", "tzhaar", "thieving", "pickpocket"}
 )
 @Slf4j
 public class TimersPlugin extends Plugin
@@ -97,6 +97,7 @@ public class TimersPlugin extends Plugin
 	private static final String CANNON_PICKUP_MESSAGE = "You pick up the cannon. It's really heavy.";
 	private static final String CANNON_REPAIR_MESSAGE = "You repair your cannon, restoring it to working order.";
 	private static final String CANNON_DESTROYED_MESSAGE = "Your cannon has been destroyed!";
+	private static final String CANNON_BROKEN_MESSAGE = "<col=ef1020>Your cannon has broken!";
 	private static final String CHARGE_EXPIRED_MESSAGE = "<col=ef1020>Your magical charge fades away.</col>";
 	private static final String CHARGE_MESSAGE = "<col=ef1020>You feel charged with magic power.</col>";
 	private static final String EXTENDED_ANTIFIRE_DRINK_MESSAGE = "You drink some of your extended antifire potion.";
@@ -125,6 +126,7 @@ public class TimersPlugin extends Plugin
 	private static final String RESURRECT_THRALL_DISAPPEAR_MESSAGE_START = ">Your ";
 	private static final String RESURRECT_THRALL_DISAPPEAR_MESSAGE_END = " thrall returns to the grave.</col>";
 	private static final String WARD_OF_ARCEUUS_MESSAGE = ">Your defence against Arceuus magic has been strengthened.</col>";
+	private static final String PICKPOCKET_FAILURE_MESSAGE = "You fail to pick the ";
 
 	private static final Pattern TELEBLOCK_PATTERN = Pattern.compile("A Tele Block spell has been cast on you(?: by .+)?\\. It will expire in (?<mins>\\d+) minutes?(?:, (?<secs>\\d+) seconds?)?\\.");
 	private static final Pattern DIVINE_POTION_PATTERN = Pattern.compile("You drink some of your divine (.+) potion\\.");
@@ -485,7 +487,7 @@ public class TimersPlugin extends Plugin
 			imbuedHeartClickTick = client.getTickCount();
 		}
 
-		TeleportWidget teleportWidget = TeleportWidget.of(event.getWidgetId());
+		TeleportWidget teleportWidget = TeleportWidget.of(event.getParam1());
 		if (teleportWidget != null)
 		{
 			lastTeleportClicked = teleportWidget;
@@ -499,6 +501,18 @@ public class TimersPlugin extends Plugin
 		if (event.getType() != ChatMessageType.SPAM && event.getType() != ChatMessageType.GAMEMESSAGE)
 		{
 			return;
+		}
+
+		if (message.contains(PICKPOCKET_FAILURE_MESSAGE) && config.showPickpocketStun() && message.contains("pocket"))
+		{
+			if (message.contains("hero") || message.contains("elf"))
+			{
+				createGameTimer(PICKPOCKET_STUN, Duration.ofSeconds(6));
+			}
+			else
+			{
+				createGameTimer(PICKPOCKET_STUN, Duration.ofSeconds(5));
+			}
 		}
 
 		if (message.equals(ABYSSAL_SIRE_STUN_MESSAGE) && config.showAbyssalSireStun())
@@ -562,19 +576,27 @@ public class TimersPlugin extends Plugin
 
 		}
 
-		if (config.showCannon() && (message.equals(CANNON_BASE_MESSAGE)
-			|| message.equals(CANNON_STAND_MESSAGE)
-			|| message.equals(CANNON_BARRELS_MESSAGE)
-			|| message.equals(CANNON_FURNACE_MESSAGE)
-			|| message.contains(CANNON_REPAIR_MESSAGE)))
+		if (config.showCannon())
 		{
-			TimerTimer cannonTimer = createGameTimer(CANNON);
-			cannonTimer.setTooltip(cannonTimer.getTooltip() + " - World " + client.getWorld());
-		}
-
-		if (config.showCannon() && (message.equals(CANNON_PICKUP_MESSAGE) || message.equals(CANNON_DESTROYED_MESSAGE)))
-		{
-			removeGameTimer(CANNON);
+			if (message.equals(CANNON_BASE_MESSAGE) || message.equals(CANNON_STAND_MESSAGE)
+				|| message.equals(CANNON_BARRELS_MESSAGE) || message.equals(CANNON_FURNACE_MESSAGE)
+				|| message.contains(CANNON_REPAIR_MESSAGE))
+			{
+				removeGameTimer(CANNON_REPAIR);
+				TimerTimer cannonTimer = createGameTimer(CANNON);
+				cannonTimer.setTooltip(cannonTimer.getTooltip() + " - World " + client.getWorld());
+			}
+			else if (message.equals(CANNON_BROKEN_MESSAGE))
+			{
+				removeGameTimer(CANNON);
+				TimerTimer cannonTimer = createGameTimer(CANNON_REPAIR);
+				cannonTimer.setTooltip(cannonTimer.getTooltip() + " - World " + client.getWorld());
+			}
+			else if (message.equals(CANNON_PICKUP_MESSAGE) || message.equals(CANNON_DESTROYED_MESSAGE))
+			{
+				removeGameTimer(CANNON);
+				removeGameTimer(CANNON_REPAIR);
+			}
 		}
 
 		if (config.showMagicImbue() && message.equals(MAGIC_IMBUE_MESSAGE))

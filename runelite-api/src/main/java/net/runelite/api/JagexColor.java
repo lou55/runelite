@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017, Adam <Adam@sigterm.info>
+ * Copyright (c) 2019 Abex
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -24,15 +24,41 @@
  */
 package net.runelite.api;
 
-/**
- * Utility class used for mapping projectile IDs.
- * <p>
- * Note: This class is not complete and may be missing mapped IDs.
- */
-public class ProjectileID
+import java.awt.Color;
+
+public final class JagexColor
 {
-	public static final int CANNONBALL = 53;
-	public static final int GRANITE_CANNONBALL = 1443;
-	public static final int TELEKINETIC_SPELL = 143;
-	public static final int ZALCANO_PROJECTILE_FIREBALL = 1728;
+	public static short packHSL(int hue, int saturation, int luminance)
+	{
+		return (short) ((short) (hue & 63) << 10
+			| (short) (saturation & 7) << 7
+			| (short) (luminance & 127));
+	}
+
+	public static short rgbToHSL(int rgb, double brightness)
+	{
+		if (rgb == 1)
+		{
+			return 0;
+		}
+
+		brightness = 1.D / brightness;
+
+		double r = (double) (rgb >> 16 & 255) / 256.0D;
+		double g = (double) (rgb >> 8 & 255) / 256.0D;
+		double b = (double) (rgb & 255) / 256.0D;
+
+		r = Math.pow(r, brightness);
+		g = Math.pow(g, brightness);
+		b = Math.pow(b, brightness);
+
+		float[] hsv = Color.RGBtoHSB((int) (r * 256.D), (int) (g * 256.D), (int) (b * 256.D), null);
+		double hue = hsv[0];
+		double luminance = hsv[2] - ((hsv[2] * hsv[1]) / 2.F);
+		double saturation = (hsv[2] - luminance) / Math.min(luminance, 1 - luminance);
+
+		return packHSL((int) (Math.ceil(hue * 64.D) % 63.D),
+			(int) Math.ceil(saturation * 7.D),
+			(int) Math.ceil(luminance * 127.D));
+	}
 }
