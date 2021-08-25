@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018, Adam <Adam@sigterm.info>
+ * Copyright (c) 2021, Adam <Adam@sigterm.info>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -22,24 +22,24 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package net.runelite.api;
+package net.runelite.client.plugins.npchighlight;
 
-/**
- * Represents a chat entity that has a name.
- */
-public interface Nameable extends Comparable<Nameable>
+import java.awt.Color;
+import lombok.Builder;
+import lombok.Value;
+import net.runelite.api.NPC;
+
+@Value
+@Builder
+public class HighlightedNpc
 {
-	/**
-	 * The name of the player.
-	 *
-	 * @return the name
-	 */
-	String getName();
-
-	/**
-	 * The previous name the player had.
-	 *
-	 * @return the previous name
-	 */
-	String getPrevName();
+	NPC npc;
+	Color highlightColor;
+	Color fillColor;
+	boolean hull;
+	boolean tile;
+	boolean swTile;
+	boolean outline;
+	boolean name;
+	boolean nameOnMinimap;
 }
