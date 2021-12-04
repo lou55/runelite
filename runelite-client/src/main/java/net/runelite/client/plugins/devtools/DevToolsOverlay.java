@@ -34,10 +34,19 @@ import java.awt.Polygon;
 import java.awt.Rectangle;
 import java.awt.Shape;
 import java.awt.geom.Rectangle2D;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 import javax.inject.Inject;
 import javax.inject.Singleton;
+import ch.qos.logback.classic.Level;
+import ch.qos.logback.classic.Logger;
+import com.google.common.collect.ImmutableList;
+import com.google.common.primitives.Ints;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonObject;
+import com.google.inject.Provides;
+import lombok.Getter;
 
 import net.runelite.api.*;
 import net.runelite.api.coords.LocalPoint;
@@ -74,6 +83,8 @@ class DevToolsOverlay extends Overlay
 	private final DevToolsPlugin plugin;
 	private final TooltipManager toolTipManager;
 
+	private ArrayList<TileItem> groundItems = new ArrayList<TileItem>();
+
 	@Inject
 	private DevToolsOverlay(Client client, DevToolsPlugin plugin, TooltipManager toolTipManager)
 	{
@@ -105,7 +116,7 @@ class DevToolsOverlay extends Overlay
 			renderNpcs(graphics);
 		}
 
-		if (plugin.getGroundItems().isActive() || plugin.getGroundObjects().isActive() || plugin.getGameObjects().isActive() || plugin.getWalls().isActive() || plugin.getDecorations().isActive() || plugin.getTileLocation().isActive() || plugin.getMovementFlags().isActive())
+		if (plugin.getGroundItems().isActive() || plugin.getGrabItemDrops().isActive() || plugin.getGroundObjects().isActive() || plugin.getGameObjects().isActive() || plugin.getWalls().isActive() || plugin.getDecorations().isActive() || plugin.getTileLocation().isActive() || plugin.getMovementFlags().isActive())
 		{
 			renderTileObjects(graphics);
 		}
@@ -277,6 +288,11 @@ class DevToolsOverlay extends Overlay
 					renderGroundItems(graphics, tile, player);
 				}
 
+				if (plugin.getGrabItemDrops().isActive())
+				{
+					renderGroundItems(graphics, tile, player);
+				}
+
 				if (plugin.getGroundObjects().isActive())
 				{
 					renderTileObject(graphics, tile.getGroundObject(), player, PURPLE);
@@ -366,6 +382,20 @@ class DevToolsOverlay extends Overlay
 					TileItem item = (TileItem) current;
 					OverlayUtil.renderTileOverlay(graphics, itemLayer, "ID: " + item.getId() + " Qty:" + item.getQuantity(), RED);
 					current = current.getNext();
+
+					//Grab global item drops and push to json array in plugin tab
+					if (!groundItems.contains(item)) {
+						groundItems.add(item);
+						plugin.getGroundItemsToSave().put(item, tile);
+
+						final JsonObject onGroundItem = new JsonObject();
+						onGroundItem.addProperty("id", item.getId());
+						onGroundItem.addProperty("x", tile.getWorldLocation().getX());
+						onGroundItem.addProperty("y", tile.getWorldLocation().getY());
+
+						plugin.getGroundItemJsonArray().add(onGroundItem);
+						System.out.println("Ground item added!");
+					}
 				}
 			}
 		}

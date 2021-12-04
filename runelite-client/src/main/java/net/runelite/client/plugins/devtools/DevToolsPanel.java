@@ -147,6 +147,8 @@ class DevToolsPanel extends PluginPanel
 
 		container.add(plugin.getSoundEffects());
 
+		container.add(plugin.getGrabItemDrops());
+
 		final JButton notificationBtn = new JButton("Notification");
 		notificationBtn.addActionListener(e ->
 		{

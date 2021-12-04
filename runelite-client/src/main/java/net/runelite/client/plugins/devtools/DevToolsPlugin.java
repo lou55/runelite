@@ -81,7 +81,10 @@ public class DevToolsPlugin extends Plugin
 {
 
 	private boolean track = false;
+	private boolean trackingDrops = false;
 	private JsonArray array = new JsonArray();
+	private JsonArray groundItemJsonArray = new JsonArray();
+	private Map<TileItem, Tile> groundItemsToSave = new HashMap<TileItem, Tile>();
 	private final List<String> lines = new ArrayList<>();
 
 	private static final List<MenuAction> EXAMINE_MENU_ACTIONS = ImmutableList.of(MenuAction.EXAMINE_ITEM,
@@ -158,6 +161,7 @@ public class DevToolsPlugin extends Plugin
 	private DevToolsButton inventoryInspector;
 	private DevToolsButton roofs;
 	private DevToolsButton shell;
+	private DevToolsButton grabItemDrops;
 	private NavigationButton navButton;
 	private boolean switchedOn;
 
@@ -211,6 +215,8 @@ public class DevToolsPlugin extends Plugin
 		toggleTracking = new DevToolsButton("Toggle Tracking");
 		saveTrackedData = new DevToolsButton("Save Tracked Data");
 
+		grabItemDrops = new DevToolsButton("Grab Drops");
+
 		overlayManager.add(overlay);
 		overlayManager.add(locationOverlay);
 		overlayManager.add(sceneOverlay);
@@ -238,6 +244,39 @@ public class DevToolsPlugin extends Plugin
 			track = !track;
 
 			resetJsonArrays();
+		});
+
+		grabItemDrops.addActionListener(e -> {
+			trackingDrops = !trackingDrops;
+
+			if (!trackingDrops) {
+				//After clicking button off, Save json file of drops recorded
+				System.out.println("Save json");
+
+				Date date = new Date() ;
+				SimpleDateFormat dateFormat = new SimpleDateFormat("MM-dd HH-mm") ;
+
+				String fileName = JOptionPane.showInputDialog("Please input filename: ");
+
+				if ((fileName == null) || (fileName.length() == 0)) {
+					return;
+				}
+
+				File jsonFile = Paths.get("json_dumps", fileName+".json").toFile();
+				jsonFile.getParentFile().mkdir();
+
+				try {
+					jsonFile.createNewFile();
+					final FileWriter writer = new FileWriter(jsonFile);
+					final Gson gson = new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create();
+					gson.toJson(groundItemJsonArray, writer);
+					writer.flush();
+					writer.close();
+				} catch (IOException ex) {
+					ex.printStackTrace();
+				}
+			}
+
 		});
 
 		saveTrackedData.addActionListener(e -> {
