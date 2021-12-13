@@ -1,0 +1,115 @@
+GFX 68	level: 0, start_cycle: 136830, x: 8768, y: 8128
+AREA_SOUND 227	 delay: 3, range: 10, sceneX: 52, sceneY: 49
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 85
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 85
+GFX 68	level: 0, start_cycle: 136924, x: 6592, y: 4800
+GFX 68	level: 0, start_cycle: 136924, x: 6848, y: 4416
+GFX 68	level: 0, start_cycle: 136924, x: 7872, y: 4288
+GFX 68	level: 0, start_cycle: 136924, x: 8896, y: 4288
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 85
+AREA_SOUND 129	 delay: 106, range: 10, sceneX: 52, sceneY: 55
+SOUND 128	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	animation: 2869, gfx: 140
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 55, sceneY: 48
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	animation: 2868, gfx: 140
+GFX 68	level: 0, start_cycle: 137008, x: 9152, y: 8256
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	gfx: 140
+NPC 'Spinolyp (5961)'	gfx: 140
+GFX 68	level: 0, start_cycle: 137067, x: 9920, y: 4800
+SOUND 900	 delay: 0
+NPC 'Spinolyp (5961)'	gfx: 140
+AREA_SOUND 227	 delay: 3, range: 10, sceneX: 52, sceneY: 49
+AREA_SOUND 129	 delay: 106, range: 10, sceneX: 52, sceneY: 55
+SOUND 128	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	animation: 2868, gfx: 140
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	gfx: 140
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	gfx: 140
+NPC 'Spinolyp (5961)'	gfx: 140
+AREA_SOUND 227	 delay: 3, range: 10, sceneX: 52, sceneY: 49
+SOUND 900	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 85
+NPC 'Spinolyp (5961)'	animation: 2868, gfx: 140
+AREA_SOUND 129	 delay: 106, range: 10, sceneX: 52, sceneY: 55
+SOUND 128	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	animation: 2869, gfx: 140
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	animation: 2869, gfx: 140
+AREA_SOUND 227	 delay: 4, range: 10, sceneX: 61, sceneY: 48
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	animation: 2869, gfx: 140
+AREA_SOUND 1070	 delay: 0, range: 10, sceneX: 48, sceneY: 40
+AREA_SOUND 227	 delay: 3, range: 10, sceneX: 52, sceneY: 49
+AREA_SOUND 227	 delay: 5, range: 10, sceneX: 63, sceneY: 48
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 85
+NPC 'Spinolyp (5961)'	animation: 2868, gfx: 140
+GFX 68	level: 0, start_cycle: 137368, x: 6208, y: 5184
+GFX 68	level: 0, start_cycle: 137368, x: 7232, y: 4672
+GFX 68	level: 0, start_cycle: 137368, x: 7744, y: 8384
+SOUND 900	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 85
+NPC 'Spinolyp (5961)'	gfx: 140
+AREA_SOUND 129	 delay: 106, range: 10, sceneX: 52, sceneY: 55
+SOUND 128	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	animation: 2869, gfx: 140
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	animation: 2869, gfx: 140
+AREA_SOUND 227	 delay: 3, range: 10, sceneX: 52, sceneY: 49
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 85
+NPC 'Spinolyp (5961)'	animation: 2868, gfx: 140
+AREA_SOUND 1070	 delay: 0, range: 10, sceneX: 51, sceneY: 57
+PLAYER 'Lou Grinder'	 gfx: 85
+NPC 'Spinolyp (5961)'	gfx: 140
+GFX 68	level: 0, start_cycle: 137518, x: 6592, y: 7360
+SOUND 900	 delay: 0
+PLAYER 'Lou Grinder'	 gfx: 85
+NPC 'Spinolyp (5961)'	gfx: 140
+AREA_SOUND 227	 delay: 106, range: 10, sceneX: 52, sceneY: 55
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 51, sceneY: 57
+SOUND 128	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	animation: 2869, gfx: 85
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 86, x: 6592, y: 7360
+AREA_SOUND 212	 delay: 3, range: 10, sceneX: 52, sceneY: 49
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 95
+NPC 'Spinolyp (5961)'	animation: 2868, gfx: 85
+SOUND 32	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 95
+NPC 'Spinolyp (5961)'	gfx: 85
+SOUND 33	 delay: 20
+PLAYER 'Lou Grinder'	 gfx: 95
+NPC 'Spinolyp (5961)'	gfx: 85
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 51, sceneY: 57
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 95
+NPC 'Spinolyp (5961)'	gfx: 85
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 86, x: 6592, y: 7360
+AREA_SOUND 227	 delay: 3, range: 10, sceneX: 52, sceneY: 49
+AREA_SOUND 227	 delay: 106, range: 10, sceneX: 52, sceneY: 55
+SOUND 128	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	animation: 2868, gfx: 85
+GROUND_ITEM 229	 quantity 1	 spawnTime 3551
+SOUND 32	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	gfx: 85
+PLAYER 'Lou Grinder'	 animation: 1162, gfx: 138
+NPC 'Spinolyp (5961)'	gfx: 85
+AREA_SOUND 1070	 delay: 0, range: 10, sceneX: 52, sceneY: 55
+AREA_SOUND 1623	 delay: 0, range: 10, sceneX: 51, sceneY: 57
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Suspicious water (5948)'	gfx: 85
+PROJECTILE 294	startHeight: 50, endHeight: 108, slope: 25, duration: 86, x: 6592, y: 7360
+GFX 68	level: 0, start_cycle: 137819, x: 6720, y: 7104
+PLAYER 'Lou Grinder'	 animation: 1156
+GROUND_ITEM 6155	 quantity 1	 spawnTime 3555
+GROUND_ITEM 556	 quantity 174	 spawnTime 3555
+SOUND 31	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+PLAYER 'Lou Grinder'	 animation: 1156

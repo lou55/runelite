@@ -1,0 +1,6 @@
+1) C:\Users\Lou\AppData\Local\Temp\cache-165
+2) User files .runelite
+3) Merge master
+4) rebuild
+5) install
+6) delete .m2

@@ -1,0 +1,263 @@
+[
+  {
+    "server-tick": 3097,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2846, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3098,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 393,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2860
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "32, 20"
+      },
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3099,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 393,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "728, 0"
+      },
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3100,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)"
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "32, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3101,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "31, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3102,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3103,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 393,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2860
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "32, 20"
+      },
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3104,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 393,
+    "interacting": {
+      "npc": "Rock lobster (5944)"
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "728, 0"
+      },
+      {
+        "id, delay": "33, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3105,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "32, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3106,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)"
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3107,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "32, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3108,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 393,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2860
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "31, 20"
+      },
+      {
+        "id, delay": "33, 20"
+      },
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3109,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 393,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "728, 0"
+      },
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "31, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3110,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "33, 20"
+      },
+      {
+        "id, delay": "32, 20"
+      }
+    ]
+  }
+]

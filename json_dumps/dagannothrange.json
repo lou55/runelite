@@ -1,0 +1,127 @@
+[
+  {
+    "server-tick": 2828,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      },
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 2829,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "33, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2830,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "2847, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2831,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      },
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 2832,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "31, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2833,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "31, 20"
+      },
+      {
+        "id, delay": "2846, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2834,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      },
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 2835,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "32, 20"
+      },
+      {
+        "id, delay": "31, 20"
+      }
+    ]
+  }
+]

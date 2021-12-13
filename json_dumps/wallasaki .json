@@ -1,0 +1,168 @@
+[
+  {
+    "server-tick": 2722,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      }
+    ]
+  },
+  {
+    "server-tick": 2723,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "31, 20"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2724,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "33, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2725,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156
+  },
+  {
+    "server-tick": 2726,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2727,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      }
+    ]
+  },
+  {
+    "server-tick": 2728,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      }
+    ]
+  },
+  {
+    "server-tick": 2729,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "33, 20"
+      },
+      {
+        "id, delay": "33, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2730,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2846, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2731,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156
+  },
+  {
+    "server-tick": 2732,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2733,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      }
+    ]
+  },
+  {
+    "server-tick": 2734,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      }
+    ]
+  },
+  {
+    "server-tick": 2735,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "31, 20"
+      },
+      {
+        "id, delay": "2846, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2736,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "33, 20"
+      }
+    ]
+  }
+]

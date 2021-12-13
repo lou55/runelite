@@ -1,0 +1,40 @@
+PLAYER 'Lou Grinder'	 animation: 7618
+NPC 'Guard (3010)'	animation: 6488, gfx: 157
+SOUND 1979	 delay: 0
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 2847	 delay: 20
+SOUND 2706	 delay: 0
+SOUND 360	 delay: 37
+PLAYER 'Lou Grinder'	 animation: 7618
+NPC 'Guard (3010)'	animation: 6488, gfx: 157
+PLAYER 'Lou Grinder'	 animation: 7618
+NPC 'Guard (3010)'	animation: 6488, gfx: 157
+SOUND 1979	 delay: 0
+NPC 'Guard (3010)'	animation: 6488, gfx: 157
+SOUND 2549	 delay: 0
+SOUND 33	 delay: 20
+SOUND 2706	 delay: 0
+SOUND 360	 delay: 37
+PLAYER 'Lou Grinder'	 animation: 7618
+NPC 'Guard (3010)'	animation: 6488, gfx: 157
+PLAYER 'Lou Grinder'	 animation: 7618
+NPC 'Guard (3010)'	animation: 6488, gfx: 157
+SOUND 1979	 delay: 0
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 32	 delay: 20
+SOUND 2706	 delay: 0
+SOUND 360	 delay: 37
+PLAYER 'Lou Grinder'	 animation: 7618
+NPC 'Guard (3010)'	animation: 6488, gfx: 157
+PLAYER 'Lou Grinder'	 animation: 7618
+NPC 'Guard (3010)'	animation: 6488, gfx: 157
+SOUND 1979	 delay: 0
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 33	 delay: 20
+SOUND 2706	 delay: 0
+SOUND 360	 delay: 37
+PLAYER 'Lou Grinder'	 animation: 7618
+NPC 'Guard (3010)'	animation: 6488, gfx: 157

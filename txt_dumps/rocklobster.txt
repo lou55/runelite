@@ -1,0 +1,62 @@
+SOUND 726	 delay: 0
+SOUND 2846	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+SOUND 726	 delay: 0
+SOUND 32	 delay: 20
+SOUND 2555	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 393
+NPC 'Rock lobster (5944)'	animation: 2860
+SOUND 728	 delay: 0
+SOUND 726	 delay: 0
+SOUND 2847	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 393
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 32	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+SOUND 726	 delay: 0
+SOUND 31	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 2847	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 32	 delay: 20
+SOUND 2555	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 393
+NPC 'Rock lobster (5944)'	animation: 2860
+SOUND 726	 delay: 0
+SOUND 728	 delay: 0
+SOUND 33	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 393
+SOUND 726	 delay: 0
+SOUND 32	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 2847	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+SOUND 726	 delay: 0
+SOUND 32	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 726	 delay: 0
+SOUND 31	 delay: 20
+SOUND 33	 delay: 20
+SOUND 2555	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 393
+NPC 'Rock lobster (5944)'	animation: 2860
+SOUND 728	 delay: 0
+SOUND 726	 delay: 0
+SOUND 31	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 393
+NPC 'Rock lobster (5944)'	animation: 2859
+SOUND 726	 delay: 0
+SOUND 726	 delay: 0
+SOUND 33	 delay: 20
+SOUND 32	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Rock lobster (5944)'	animation: 2859

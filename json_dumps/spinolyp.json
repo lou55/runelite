@@ -1,0 +1,522 @@
+[
+  {
+    "server-tick": 3519,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 3520,
+    "game-state": "LOGGED_IN (30)",
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 136830
+      }
+    ]
+  },
+  {
+    "server-tick": 3521,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 3522,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85
+  },
+  {
+    "server-tick": 3523,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 136924
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 136924
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 136924
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 136924
+      }
+    ]
+  },
+  {
+    "server-tick": 3524,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Spinolyp (5961)"
+    }
+  },
+  {
+    "server-tick": 3525,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2869,
+      "gfx": 140
+    },
+    "sounds": [
+      {
+        "id, delay": "128, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3526,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2868,
+      "gfx": 140
+    },
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 137008
+      }
+    ]
+  },
+  {
+    "server-tick": 3527,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 140
+    }
+  },
+  {
+    "server-tick": 3528,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 140
+    },
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 137067
+      }
+    ]
+  },
+  {
+    "server-tick": 3529,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 140
+    },
+    "sounds": [
+      {
+        "id, delay": "900, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3530,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2868,
+      "gfx": 140
+    },
+    "sounds": [
+      {
+        "id, delay": "128, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3531,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 140
+    }
+  },
+  {
+    "server-tick": 3532,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 140
+    }
+  },
+  {
+    "server-tick": 3533,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 140
+    }
+  },
+  {
+    "server-tick": 3534,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2868,
+      "gfx": 140
+    },
+    "sounds": [
+      {
+        "id, delay": "900, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3535,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2869,
+      "gfx": 140
+    },
+    "sounds": [
+      {
+        "id, delay": "128, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3536,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2869,
+      "gfx": 140
+    }
+  },
+  {
+    "server-tick": 3537,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2869,
+      "gfx": 140
+    }
+  },
+  {
+    "server-tick": 3538,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2868,
+      "gfx": 140
+    },
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 137368
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 137368
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 137368
+      }
+    ]
+  },
+  {
+    "server-tick": 3539,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 140
+    },
+    "sounds": [
+      {
+        "id, delay": "900, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3540,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2869,
+      "gfx": 140
+    },
+    "sounds": [
+      {
+        "id, delay": "128, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3541,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2869,
+      "gfx": 140
+    }
+  },
+  {
+    "server-tick": 3542,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2868,
+      "gfx": 140
+    }
+  },
+  {
+    "server-tick": 3543,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 85,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 140
+    },
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 137518
+      }
+    ]
+  },
+  {
+    "server-tick": 3544,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 85,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 140
+    },
+    "sounds": [
+      {
+        "id, delay": "900, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3545,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2869,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "128, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 86"
+      }
+    ]
+  },
+  {
+    "server-tick": 3546,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 95,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2868,
+      "gfx": 85
+    }
+  },
+  {
+    "server-tick": 3547,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 95,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "32, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3548,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 95,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "33, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3549,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "gfx": 95,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 85
+    },
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 86"
+      }
+    ]
+  },
+  {
+    "server-tick": 3550,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "animation": 2868,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "128, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3551,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "32, 20"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "229, 1, 3551"
+      }
+    ]
+  },
+  {
+    "server-tick": 3552,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1162,
+    "gfx": 138,
+    "interacting": {
+      "npc": "Spinolyp (5961)",
+      "gfx": 85
+    }
+  },
+  {
+    "server-tick": 3553,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "interacting": {
+      "npc": "Suspicious water (5948)",
+      "gfx": 85
+    },
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 86"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 137819
+      }
+    ]
+  },
+  {
+    "server-tick": 3554,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156
+  },
+  {
+    "server-tick": 3555,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "31, 20"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "6155, 1, 3555"
+      },
+      {
+        "id, quantity, spawnTime": "556, 174, 3555"
+      }
+    ]
+  },
+  {
+    "server-tick": 3556,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1156
+  }
+]
