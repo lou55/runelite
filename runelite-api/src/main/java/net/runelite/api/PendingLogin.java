@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2019, Liam Edwards <http://github.com/Spedwards>
+ * Copyright (c) 2021, Adam <Adam@sigterm.info>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -22,51 +22,24 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package net.runelite.client.plugins.worldhopper;
+package net.runelite.api;
 
-import lombok.Getter;
-import lombok.RequiredArgsConstructor;
-import net.runelite.http.api.worlds.WorldRegion;
-
-@RequiredArgsConstructor
-enum RegionFilterMode
+/**
+ * A pending friend login/out. This is used to suppress world hop notifications
+ * by buffering the pending logins to try to match a pending logout with a pending
+ * login and cancel both.
+ */
+public interface PendingLogin
 {
-	AUSTRALIA(WorldRegion.AUSTRALIA),
-	GERMANY(WorldRegion.GERMANY),
-	UNITED_KINGDOM(WorldRegion.UNITED_KINGDOM)
-		{
-			@Override
-			public String toString()
-			{
-				return "U.K.";
-			}
-		},
-	UNITED_STATES(WorldRegion.UNITED_STATES_OF_AMERICA)
-		{
-			@Override
-			public String toString()
-			{
-				return "USA";
-			}
-		};
+	/**
+	 * The name of the player
+	 * @return
+	 */
+	String getName();
 
-	@Getter
-	private final WorldRegion region;
-
-	static RegionFilterMode of(WorldRegion region)
-	{
-		switch (region)
-		{
-			case UNITED_STATES_OF_AMERICA:
-				return UNITED_STATES;
-			case UNITED_KINGDOM:
-				return UNITED_KINGDOM;
-			case AUSTRALIA:
-				return AUSTRALIA;
-			case GERMANY:
-				return GERMANY;
-			default:
-				throw new IllegalStateException();
-		}
-	}
+	/**
+	 * The world the player logged into, or 0 if a logout.
+	 * @return
+	 */
+	short getWorld();
 }
