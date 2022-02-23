@@ -1,0 +1,38 @@
+SOUND 31	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 648
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 4, x: 4544, y: 9408
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 20, x: 6336, y: 6336
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 7872, y: 7872
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 60, x: 7232, y: 8128
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 68, x: 7232, y: 8000
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 7232, y: 7872
+PROJECTILE 249	startHeight: 11, endHeight: 144, slope: 15, duration: 28, x: 7360, y: 8128
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 52, x: 7360, y: 8256
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 52, x: 7232, y: 8256
+SOUND 1727	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 648
+AREA_SOUND 198	 delay: 0, range: 5, sceneX: 41, sceneY: 52
+PROJECTILE 15	startHeight: 11, endHeight: 144, slope: 15, duration: 20, x: 5952, y: 6208
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 41, x: 5952, y: 8384
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 7104, y: 7872
+AREA_SOUND 198	 delay: 0, range: 5, sceneX: 43, sceneY: 54
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 48, sceneY: 48
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 648
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 68, x: 5568, y: 9920
+SOUND 2847	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 648
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 17, x: 6336, y: 6336
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 7872, y: 7872
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 57, x: 7232, y: 8128
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 65, x: 7232, y: 8000
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 7232, y: 7872
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 49, x: 7360, y: 8256
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 49, x: 7232, y: 8256
+SOUND 1727	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 648
+PROJECTILE 15	startHeight: 11, endHeight: 144, slope: 15, duration: 23, x: 5952, y: 6208
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 41, x: 5952, y: 8384
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 7104, y: 7872
+PROJECTILE 249	startHeight: 11, endHeight: 144, slope: 15, duration: 35, x: 7360, y: 8128

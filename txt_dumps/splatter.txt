@@ -1,0 +1,81 @@
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+SOUND 811	 delay: 0
+SOUND 33	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 657
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+SOUND 809	 delay: 0
+SOUND 2847	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 657
+NPC 'Splatter (1691)'	animation: 3891
+PROJECTILE 15	startHeight: 11, endHeight: 144, slope: 15, duration: 19, x: 9152, y: 3776
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 31	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+NPC 'Splatter (1691)'	animation: 3891
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 21, x: 5056, y: 1856
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 53, x: 5568, y: 2368
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 5, x: 9024, y: 3904
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+SOUND 811	 delay: 0
+SOUND 33	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 21, x: 5056, y: 1728
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 657
+PROJECTILE 15	startHeight: 11, endHeight: 144, slope: 15, duration: 19, x: 9152, y: 3776
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+SOUND 809	 delay: 0
+SOUND 2847	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 657
+NPC 'Splatter (1691)'	animation: 3891
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 52, x: 5568, y: 2240
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 12, x: 8000, y: 1984
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 12, x: 9024, y: 4032
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+SOUND 2846	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 811	 delay: 0
+SOUND 31	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 20, x: 5056, y: 1728
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 810	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 657
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 8128, y: 1984
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 18, x: 8000, y: 2112
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 657
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+SOUND 2847	 delay: 20
+SOUND 521	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 657
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 18, x: 5056, y: 1856
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 50, x: 5568, y: 2368
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6720, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 9024, y: 3904
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+SOUND 2847	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 657
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 26, x: 5056, y: 1728
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 657
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+PLAYER 'Lou Grinder'	 animation: 388, gfx: 657
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 50, x: 5568, y: 2240
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 8000, y: 1984
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 9024, y: 4032
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10

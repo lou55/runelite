@@ -1,0 +1,219 @@
+[
+  {
+    "server-tick": 6557,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Portal (1750)"
+    },
+    "sounds": [
+      {
+        "id, delay": "31, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 4"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 20"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 76"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 60"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 68"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 76"
+      },
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 28"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 52"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 52"
+      }
+    ]
+  },
+  {
+    "server-tick": 6558,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Portal (1750)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1727, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6559,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Portal (1750)"
+    },
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 41"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      }
+    ]
+  },
+  {
+    "server-tick": 6560,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Portal (1750)"
+    },
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 68"
+      }
+    ]
+  },
+  {
+    "server-tick": 6561,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Portal (1750)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2847, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 17"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 57"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 65"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 49"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 49"
+      }
+    ]
+  },
+  {
+    "server-tick": 6562,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Portal (1750)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1727, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 6563,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Portal (1750)"
+    },
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 41"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 35"
+      }
+    ]
+  }
+]

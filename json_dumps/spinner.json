@@ -1,0 +1,1293 @@
+[
+  {
+    "server-tick": 6466,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6467,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 6468,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "32, 20"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 37"
+      },
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 35"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 19"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 99"
+      }
+    ]
+  },
+  {
+    "server-tick": 6469,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "33, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 82"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      }
+    ]
+  },
+  {
+    "server-tick": 6470,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "pos": "8213, 3724, 0",
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6471,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 6472,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2846, 20"
+      },
+      {
+        "id, delay": "31, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 43"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 19"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 99"
+      }
+    ]
+  },
+  {
+    "server-tick": 6473,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2847, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 81"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 97"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 97"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 97"
+      }
+    ]
+  },
+  {
+    "server-tick": 6474,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 37"
+      }
+    ]
+  },
+  {
+    "server-tick": 6475,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6476,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "32, 20"
+      },
+      {
+        "id, delay": "33, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 23"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 44"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 20"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 76"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 6477,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "31, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 36"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 82"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      }
+    ]
+  },
+  {
+    "server-tick": 6478,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6479,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 6480,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2847, 20"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 42"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 18"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      }
+    ]
+  },
+  {
+    "server-tick": 6481,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "31, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 84"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 100"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 100"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 76"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 6482,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6483,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      }
+    ]
+  },
+  {
+    "server-tick": 6484,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "32, 20"
+      },
+      {
+        "id, delay": "32, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 6485,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "pos": "8212, 3725, 0",
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2846, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 85"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 101"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 101"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 77"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 101"
+      }
+    ]
+  },
+  {
+    "server-tick": 6486,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "pos": "8213, 3725, 0",
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6487,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 6488,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "33, 20"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 41"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 17"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 97"
+      }
+    ]
+  },
+  {
+    "server-tick": 6489,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "33, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 35"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 89"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 89"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 97"
+      }
+    ]
+  },
+  {
+    "server-tick": 6490,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 6491,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 6492,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "31, 20"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 35"
+      },
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 41"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 17"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 97"
+      }
+    ]
+  },
+  {
+    "server-tick": 6493,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 648,
+    "pos": "8214, 3726, 0",
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "32, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 91"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 91"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 91"
+      }
+    ]
+  },
+  {
+    "server-tick": 6494,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 648,
+    "pos": "8215, 3727, 0",
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6495,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 39"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 77"
+      }
+    ]
+  },
+  {
+    "server-tick": 6496,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 657,
+    "pos": "8215, 3728, 0",
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "32, 20"
+      },
+      {
+        "id, delay": "2847, 20"
+      },
+      {
+        "id, delay": "31, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 26"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 18"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 42"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      }
+    ]
+  },
+  {
+    "server-tick": 6497,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2847, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6498,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 24"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 61"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 53"
+      }
+    ]
+  },
+  {
+    "server-tick": 6499,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6500,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2846, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 27"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 19"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 43"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 99"
+      }
+    ]
+  },
+  {
+    "server-tick": 6501,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2847, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 26"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 6502,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 60"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 52"
+      }
+    ]
+  },
+  {
+    "server-tick": 6503,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      }
+    ]
+  },
+  {
+    "server-tick": 6504,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2847, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 24"
+      },
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 6505,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)"
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 76"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 52"
+      }
+    ]
+  },
+  {
+    "server-tick": 6506,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6507,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Spinner (1711)",
+      "animation": 3909
+    },
+    "sounds": [
+      {
+        "id, delay": "807, 0"
+      },
+      {
+        "id, delay": "32, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 29"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 85"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 77"
+      }
+    ]
+  }
+]

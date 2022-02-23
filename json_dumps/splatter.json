@@ -1,0 +1,316 @@
+[
+  {
+    "server-tick": 6414,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Splatter (1691)"
+    },
+    "sounds": [
+      {
+        "id, delay": "811, 0"
+      },
+      {
+        "id, delay": "33, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6415,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Splatter (1691)"
+    }
+  },
+  {
+    "server-tick": 6416,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Splatter (1691)",
+      "animation": 3891
+    },
+    "sounds": [
+      {
+        "id, delay": "809, 0"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 6417,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Splatter (1691)",
+      "animation": 3891
+    },
+    "sounds": [
+      {
+        "id, delay": "31, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 21"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 53"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 5"
+      }
+    ]
+  },
+  {
+    "server-tick": 6418,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Splatter (1691)"
+    },
+    "sounds": [
+      {
+        "id, delay": "811, 0"
+      },
+      {
+        "id, delay": "33, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 6419,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Splatter (1691)"
+    },
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 6420,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Splatter (1691)",
+      "animation": 3891
+    },
+    "sounds": [
+      {
+        "id, delay": "809, 0"
+      },
+      {
+        "id, delay": "2847, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 52"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 12"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 6421,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Splatter (1691)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2846, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6422,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Splatter (1691)"
+    },
+    "sounds": [
+      {
+        "id, delay": "811, 0"
+      },
+      {
+        "id, delay": "31, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6423,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "sounds": [
+      {
+        "id, delay": "810, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 6424,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657
+  },
+  {
+    "server-tick": 6425,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "sounds": [
+      {
+        "id, delay": "2847, 20"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 18"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 6426,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "sounds": [
+      {
+        "id, delay": "2847, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 6427,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657
+  },
+  {
+    "server-tick": 6428,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 657,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      }
+    ]
+  }
+]
