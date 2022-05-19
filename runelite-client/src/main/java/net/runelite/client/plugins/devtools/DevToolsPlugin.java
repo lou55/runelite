@@ -635,7 +635,7 @@ public class DevToolsPlugin extends Plugin
 	JsonArray areaSounds = new JsonArray();
 	JsonArray groundItemArray = new JsonArray();
 
-	@Subscribe
+/*	@Subscribe
 	public void onItemSpawned(ItemSpawned itemSpawned)
 	{
 		final TileItem tileItem = itemSpawned.getItem();
@@ -643,7 +643,7 @@ public class DevToolsPlugin extends Plugin
 		groundItem.addProperty("id, quantity, spawnTime", tileItem.getId()+", "+tileItem.getQuantity()+", "+tileItem.getSpawnTime());
 		groundItemArray.add(groundItem);
 		save("GROUND_ITEM "+tileItem.getId()+"\t quantity "+tileItem.getQuantity()+"\t spawnTime "+tileItem.getSpawnTime());
-	}
+	}*/
 
 	@Subscribe
 	public void onSoundEffectPlayed(SoundEffectPlayed soundEffectPlayed){
