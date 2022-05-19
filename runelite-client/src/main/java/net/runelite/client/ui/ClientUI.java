@@ -488,7 +488,7 @@ public class ClientUI
 			}
 
 			// Update config
-			updateFrameConfig(true);
+			updateFrameConfig(false);
 
 			// Create hide sidebar button
 
@@ -596,6 +596,8 @@ public class ClientUI
 
 			// Show frame
 			frame.setVisible(true);
+			// On macos setResizable needs to be called after setVisible
+			frame.setResizable(!config.lockWindowSize());
 			frame.toFront();
 			requestFocus();
 			log.info("Showing frame {}", frame);
@@ -983,6 +985,13 @@ public class ClientUI
 
 		int width = panel.getWrappedPanel().getPreferredSize().width;
 		int expandBy = pluginPanel != null ? pluginPanel.getWrappedPanel().getPreferredSize().width - width : width;
+
+		// Deactivate previously active panel
+		if (pluginPanel != null)
+		{
+			pluginPanel.onDeactivate();
+		}
+
 		pluginPanel = panel;
 
 		// Expand sidebar

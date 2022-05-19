@@ -11,3 +11,4 @@ project.properties
 .vscode
 .factorypath
 json_dumps/Content/clip0039.avi
+.DS_Store

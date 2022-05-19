@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017, Adam <Adam@sigterm.info>
+ * Copyright (c) 2022 Abex
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -22,50 +22,9 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package net.runelite.client.plugins.examine;
+package net.runelite.cache.util;
 
-import java.util.Objects;
-
-class CacheKey
+public interface KeyProvider
 {
-	private final ExamineType type;
-	private final int id;
-
-	public CacheKey(ExamineType type, int id)
-	{
-		this.type = type;
-		this.id = id;
-	}
-
-	@Override
-	public int hashCode()
-	{
-		int hash = 3;
-		hash = 23 * hash + Objects.hashCode(this.type);
-		hash = 23 * hash + this.id;
-		return hash;
-	}
-
-	@Override
-	public boolean equals(Object obj)
-	{
-		if (this == obj)
-		{
-			return true;
-		}
-		if (obj == null)
-		{
-			return false;
-		}
-		if (getClass() != obj.getClass())
-		{
-			return false;
-		}
-		final CacheKey other = (CacheKey) obj;
-		if (this.id != other.id)
-		{
-			return false;
-		}
-		return this.type == other.type;
-	}
+	int[] getKey(int region);
 }

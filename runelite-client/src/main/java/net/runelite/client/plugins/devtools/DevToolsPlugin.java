@@ -140,7 +140,6 @@ public class DevToolsPlugin extends Plugin
 	private DevToolsButton graphicsObjects;
 	private DevToolsButton walls;
 	private DevToolsButton decorations;
-	private DevToolsButton inventory;
 	private DevToolsButton projectiles;
 	private DevToolsButton location;
 	private DevToolsButton chunkBorders;
@@ -186,7 +185,6 @@ public class DevToolsPlugin extends Plugin
 		walls = new DevToolsButton("Walls");
 		decorations = new DevToolsButton("Decorations");
 
-		inventory = new DevToolsButton("Inventory");
 		projectiles = new DevToolsButton("Projectiles");
 
 		location = new DevToolsButton("Location");
@@ -802,7 +800,7 @@ public class DevToolsPlugin extends Plugin
 			proj.addProperty("id", projectile.getId());
 			proj.addProperty("heights", projectile.getStartHeight() + ", " + projectile.getEndHeight());
 			proj.addProperty("slope, duration", projectile.getSlope() + ", " + projectile.getRemainingCycles());
-			final int projTick = projectile.getStartMovementCycle();
+			final int projTick = projectile.getStartCycle();
 			final int clientCycle = client.getGameCycle();
 			if (projTick > clientCycle && projTick < clientCycle + 15) {
 				addedProjectiles.add(proj);
@@ -840,4 +838,13 @@ public class DevToolsPlugin extends Plugin
 		Collections.addAll(this.lines, lines);
 	}
 
+
+	@Subscribe
+	public void onScriptCallbackEvent(ScriptCallbackEvent ev)
+	{
+		if ("devtoolsEnabled".equals(ev.getEventName()))
+		{
+			client.getIntStack()[client.getIntStackSize() - 1] = 1;
+		}
+	}
 }
