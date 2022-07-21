@@ -22,18 +22,12 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package net.runelite.client.plugins.party.messages;
+package net.runelite.client.party.messages;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import net.runelite.api.Skill;
-import net.runelite.http.api.ws.messages.party.PartyMemberMessage;
+import lombok.Value;
 
-@AllArgsConstructor
-@Getter
-public class SkillUpdate extends PartyMemberMessage
+@Value
+public class PartyChatMessage extends PartyMemberMessage
 {
-	private final Skill skill;
-	private final int value;
-	private final int max;
+	private final String value;
 }

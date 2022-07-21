@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018, Adam <Adam@sigterm.info>
+ * Copyright (c) 2022, Adam <Adam@sigterm.info>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -22,29 +22,15 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package net.runelite.api.events;
-
-import lombok.Data;
-import net.runelite.api.DecorativeObject;
-import net.runelite.api.Tile;
+package net.runelite.api;
 
 /**
- * An event where the {@link DecorativeObject} attached to a {@link Tile}
- * has been modified.
+ * Represents overridden color/texture replacements for an item. These overrides are used instead
+ * of the normal ones configured in the item composition.
  */
-@Data
-public class DecorativeObjectChanged
+public interface ColorTextureOverride
 {
-	/**
-	 * The affected tile.
-	 */
-	private Tile tile;
-	/**
-	 * The decorative object that has been replaced.
-	 */
-	private DecorativeObject previous;
-	/**
-	 * The new decoration for the tile.
-	 */
-	private DecorativeObject decorativeObject;
+	short[] getColorToReplaceWith();
+
+	short[] getTextureToReplaceWith();
 }

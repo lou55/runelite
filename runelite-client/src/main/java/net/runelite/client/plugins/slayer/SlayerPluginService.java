@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2021, Jonathan Rousseau <https://github.com/JoRouss>
+ * Copyright (c) 2022, Adam <Adam@sigterm.info>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -22,13 +22,28 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package net.runelite.client.plugins.party.messages;
+package net.runelite.client.plugins.slayer;
 
-import lombok.Data;
-import net.runelite.http.api.ws.messages.party.PartyMemberMessage;
+import java.util.List;
+import javax.annotation.Nullable;
+import net.runelite.api.NPC;
 
-@Data
-public class CharacterNameUpdate extends PartyMemberMessage
+public interface SlayerPluginService
 {
-	private final String characterName;
+	/**
+	 * Get targets for current slayer task
+	 *
+	 * @return pattern list of target npc
+	 */
+	List<NPC> getTargets();
+
+	@Nullable
+	String getTask();
+
+	@Nullable
+	String getTaskLocation();
+
+	int getInitialAmount();
+
+	int getRemainingAmount();
 }
