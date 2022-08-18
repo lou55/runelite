@@ -1,5 +1,4 @@
 /*
- * Copyright (c) 2017, Tyler <https://github.com/tylerthardy>
  * Copyright (c) 2022, Adam <Adam@sigterm.info>
  * All rights reserved.
  *
@@ -23,45 +22,17 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package net.runelite.client.plugins.runepouch;
+package net.runelite.api.annotations;
 
-import java.awt.Color;
-import net.runelite.client.config.Config;
-import net.runelite.client.config.ConfigGroup;
-import net.runelite.client.config.ConfigItem;
+import java.lang.annotation.Documented;
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+import net.runelite.api.HitsplatID;
+import org.intellij.lang.annotations.MagicConstant;
 
-@ConfigGroup("runepouch")
-public interface RunepouchConfig extends Config
+@MagicConstant(valuesFromClass = HitsplatID.class)
+@Documented
+@Retention(RetentionPolicy.SOURCE)
+public @interface HitsplatType
 {
-	enum RunepouchOverlayMode
-	{
-		// only show item overlay
-		INVENTORY,
-		// only show tooltip
-		MOUSE_HOVER,
-		// show both tooltip and item overlay
-		BOTH
-	}
-
-	@ConfigItem(
-		keyName = "fontcolor",
-		name = "Font Color",
-		description = "Color of the font for the number of runes in pouch",
-		position = 1
-	)
-	default Color fontColor()
-	{
-		return Color.yellow;
-	}
-
-	@ConfigItem(
-		keyName = "runePouchOverlayMode",
-		name = "Display mode",
-		description = "Configures where rune pouch overlay is displayed",
-		position = 3
-	)
-	default RunepouchOverlayMode runePouchOverlayMode()
-	{
-		return RunepouchOverlayMode.BOTH;
-	}
 }
